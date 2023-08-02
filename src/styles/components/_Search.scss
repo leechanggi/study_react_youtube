@@ -1,0 +1,20 @@
+@use '../common/variable' as *;
+@use '../util' as *;
+
+.search {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 20px;
+	@include theme-picker(border-color, border-color);
+	&_input {
+		display: block;
+		width: 100%;
+		height: 100%;
+		padding: 0 16px;
+	}
+}

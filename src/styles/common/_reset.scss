@@ -1,3 +1,5 @@
+@use './variable' as *;
+
 body,
 button,
 dd,
@@ -32,7 +34,7 @@ input,
 select,
 table,
 textarea {
-	font-family: 'Noto Sans KR', 'Noto Sans', -apple-system, BlinkMacSystemFont, 'Malgun Gothic', '맑은 고딕', helvetica, 'Apple SD Gothic Neo', sans-serif;
+	font-family: $base_font-family;
 	font-size: 16px;
 	line-height: 1.5;
 }
@@ -100,6 +102,7 @@ i {
 }
 * {
 	outline: none;
+	box-sizing: border-box;
 }
 .sr-only {
 	position: absolute;

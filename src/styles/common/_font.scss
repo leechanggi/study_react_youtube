@@ -1,0 +1,36 @@
+/* noto-sans-kr-regular - korean_latin */
+@font-face {
+	font-display: swap;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../../public/asset/fonts/noto-sans-kr-v27-korean_latin-regular.woff2') format('woff2');
+	unicode-range: U+AC00-D7A3;
+}
+
+/* noto-sans-kr-700 - korean_latin */
+@font-face {
+	font-display: swap;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	src: url('../../../public/asset/fonts/noto-sans-kr-v27-korean_latin-700.woff2') format('woff2');
+	unicode-range: U+AC00-D7A3;
+}
+
+/* noto-sans-regular - latin */
+@font-face {
+	font-display: swap;
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../../public/asset/fonts/noto-sans-v30-latin-regular.woff2') format('woff2');
+}
+/* noto-sans-700 - latin */
+@font-face {
+	font-display: swap;
+	font-family: 'Noto Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url('../../../public/asset/fonts/noto-sans-v30-latin-700.woff2') format('woff2');
+}

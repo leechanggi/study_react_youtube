@@ -2,19 +2,19 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Header from "./components/Header";
 import Home from "./pages/Home";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Home />,
-  },
-]);
-
 function App({ videoService }: any) {
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <Home videoService={videoService} />,
+    },
+  ]);
+
   return (
     <div id="App" className="app">
       <Header />
       <div className="container">
-        <RouterProvider router={router} /*videoService={videoService}*/ />
+        <RouterProvider router={router} />
       </div>
     </div>
   );

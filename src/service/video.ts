@@ -1,6 +1,9 @@
+import HttpClient from "../network/http";
+
 export default class VideoService {
-  http: any;
-  constructor(httpClient: any) {
+  private http: HttpClient;
+
+  constructor(httpClient: HttpClient) {
     this.http = httpClient;
   }
 }

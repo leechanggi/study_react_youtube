@@ -1,11 +1,12 @@
-@use '../common/variable' as *;
-@use '../util' as *;
+@use "../common/variable" as *;
+@use "../util" as *;
 
 .video {
-	&_list {
-		display: flex;
-		justify-content: flex-start;
-		align-items: flex-start;
-		flex-wrap: wrap;
-	}
+  padding: 0 8px;
+  &_list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
 }

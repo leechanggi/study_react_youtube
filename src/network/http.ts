@@ -1,12 +1,12 @@
 import axios, { AxiosRequestConfig, AxiosResponse, AxiosError } from "axios";
 import axiosRetry from "axios-retry";
 
-interface RetryConfig {
+interface IRetryConfig {
   retries: number;
   retryDelaySec: number;
 }
 
-const defaultRetryConfig: RetryConfig = {
+const retryConfig: IRetryConfig = {
   retries: 5,
   retryDelaySec: 250,
 };
@@ -14,7 +14,7 @@ const defaultRetryConfig: RetryConfig = {
 export default class HttpClient {
   private client;
 
-  constructor(baseURL: string, config: RetryConfig = defaultRetryConfig) {
+  constructor(baseURL: string, config: IRetryConfig = retryConfig) {
     this.client = axios.create({
       baseURL,
       headers: { "Content-Type": "application/json" },

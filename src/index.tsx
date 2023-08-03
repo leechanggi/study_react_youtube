@@ -6,8 +6,8 @@ import VideoService from "./service/video";
 
 import "./styles/index.scss";
 
-const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL;
-const httpClient = typeof YOUTUBE_URL === "string" && new HttpClient(YOUTUBE_URL);
+const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
+const httpClient = new HttpClient(YOUTUBE_URL);
 const videoService = new VideoService(httpClient);
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);

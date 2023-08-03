@@ -7,13 +7,15 @@ $base_mobile-width: 768px;
 
 $theme: (
 	light: (
-		background-color: #ffffff,
 		color: #000000,
+		color_1: #606060,
 		border-color: #cccccc,
+		background-color: #ffffff,
 	),
 	dark: (
-		background-color: #000000,
 		color: #ffffff,
+		color_1: #ffffff,
 		border-color: #cccccc,
+		background-color: #000000,
 	),
 );

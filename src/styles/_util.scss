@@ -55,7 +55,7 @@ $rem-base: $base_font-size !default;
 	}
 }
 
-@mixin theme-picker($property, $color) {
+@mixin theme-picker($property, $color: $property) {
 	#{$property}: get-color($color);
 	@at-root body[data-theme='dark'] & {
 		#{$property}: get-color($color, dark);

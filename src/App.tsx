@@ -1,23 +1,23 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Header from './components/Header';
-import Home from './pages/Home';
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Header from "./components/Header";
+import Home from "./pages/Home";
 
 const router = createBrowserRouter([
-	{
-		path: '/',
-		element: <Home />,
-	},
+  {
+    path: "/",
+    element: <Home />,
+  },
 ]);
 
-function App() {
-	return (
-		<div id="App" className="App">
-			<div id="container">
-				<Header />
-				<RouterProvider router={router} />
-			</div>
-		</div>
-	);
+function App({ videoService }: any) {
+  return (
+    <div id="App" className="app">
+      <Header />
+      <div className="container">
+        <RouterProvider router={router} /*videoService={videoService}*/ />
+      </div>
+    </div>
+  );
 }
 
 export default App;

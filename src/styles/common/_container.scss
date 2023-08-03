@@ -1,9 +1,22 @@
 @use './variable' as *;
+@use '../util' as *;
 
-#container {
+#App {
 	position: relative;
 	min-height: 100vh;
 	font-family: $base_font-family;
 	font-size: 16px;
 	line-height: 1.5;
+	@include theme-picker(color);
+	@include theme-picker(background-color);
+
+	.container {
+		width: $base_laptop-width;
+		margin: 0 auto;
+		padding: 64px 0 0;
+
+		> *:first-child {
+			padding: 24px 0 0;
+		}
+	}
 }

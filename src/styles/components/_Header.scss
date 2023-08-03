@@ -2,9 +2,13 @@
 @use '../util' as *;
 
 .header {
+	position: fixed;
+	top: 0;
+	left: 50%;
 	width: 100%;
-	@include theme-picker(color, color);
-	@include theme-picker(background-color, background-color);
+	transform: translateX(-50%);
+	@include theme-picker(color);
+	@include theme-picker(background-color);
 	&_content {
 		width: $base_laptop-width;
 		height: 100%;
@@ -14,7 +18,7 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		height: 56px;
+		height: 64px;
 		padding: 0 16px;
 		.logo {
 			position: relative;

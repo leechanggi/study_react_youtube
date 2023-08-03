@@ -1,0 +1,43 @@
+@use '../common/variable' as *;
+@use '../util' as *;
+
+.video {
+	&_item {
+		width: 25%;
+		margin: 0 0 40px;
+		padding: 0 8px;
+		.item {
+			&_img {
+				display: block;
+				width: 100%;
+				border-radius: 12px;
+			}
+			&_info {
+				display: flex;
+				justify-content: flex-start;
+				align-items: flex-start;
+				margin: 12px 0 0;
+				.info {
+					&_img {
+						img {
+							display: block;
+							width: 36px;
+							height: 36px;
+							border-radius: 50%;
+							object-fit: cover;
+						}
+					}
+					&_data {
+						padding: 0 0 0 12px;
+						.data {
+							&_channelTitle {
+								font-size: rem-calc(14);
+								@include theme-picker(color, color_1);
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

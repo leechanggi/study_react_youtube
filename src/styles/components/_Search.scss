@@ -10,11 +10,35 @@
 	border-width: 1px;
 	border-style: solid;
 	border-radius: 20px;
-	@include theme-picker(border-color, border-color);
+	@include theme-picker(border-color);
 	&_input {
 		display: block;
 		width: 100%;
 		height: 100%;
-		padding: 0 16px;
+		padding: 0 56px 0 16px;
+		@include theme-picker(color);
+		@include theme-picker(background-color);
+	}
+	&_button {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 56px;
+		height: 100%;
+		border-left-width: 1px;
+		border-style: solid;
+		@include theme-picker(border-color);
+		@include theme-picker(background-color);
+		&::after {
+			position: absolute;
+			top: 50%;
+			right: 20px;
+			width: 20px;
+			height: 20px;
+			content: '';
+			transform: translateY(-50%);
+			background: url(../../../public/asset/images/ico_search.png) no-repeat 50% 50%;
+			background-size: cover;
+		}
 	}
 }

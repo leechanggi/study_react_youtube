@@ -1,47 +1,51 @@
-@use '../common/variable' as *;
-@use '../util' as *;
+@use "../common/variable" as *;
+@use "../util" as *;
 
 .header {
-	position: fixed;
-	top: 0;
-	left: 50%;
-	width: 100%;
-	transform: translateX(-50%);
-	@include theme-picker(color);
-	@include theme-picker(background-color);
-	&_content {
-		width: $base_laptop-width;
-		height: 100%;
-		margin: 0 auto;
-	}
-	&_gnb {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		height: 64px;
-		padding: 0 16px;
-		.logo {
-			position: relative;
-			padding-left: 32px;
-			font-family: $base_font-family_logo;
-			font-size: rem-calc(18);
-			font-weight: 700;
-			&::before {
-				position: absolute;
-				top: 50%;
-				left: 0;
-				width: 28px;
-				height: 28px;
-				margin-top: -14px;
-				content: '';
-				background: url(../../../public/asset/images/ico_logo.png) no-repeat center/cover;
-			}
-		}
-		.form {
-			width: 256px;
-			height: 40px;
-		}
-	}
-	&_fnb {
-	}
+  position: fixed;
+  top: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+  @include theme-picker(color);
+  @include theme-picker(background-color);
+  &_content {
+    width: $base_laptop-width;
+    height: 100%;
+    margin: 0 auto;
+  }
+  &_gnb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+    padding: 0 16px;
+    .logo {
+      position: relative;
+      padding-left: 32px;
+      font-family: $base_font-family_logo;
+      font-size: rem-calc(18);
+      font-weight: 700;
+      &::before {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 28px;
+        height: 28px;
+        margin-top: -14px;
+        content: "";
+        background: url(../../../public/asset/images/ico_logo.png) no-repeat center/cover;
+      }
+    }
+    .form-wrap {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .form {
+      width: 256px;
+      height: 40px;
+      padding-right: 16px;
+    }
+  }
 }

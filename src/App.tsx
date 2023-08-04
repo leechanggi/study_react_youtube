@@ -1,8 +1,16 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import VideoService from "./service/video";
+
 import Header from "./components/Header";
 import Home from "./pages/Home";
 
-function App({ videoService }: any) {
+import ThemeContextProvider from "./contexts/ThemeContextProvider";
+
+export interface PApp {
+  videoService: VideoService;
+}
+
+function App({ videoService }: PApp) {
   const router = createBrowserRouter([
     {
       path: "/",
@@ -11,12 +19,14 @@ function App({ videoService }: any) {
   ]);
 
   return (
-    <div id="App" className="app">
-      <Header />
-      <div className="container">
-        <RouterProvider router={router} />
+    <ThemeContextProvider>
+      <div id="App" className="app">
+        <Header />
+        <div className="container">
+          <RouterProvider router={router} />
+        </div>
       </div>
-    </div>
+    </ThemeContextProvider>
   );
 }
 

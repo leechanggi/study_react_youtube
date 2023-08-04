@@ -17,7 +17,9 @@ export default class HttpClient {
   constructor(baseURL: string, config: IRetryConfig = retryConfig) {
     this.client = axios.create({
       baseURL,
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+      },
       withCredentials: true,
     });
 

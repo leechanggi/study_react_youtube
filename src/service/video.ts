@@ -9,18 +9,8 @@ export default class VideoService {
 
   // For Dev
   async getVideoItems() {
-    return this.http.fetch("/data/videos.json", {
+    return this.http.fetch("/data/hotTrend.json", {
       method: "GET",
     });
   }
-
-  // For DEP
-  // async getVideoItems() {
-  //   return this.http.fetch(
-  //     "/search?part=snippet&maxResults=25&q=bts&key=AIzaSyBQie5S9a3IrxNgedoRi0wmIcACLHenYAE",
-  //     {
-  //       method: "GET",
-  //     }
-  //   );
-  // }
 }

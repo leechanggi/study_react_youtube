@@ -1,14 +1,9 @@
 import { Link } from "react-router-dom";
-import { IVideo } from "./VideoList";
 
-export interface PropsVideoItem {
-  data: IVideo;
-}
-
-export default function VideoItem({ data }: PropsVideoItem) {
+export default function VideoItem({ data }: any) {
   return (
     <li className="video_item">
-      <Link to={"/"}>
+      <Link to={`/videos/watch/${data.id}`}>
         <img
           className="item_img"
           src={data.snippet.thumbnails.medium.url}

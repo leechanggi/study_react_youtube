@@ -1,11 +1,9 @@
-import { useContext, useId } from "react";
-import { ThemeContext } from "../contexts/ThemeContextProvider";
+import { useId } from "react";
 
 import Search from "./Search";
 import ButtonToggleTheme from "./ButtonToggleTheme";
 
 export default function Header() {
-  const { theme, toggleTheme } = useContext(ThemeContext);
   const uniqueId = useId();
 
   return (
@@ -14,9 +12,7 @@ export default function Header() {
         <div className="header_gnb">
           <div className="logo">YouTube</div>
           <div className="form-wrap">
-            <div className="form">
-              <Search />
-            </div>
+            <Search />
             <ButtonToggleTheme uniqueId={uniqueId} />
           </div>
         </div>

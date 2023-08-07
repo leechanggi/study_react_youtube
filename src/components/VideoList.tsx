@@ -4,67 +4,38 @@ import VideoItem from "./VideoItem";
 
 export interface PVideoList {
   videoService: VideoService;
-}
-export interface IVideo {
-  kind: string;
-  etag: string;
-  id: {
-    kind: string;
-    videoId: string;
-  };
-  snippet: {
-    publishedAt: string;
-    channelId: string;
-    title: string;
-    description: string;
-    thumbnails: {
-      default: {
-        url: string;
-        width: number;
-        height: number;
-      };
-      medium: {
-        url: string;
-        width: number;
-        height: number;
-      };
-      high: {
-        url: string;
-        width: number;
-        height: number;
-      };
-    };
-    channelTitle: string;
-    liveBroadcastContent: string;
-    publishTime: string;
-  };
+  q?: string | null;
 }
 
-export default function VideoList({ videoService }: PVideoList) {
-  const [error, setError] = useState("");
-  const [videoList, setVideoList] = useState<IVideo[]>([]);
+export default function VideoList({ videoService, q }: PVideoList) {
+  const [error, setError] = useState<string | undefined>();
+  const [videoList, setVideoList] = useState<any[]>([]);
 
   useEffect(() => {
     videoService
       .getVideoItems()
-      .then((video) => setVideoList(video))
+      .then((video) => setVideoList(video.items))
       .catch(onError);
   }, [videoService]);
 
   const onError = (error: any) => {
     setError(error.toString());
     setTimeout(() => {
-      setError("");
+      setError(undefined);
     }, 3000);
   };
 
   return (
     <div className="video">
-      <ul className="video_list">
-        {videoList.map((video, index) => {
-          return <VideoItem data={video} key={index} /*key={video.id.videoId}*/ />;
-        })}
-      </ul>
+      {typeof error !== "string" ? (
+        <ul className="video_list">
+          {videoList.map((video) => {
+            return <VideoItem data={video} key={video.id} />;
+          })}
+        </ul>
+      ) : (
+        <p className="video_error">{error}</p>
+      )}
     </div>
   );
 }

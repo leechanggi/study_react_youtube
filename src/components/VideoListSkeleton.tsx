@@ -9,5 +9,5 @@ function repeatVideoItem() {
 }
 
 export default function VideoListSkeleton() {
-  return <ul className="video_list skeleton">{repeatVideoItem()}</ul>;
+  return <ul className="video_list">{repeatVideoItem()}</ul>;
 }

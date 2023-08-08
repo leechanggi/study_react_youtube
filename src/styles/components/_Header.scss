@@ -21,21 +21,10 @@
     height: 64px;
     padding: 0 16px;
     .logo {
-      position: relative;
-      padding-left: 32px;
+      display: block;
       font-family: $base_font-family_logo;
       font-size: rem-calc(18);
       font-weight: 700;
-      &::before {
-        position: absolute;
-        top: 50%;
-        left: 0;
-        width: 28px;
-        height: 28px;
-        margin-top: -14px;
-        content: "";
-        background: url(../../../public/asset/images/ico_logo.png) no-repeat center/cover;
-      }
     }
     .form-wrap {
       display: flex;

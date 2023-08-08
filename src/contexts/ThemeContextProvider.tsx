@@ -32,7 +32,7 @@ const ThemeContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
       setTheme(toBooleanTheme(getLocalTheme));
       document.body.setAttribute("data-theme", getLocalTheme);
     }
-  }, []);
+  }, [getLocalTheme]);
 
   return <ThemeContext.Provider value={{ theme, toggleTheme }}>{children}</ThemeContext.Provider>;
 };

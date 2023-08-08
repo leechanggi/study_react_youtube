@@ -13,7 +13,7 @@ import NotFound from "./pages/NotFound";
 import "./styles/index.scss";
 
 const BASE_URL = process.env.REACT_APP_BASE_URL as string;
-const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
+// const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
 
 const httpClient = new HttpClient(BASE_URL);
 // const httpClient = new HttpClient(YOUTUBE_URL);

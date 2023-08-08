@@ -1,6 +1,11 @@
-import { useEffect, useState } from "react";
+import { Suspense } from "react";
+import { useQuery, useQueryClient } from "@tanstack/react-query";
+import { ErrorBoundary } from "react-error-boundary";
+
 import VideoService from "../service/video";
 import VideoItem from "./VideoItem";
+import ErrorFallback from "./ErrorFallback";
+import VideoListSkeleton from "./VideoListSkeleton";
 
 export interface PVideoList {
   videoService: VideoService;
@@ -8,34 +13,29 @@ export interface PVideoList {
 }
 
 export default function VideoList({ videoService, q }: PVideoList) {
-  const [error, setError] = useState<string | undefined>();
-  const [videoList, setVideoList] = useState<any[]>([]);
-
-  useEffect(() => {
-    videoService
-      .getVideoItems()
-      .then((video) => setVideoList(video.items))
-      .catch(onError);
-  }, [videoService]);
-
-  const onError = (error: any) => {
-    setError(error.toString());
-    setTimeout(() => {
-      setError(undefined);
-    }, 3000);
-  };
+  const client = useQueryClient();
+  const queryKey = ["videos"];
+  const queryFn = () => videoService.getVideoItems();
+  const { isFetched, error, data } = useQuery({
+    queryKey,
+    queryFn,
+    staleTime: 1000 * 60 * 5,
+    suspense: true,
+    useErrorBoundary: true,
+  });
 
   return (
     <div className="video">
-      {typeof error !== "string" ? (
-        <ul className="video_list">
-          {videoList.map((video) => {
-            return <VideoItem data={video} key={video.id} />;
-          })}
-        </ul>
-      ) : (
-        <p className="video_error">{error}</p>
-      )}
+      {/* <ErrorBoundary FallbackComponent={ErrorFallback}>
+        <Suspense fallback={<VideoListSkeleton />}>
+          <ul className="video_list">
+            {data.items.map((video: { id: string }) => {
+              return <VideoItem data={video} key={video.id} />;
+            })}
+          </ul>
+        </Suspense>
+      </ErrorBoundary> */}
+      <VideoListSkeleton />
     </div>
   );
 }

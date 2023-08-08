@@ -49,7 +49,7 @@ export default class HttpClient {
     });
   }
 
-  async fetch(url: string, options: AxiosRequestConfig): Promise<any> {
+  async fetch(url: string, options: AxiosRequestConfig) {
     const { method, headers, data: body } = options;
     const req: AxiosRequestConfig = {
       url,

@@ -16,8 +16,8 @@ const BASE_URL = process.env.REACT_APP_BASE_URL as string;
 const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
 const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY as string;
 
-// const httpClient = new HttpClient(BASE_URL);
-const httpClient = new HttpClient(YOUTUBE_URL);
+const httpClient = new HttpClient(BASE_URL);
+// const httpClient = new HttpClient(YOUTUBE_URL);
 const videoService = new VideoService(httpClient, YOUTUBE_API_KEY);
 
 const router = createBrowserRouter([

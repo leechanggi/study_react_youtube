@@ -15,7 +15,7 @@ export default function VideoList({ videoService, keyword }: PVideoList) {
     if (keyword !== null) {
       return videoService.getVideoItemsFromKeyword(keyword);
     } else {
-      return videoService.getVideoItems().then((data) => data.items);
+      return videoService.getVideoItems();
     }
   };
   const { isLoading, isFetching, error, data } = useQuery({

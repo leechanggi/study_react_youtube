@@ -10,16 +10,28 @@ export default class VideoService {
   }
 
   async getVideoItems() {
+    // return this.http
+    //   .fetch(`/videos?part=snippet&chart=mostPopular&maxResults=25&key=${this.API_KEY}`, {
+    //     method: "GET",
+    //   })
+    //   .then((data) => data.items);
     return this.http
-      .fetch(`/videos?part=snippet&chart=mostPopular&maxResults=25&key=${this.API_KEY}`, {
+      .fetch("/data/hotTrend.json", {
         method: "GET",
       })
       .then((data) => data.items);
   }
 
   async getVideoItemsFromKeyword(keyword: string) {
+    // return this.http
+    //   .fetch(`/search?part=snippet&maxResults=25&q=${keyword}&key=${this.API_KEY}`, {
+    //     method: "GET",
+    //   })
+    //   .then((data) =>
+    //     data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
+    //   );
     return this.http
-      .fetch(`/search?part=snippet&maxResults=25&q=${keyword}&key=${this.API_KEY}`, {
+      .fetch("/data/searchKeyword.json", {
         method: "GET",
       })
       .then((data) =>

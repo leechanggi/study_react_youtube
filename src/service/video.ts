@@ -7,6 +7,12 @@ export default class VideoService {
     this.http = httpClient;
   }
 
+  // async getVideoItems() {
+  //   return this.http.fetch("/data/hotTrend.json", {
+  //     method: "GET",
+  //   });
+  // }
+
   async getVideoItems() {
     return this.http.fetch("/data/hotTrend.json", {
       method: "GET",

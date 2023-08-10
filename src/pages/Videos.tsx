@@ -7,7 +7,7 @@ export interface PVideos {
 }
 
 export default function Videos({ videoService }: PVideos) {
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const keyword = searchParams.get("q") !== undefined ? searchParams.get("q") : null;
 
   return <VideoList videoService={videoService} keyword={keyword} />;

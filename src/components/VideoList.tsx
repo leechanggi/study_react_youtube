@@ -13,11 +13,7 @@ export default function VideoList({ videoService, keyword }: PVideoList) {
   const queryKey = ["videos", { keyword }];
   const queryFn = async () => {
     if (keyword !== null) {
-      return videoService
-        .getVideoItemsFromKeyword(keyword)
-        .then((data) =>
-          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
-        );
+      return videoService.getVideoItemsFromKeyword(keyword);
     } else {
       return videoService.getVideoItems().then((data) => data.items);
     }

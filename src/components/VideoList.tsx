@@ -1,4 +1,4 @@
-import { useQuery, useQueryClient } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 
 import VideoService from "../service/video";
 import VideoItem from "./VideoItem";
@@ -6,32 +6,43 @@ import VideoListSkeleton from "./VideoListSkeleton";
 
 export interface PVideoList {
   videoService: VideoService;
-  q?: string | null;
+  keyword: string | null;
 }
 
-export default function VideoList({ videoService, q }: PVideoList) {
-  const queryKey = ["videos"];
-  const queryFn = () => videoService.getVideoItems();
+export default function VideoList({ videoService, keyword }: PVideoList) {
+  const queryKey = ["videos", { keyword }];
+  const queryFn = async () => {
+    if (keyword !== null) {
+      return videoService
+        .getVideoItemsFromKeyword(keyword)
+        .then((data) =>
+          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
+        );
+    } else {
+      return videoService.getVideoItems().then((data) => data.items);
+    }
+  };
   const { isLoading, isFetching, error, data } = useQuery({
     queryKey,
     queryFn,
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 5,
   });
 
   return (
     <div className="video">
       {error !== null ? (
-        `에러메시지 출력`
+        <p className="video_error">일시적 장애입니다.</p>
       ) : isLoading === true || isFetching === true ? (
         <VideoListSkeleton />
+      ) : data === undefined ? (
+        <p className="video_error">일시적 장애입니다.</p>
       ) : (
         <ul className="video_list">
-          {data.items.map((video: { id: string }) => {
+          {data.map((video: any) => {
             return <VideoItem data={video} key={video.id} />;
           })}
         </ul>
       )}
-      <VideoListSkeleton />
     </div>
   );
 }

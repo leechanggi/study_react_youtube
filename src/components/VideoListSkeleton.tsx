@@ -3,7 +3,7 @@ import VideoItemSkeleton from "./VideoItemSkeleton";
 function repeatVideoItem() {
   let arr = [];
   for (let i = 0; i < 25; i++) {
-    arr.push(<VideoItemSkeleton />);
+    arr.push(<VideoItemSkeleton key={i} />);
   }
   return arr;
 }

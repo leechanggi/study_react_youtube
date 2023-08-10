@@ -16,12 +16,12 @@ function App() {
     <div id="App" className="app">
       <ThemeContextProvider>
         <Header />
-        <div className="container">
-          <QueryClientProvider client={queryClient}>
+        <QueryClientProvider client={queryClient}>
+          <div className="container">
             <Outlet />
-            <ReactQueryDevtools initialIsOpen={false} />
-          </QueryClientProvider>
-        </div>
+          </div>
+          <ReactQueryDevtools initialIsOpen={false} />
+        </QueryClientProvider>
       </ThemeContextProvider>
     </div>
   );

@@ -19,10 +19,9 @@ export default class HttpClient {
       baseURL,
       headers: {
         "Content-Type": "application/json",
-        // "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Credentials": true,
+        "Access-Control-Allow-Origin": true,
       },
-      withCredentials: true,
+      // withCredentials: true,
     });
 
     axiosRetry(this.client, {
@@ -52,7 +51,7 @@ export default class HttpClient {
   }
 
   async fetch(url: string, options: AxiosRequestConfig) {
-    const { method, headers, data: body, params } = options;
+    const { method, headers, params, data: body } = options;
     const req: AxiosRequestConfig = {
       url,
       method,

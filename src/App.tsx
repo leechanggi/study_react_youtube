@@ -7,6 +7,7 @@ import Header from "./components/Header";
 
 // Provider
 import ThemeContextProvider from "./contexts/ThemeContextProvider";
+import VideosContextProvider from "./contexts/VideosContextProvider";
 
 // Query
 const queryClient = new QueryClient();
@@ -18,7 +19,9 @@ function App() {
         <Header />
         <QueryClientProvider client={queryClient}>
           <div className="container">
-            <Outlet />
+            <VideosContextProvider>
+              <Outlet />
+            </VideosContextProvider>
           </div>
           <ReactQueryDevtools initialIsOpen={false} />
         </QueryClientProvider>

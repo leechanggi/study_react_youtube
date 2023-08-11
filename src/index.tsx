@@ -12,7 +12,7 @@ import NotFound from "./pages/NotFound";
 
 import "./styles/index.scss";
 
-// const BASE_URL = process.env.REACT_APP_BASE_URL as string;
+const BASE_URL = process.env.REACT_APP_BASE_URL as string;
 const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
 const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY as string;
 

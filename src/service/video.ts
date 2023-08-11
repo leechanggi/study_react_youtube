@@ -11,8 +11,14 @@ export default class VideoService {
 
   async getVideoItems() {
     return this.http
-      .fetch(`/videos?part=snippet&chart=mostPopular&maxResults=25&key=${this.API_KEY}`, {
+      .fetch("/videos", {
         method: "GET",
+        params: {
+          part: "snippet",
+          chart: "mostPopular",
+          maxResults: "25",
+          key: this.API_KEY,
+        },
       })
       .then((data) => data.items);
     // return this.http
@@ -24,8 +30,14 @@ export default class VideoService {
 
   async getVideoItemsFromKeyword(keyword: string) {
     return this.http
-      .fetch(`/search?part=snippet&maxResults=25&q=${keyword}&key=${this.API_KEY}`, {
+      .fetch("/search", {
         method: "GET",
+        params: {
+          part: "snippet",
+          maxResults: "25",
+          q: keyword,
+          key: this.API_KEY,
+        },
       })
       .then((data) =>
         data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))

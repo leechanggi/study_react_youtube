@@ -19,6 +19,8 @@ export default class HttpClient {
       baseURL,
       headers: {
         "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true,
       },
       withCredentials: true,
     });
@@ -50,11 +52,12 @@ export default class HttpClient {
   }
 
   async fetch(url: string, options: AxiosRequestConfig) {
-    const { method, headers, data: body } = options;
+    const { method, headers, data: body, params } = options;
     const req: AxiosRequestConfig = {
       url,
       method,
       headers,
+      params,
       data: body,
     };
 

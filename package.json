@@ -2,6 +2,7 @@
   "name": "study_react_youtube",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://youtube.googleapis.com/youtube/v3",
   "dependencies": {
     "@tanstack/react-query": "^4.32.6",
     "@tanstack/react-query-devtools": "^4.32.6",

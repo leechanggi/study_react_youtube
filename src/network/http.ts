@@ -22,7 +22,7 @@ export default class HttpClient {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Credentials": true,
       },
-      withCredentials: true,
+      // withCredentials: true,
     });
 
     axiosRetry(this.client, {

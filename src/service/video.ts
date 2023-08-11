@@ -10,46 +10,46 @@ export default class VideoService {
   }
 
   async getVideoItems() {
-    // return this.http
-    //   .fetch("/videos", {
-    //     method: "GET",
-    //     params: {
-    //       part: "snippet",
-    //       chart: "mostPopular",
-    //       maxResults: "25",
-    //       key: this.API_KEY,
-    //     },
-    //   })
-    //   .then((data) => data.items);
-
     return this.http
-      .fetch("/data/hotTrend.json", {
+      .fetch("/videos", {
         method: "GET",
+        params: {
+          part: "snippet",
+          chart: "mostPopular",
+          maxResults: "25",
+          key: this.API_KEY,
+        },
       })
       .then((data) => data.items);
+
+    // return this.http
+    //   .fetch("/data/hotTrend.json", {
+    //     method: "GET",
+    //   })
+    //   .then((data) => data.items);
   }
 
   async getVideoItemsFromKeyword(keyword: string) {
-    // return this.http
-    //   .fetch("/search", {
-    //     method: "GET",
-    //     params: {
-    //       part: "snippet",
-    //       maxResults: "25",
-    //       q: keyword,
-    //       key: this.API_KEY,
-    //     },
-    //   })
-    //   .then((data) =>
-    //     data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
-    //   );
-
     return this.http
-      .fetch("/data/searchKeyword.json", {
+      .fetch("/search", {
         method: "GET",
+        params: {
+          part: "snippet",
+          maxResults: "25",
+          q: keyword,
+          key: this.API_KEY,
+        },
       })
       .then((data) =>
-        data.items.map((item: { id: { videoId: string } }) => ({ ...item, id: item.id.videoId }))
+        data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
       );
+
+    // return this.http
+    //   .fetch("/data/searchKeyword.json", {
+    //     method: "GET",
+    //   })
+    //   .then((data) =>
+    //     data.items.map((item: { id: { videoId: string } }) => ({ ...item, id: item.id.videoId }))
+    //   );
   }
 }

@@ -21,7 +21,7 @@ export default class HttpClient {
         "Content-Type": "application/json",
         "Access-Control-Allow-Origin": true,
       },
-      // withCredentials: true,
+      withCredentials: true,
     });
 
     axiosRetry(this.client, {

@@ -4,17 +4,16 @@ import { useQuery } from "@tanstack/react-query";
 import HttpClient from "../network/http";
 import VideoService from "../service/video";
 
+const MODE_DEV = Boolean(process.env.REACT_APP_MODE_DEV);
 const BASE_URL = process.env.REACT_APP_BASE_URL as string;
 const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
 const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY as string;
 
-// DEV
-// const httpClient = new HttpClient(BASE_URL);
-// const videoService = new VideoService(httpClient);
-
-// DEP
-const httpClient = new HttpClient(YOUTUBE_URL);
-const videoService = new VideoService(httpClient, YOUTUBE_API_KEY);
+const httpClient = MODE_DEV === true ? new HttpClient(BASE_URL) : new HttpClient(YOUTUBE_URL);
+const videoService =
+  MODE_DEV === true
+    ? new VideoService(httpClient, MODE_DEV)
+    : new VideoService(httpClient, MODE_DEV, YOUTUBE_API_KEY);
 
 export interface IVideosContext {
   isLoading: boolean;

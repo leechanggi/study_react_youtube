@@ -3,8 +3,6 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import App from "./App";
-import HttpClient from "./network/http";
-import VideoService from "./service/video";
 
 import Videos from "./pages/Videos";
 import VideoDetail from "./pages/VideoDetail";

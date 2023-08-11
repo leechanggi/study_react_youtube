@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import LastSeen from "./LastSeen";
 
 export default function VideoItem({ data }: any) {
   const snippet = data.snippet;
@@ -9,6 +10,7 @@ export default function VideoItem({ data }: any) {
         <div className="item_info">
           <p className="info_title ellipsis-2">{snippet.title}</p>
           <p className="info_channelTitle ellipsis">{snippet.channelTitle}</p>
+          <LastSeen className="info_timeago ellipsis" date={snippet.publishedAt} locale="en" />
         </div>
       </Link>
     </li>

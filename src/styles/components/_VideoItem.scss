@@ -20,6 +20,12 @@
             font-size: rem-calc(14);
             @include theme-picker(color, color_1);
           }
+          &_timeago {
+            display: block;
+            margin-top: 2px;
+            font-size: rem-calc(12);
+            @include theme-picker(color, color_1);
+          }
         }
       }
     }
@@ -40,7 +46,6 @@
             height: 100%;
             content: "";
             animation: loading 2000ms infinite linear;
-            // background: linear-gradient(to right, #f2f2f2, #ddd, #f2f2f2);
             @include theme-picker(background-image, background-image_skeleton);
           }
         }

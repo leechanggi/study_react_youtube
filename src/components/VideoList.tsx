@@ -3,11 +3,7 @@ import { VideosContext } from "../contexts/VideosContextProvider";
 import VideoItem from "./VideoItem";
 import VideoListSkeleton from "./VideoListSkeleton";
 
-export interface PVideoList {
-  keyword: string | null;
-}
-
-export default function VideoList({ keyword }: PVideoList) {
+export default function VideoList() {
   const { isLoading, isFetching, error, data } = useContext(VideosContext);
 
   return (

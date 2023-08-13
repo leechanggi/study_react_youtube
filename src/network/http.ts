@@ -20,7 +20,6 @@ export default class HttpClient {
       headers: {
         "Content-Type": "application/json",
       },
-      // withCredentials: true,
     });
 
     axiosRetry(this.client, {

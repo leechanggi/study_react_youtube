@@ -87,3 +87,27 @@
     }
   }
 }
+
+@media screen and (max-width: $base_laptop-width) {
+  .video {
+    &_item {
+      width: calc(100% / 3);
+    }
+  }
+}
+
+@media screen and (max-width: $base_tablet-width) {
+  .video {
+    &_item {
+      width: 50%;
+    }
+  }
+}
+
+@media screen and (max-width: $base_mobile-width) {
+  .video {
+    &_item {
+      width: 100%;
+    }
+  }
+}

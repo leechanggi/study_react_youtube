@@ -1,0 +1,23 @@
+@use "../common/variable" as *;
+@use "../common/animation" as *;
+@use "../util" as *;
+
+.videoDetail {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  &_vedio {
+    width: calc(100% - 400px);
+    .video {
+      &_iframe {
+      }
+      &_info {
+      }
+      &_comment {
+      }
+    }
+  }
+  &_list {
+    width: 400px;
+  }
+}

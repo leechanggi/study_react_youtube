@@ -7,6 +7,7 @@
   height: 14px;
   cursor: pointer;
   border-radius: 7px;
+  margin-right: 16px;
   @include theme-picker(background-color, background-color_switch);
   &::before {
     position: absolute;

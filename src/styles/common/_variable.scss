@@ -3,9 +3,10 @@ $base_font-family: "Noto Sans KR", "Noto Sans", -apple-system, BlinkMacSystemFon
 $base_font-family_logo: "Fjalla One", -apple-system, BlinkMacSystemFont, "Malgun Gothic",
   "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
 $base_font-size: 16px;
-$base_laptop-width: 1280px;
-$base_tablet-width: 1024px;
-$base_mobile-width: 768px;
+$base_width: 1280px;
+$base_laptop-width: 1024px;
+$base_tablet-width: 768px;
+$base_mobile-width: 425px;
 
 $theme: (
   light: (
@@ -24,7 +25,7 @@ $theme: (
     color: #ffffff,
     color_1: #ffffff,
     border-color: #cccccc,
-    background-color: #000000,
+    background-color: #0f0f0f,
     background-color_switch: #9e9e9e,
     background-color_switch-thumb: #ffffff,
     background-color_skeleton: #ffffff,

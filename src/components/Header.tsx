@@ -22,8 +22,8 @@ export default function Header() {
             YouTube
           </Link>
           <div className="form-wrap">
-            <Search />
             <ButtonToggleTheme uniqueId={uniqueId} />
+            <Search />
           </div>
         </div>
       </div>

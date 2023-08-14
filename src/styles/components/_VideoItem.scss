@@ -18,13 +18,13 @@
         .info {
           &_channelTitle {
             font-size: rem-calc(14);
-            @include theme-picker(color, color_1);
+            @include theme-picker(color, color_info);
           }
           &_timeago {
             display: block;
             margin-top: 2px;
             font-size: rem-calc(12);
-            @include theme-picker(color, color_1);
+            @include theme-picker(color, color_info);
           }
         }
       }

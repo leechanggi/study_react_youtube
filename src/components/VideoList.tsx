@@ -4,20 +4,20 @@ import VideoItem from "./VideoItem";
 import VideoListSkeleton from "./VideoListSkeleton";
 
 export default function VideoList() {
-  const { isLoading, isFetching, error, data } = useContext(VideosContext);
+  const { videosIsLoading, videosIsFetching, videosError, videosData } = useContext(VideosContext);
 
   return (
     <div className="video">
-      {error !== null && error !== undefined ? (
+      {videosError !== null && videosError !== undefined ? (
         <p className="video_error">일시적 네트워크 장애가 발생하였습니다.</p>
-      ) : isLoading === true || isFetching === true ? (
+      ) : videosIsLoading === true || videosIsFetching === true ? (
         <VideoListSkeleton />
-      ) : data === undefined ? (
+      ) : videosData === undefined ? (
         <p className="video_error">일시적 네트워크 장애가 발생하였습니다.</p>
       ) : (
         <ul className="video_list">
-          {data.map((video: any) => {
-            return <VideoItem data={video} key={video.id} />;
+          {videosData.map((video: any) => {
+            return <VideoItem video={video} key={video.id} />;
           })}
         </ul>
       )}

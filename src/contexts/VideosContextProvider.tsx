@@ -1,5 +1,5 @@
 import React, { createContext, PropsWithChildren } from "react";
-import { useSearchParams } from "react-router-dom";
+import { useLocation, useSearchParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import HttpClient from "../network/http";
 import VideoService from "../service/video";
@@ -16,30 +16,32 @@ const videoService =
     : new VideoService(httpClient, MODE_DEV, YOUTUBE_API_KEY);
 
 export interface IVideosContext {
-  isLoading: boolean;
-  isFetching: boolean;
-  error: Error | null;
-  data: any;
+  videosIsLoading: boolean;
+  videosIsFetching: boolean;
+  videosError: Error | null;
+  videosData: any;
 }
 
 export const VideosContext = createContext<IVideosContext>({
-  isLoading: false,
-  isFetching: false,
-  error: null,
-  data: {},
+  videosIsLoading: false,
+  videosIsFetching: false,
+  videosError: null,
+  videosData: {},
 });
 
 const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
+  const location = useLocation();
+  const locationPath = location.pathname.split("/");
   const [searchParams] = useSearchParams();
+
   const keyword = searchParams.get("q");
 
-  const queryKey = ["videos", { keyword }];
+  const queryKey = ["videos", keyword !== null && { keyword }];
   const queryFn = async () => {
-    if (keyword !== null) {
-      return videoService.getVideoItemsFromKeyword(keyword);
-    } else {
-      return videoService.getVideoItems();
+    if (locationPath[1] === "videos" && keyword !== null) {
+      return videoService.getVideosByKeyword(keyword);
     }
+    return videoService.getVideos();
   };
   const { isLoading, isFetching, error, data } = useQuery({
     queryKey,
@@ -48,7 +50,14 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
   });
 
   return (
-    <VideosContext.Provider value={{ isLoading, isFetching, error: error as Error | null, data }}>
+    <VideosContext.Provider
+      value={{
+        videosIsLoading: isLoading,
+        videosIsFetching: isFetching,
+        videosError: error as Error | null,
+        videosData: data,
+      }}
+    >
       {children}
     </VideosContext.Provider>
   );

@@ -11,7 +11,8 @@ export default class VideoService {
     this.API_KEY = API_KEY;
   }
 
-  async getVideoItems() {
+  // 핫트랜드 비디오 찾기
+  async getVideos() {
     if (this.MODE_DEV === true) {
       return this.http
         .fetch("/data/hotTrend.json", {
@@ -33,7 +34,8 @@ export default class VideoService {
     }
   }
 
-  async getVideoItemsFromKeyword(keyword: string) {
+  // 키워드로 영상 찾기
+  async getVideosByKeyword(keyword: string) {
     if (this.MODE_DEV === true) {
       return this.http
         .fetch("/data/searchKeyword.json", {
@@ -56,6 +58,46 @@ export default class VideoService {
         .then((data) =>
           data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
         );
+    }
+  }
+
+  // 아이디로 특정 영상 찾기
+  async getVideosByVideoId(videoId: string) {
+    if (this.MODE_DEV === true) {
+      return false;
+    } else {
+      return this.http
+        .fetch("videos", {
+          method: "GET",
+          params: {
+            part: "snippet",
+            id: videoId,
+            key: this.API_KEY,
+          },
+        })
+        .then((data) => data.items);
+    }
+  }
+
+  // 관련영상 목록 찾기
+  async getRelatedVideosByVideoId(videoId: string) {
+    if (this.MODE_DEV === true) {
+      return this.http
+        .fetch("/data/relatedVideo.json", { method: "GET" })
+        .then((data) =>
+          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
+        );
+    } else {
+      return this.http.fetch("search", {
+        method: "GET",
+        params: {
+          part: "snippet",
+          maxResults: "10",
+          type: "video",
+          relatedToVideoId: videoId,
+          key: this.API_KEY,
+        },
+      });
     }
   }
 }

@@ -10,8 +10,50 @@
     width: calc(100% - 400px);
     .video {
       &_iframe {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        height: auto;
+        padding-top: calc(390 / 640) * 100%;
+        iframe {
+          position: absolute;
+          z-index: 400;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
       }
       &_info {
+        margin-top: 12px;
+        .info {
+          &_title {
+            font-size: rem-calc(20);
+          }
+          &_box {
+            margin-top: 12px;
+            padding: 12px;
+            transition: background-color 200ms ease;
+            border-radius: 12px;
+            @include theme-picker(background-color, background-color_box);
+            &:hover {
+              @include theme-picker(background-color, background-color_box-hover);
+            }
+            &[data-togglebox="false"] {
+              overflow-x: auto;
+              overflow-y: hidden;
+              height: 108px;
+              cursor: pointer;
+            }
+            .description {
+              font-size: rem-calc(14);
+              white-space: pre-wrap;
+            }
+            .sub {
+              font-size: rem-calc(14);
+            }
+          }
+        }
       }
       &_comment {
       }

@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import LastSeen from "./LastSeen";
 
-export default function VideoItem({ data }: any) {
-  const snippet = data.snippet;
+export default function VideoItem({ video }: any) {
+  const snippet = video.snippet;
   return (
     <li className="video_item">
-      <Link to={`/videos/watch/${data.id}`}>
+      <Link to={`/videos/watch/${video.id}`}>
         <img className="item_img" src={snippet.thumbnails.medium.url} alt={snippet.title} />
         <div className="item_info">
           <p className="info_title ellipsis-2">{snippet.title}</p>

@@ -64,7 +64,9 @@ export default class VideoService {
   // 아이디로 특정 영상 찾기
   async getVideosByVideoId(videoId: string) {
     if (this.MODE_DEV === true) {
-      return false;
+      return this.http
+        .fetch("/data/videosByVideoId.json", { method: "GET" })
+        .then((data) => data.items);
     } else {
       return this.http
         .fetch("videos", {
@@ -88,16 +90,20 @@ export default class VideoService {
           data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
         );
     } else {
-      return this.http.fetch("search", {
-        method: "GET",
-        params: {
-          part: "snippet",
-          maxResults: "10",
-          type: "video",
-          relatedToVideoId: videoId,
-          key: this.API_KEY,
-        },
-      });
+      return this.http
+        .fetch("search", {
+          method: "GET",
+          params: {
+            part: "snippet",
+            maxResults: "10",
+            type: "video",
+            relatedToVideoId: videoId,
+            key: this.API_KEY,
+          },
+        })
+        .then((data) =>
+          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
+        );
     }
   }
 }

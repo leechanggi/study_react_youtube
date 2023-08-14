@@ -4,7 +4,7 @@ import LastSeen from "./LastSeen";
 export default function VideoItem({ video }: any) {
   const snippet = video.snippet;
   return (
-    <li className="video_item">
+    <li className="item">
       <Link to={`/videos/watch/${video.id}`}>
         <img className="item_img" src={snippet.thumbnails.medium.url} alt={snippet.title} />
         <div className="item_info">

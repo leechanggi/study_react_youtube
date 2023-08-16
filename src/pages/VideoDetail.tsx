@@ -43,10 +43,6 @@ export default function VideoDetail({ videoService }: any) {
     fetchTopicData();
   }, [videoId, videoService]);
 
-  useEffect(() => {
-    console.log(topicData);
-  }, [topicData]);
-
   return (
     <div className="videoDetail">
       <div className="videoDetail_vedio">
@@ -57,8 +53,6 @@ export default function VideoDetail({ videoService }: any) {
         ) : (
           <VideoDetailInfoSkeleton />
         )}
-        {/* 댓글 */}
-        <div className="video_comment"></div>
       </div>
       <div className="videoDetail_list">
         {topicError ? (

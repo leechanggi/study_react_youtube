@@ -36,17 +36,16 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
 
   const keyword = searchParams.get("q");
 
-  const queryKey = ["videos", keyword !== null && { keyword }];
+  const queryKey = ["videos", keyword];
   const queryFn = async () => {
     if (locationPath[1] === "videos" && keyword !== null) {
       return videoService.getVideosByKeyword(keyword);
     }
     return videoService.getVideos();
   };
-  const { isLoading, isFetching, error, data } = useQuery({
-    queryKey,
-    queryFn,
-    staleTime: 1000 * 60 * 30,
+  const { isLoading, isFetching, error, data } = useQuery(queryKey, queryFn, {
+    // staleTime: 1000 * 60 * 30,
+    staleTime: 1000 * 5,
   });
 
   return (

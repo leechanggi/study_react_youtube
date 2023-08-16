@@ -11,100 +11,114 @@ export default class VideoService {
     this.API_KEY = API_KEY;
   }
 
-  // 핫트랜드 비디오 찾기
+  private async getVideosWithChannelInfo(videos: any[]) {
+    return Promise.all(
+      videos.map(async (video: any) => {
+        const channelInfo = await this.getChannelsByChannelsID(video.snippet.channelId);
+        return { ...video, channel: channelInfo[0] };
+      })
+    );
+  }
+
   async getVideos() {
-    if (this.MODE_DEV === true) {
-      return this.http
-        .fetch("/data/hotTrend.json", {
-          method: "GET",
-        })
-        .then((data) => data.items);
-    } else {
-      return this.http
-        .fetch("/videos", {
-          method: "GET",
-          params: {
-            part: "snippet",
-            chart: "mostPopular",
-            maxResults: "24",
-            key: this.API_KEY,
-          },
-        })
-        .then((data) => data.items);
-    }
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http.fetch("/data/hotTrend.json", { method: "GET" }).then((data) => data.items)
+        : await this.http
+            .fetch("/videos", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                chart: "mostPopular",
+                maxResults: "24",
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
-  // 키워드로 영상 찾기
   async getVideosByKeyword(keyword: string) {
-    if (this.MODE_DEV === true) {
-      return this.http
-        .fetch("/data/searchKeyword.json", {
-          method: "GET",
-        })
-        .then((data) =>
-          data.items.map((item: { id: { videoId: string } }) => ({ ...item, id: item.id.videoId }))
-        );
-    } else {
-      return this.http
-        .fetch("/search", {
-          method: "GET",
-          params: {
-            part: "snippet",
-            maxResults: "24",
-            type: "video",
-            q: keyword,
-            key: this.API_KEY,
-          },
-        })
-        .then((data) =>
-          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
-        );
-    }
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http
+            .fetch("/data/searchKeyword.json", { method: "GET" })
+            .then((data) => data.items)
+        : await this.http
+            .fetch("/search", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                maxResults: "24",
+                type: "video",
+                q: keyword,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
-  // 아이디로 특정 영상 찾기
   async getVideosByVideoId(videoId: string) {
-    if (this.MODE_DEV === true) {
-      return this.http
-        .fetch("/data/videosByVideoId.json", { method: "GET" })
-        .then((data) => data.items);
-    } else {
-      return this.http
-        .fetch("videos", {
-          method: "GET",
-          params: {
-            part: "snippet",
-            id: videoId,
-            key: this.API_KEY,
-          },
-        })
-        .then((data) => data.items);
-    }
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http
+            .fetch("/data/videosByVideoId.json", { method: "GET" })
+            .then((data) => data.items)
+        : await this.http
+            .fetch("videos", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                id: videoId,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
-  // 관련영상 목록 찾기
-  async getVideosByTopicId(videoId: string) {
+  async getVideosByTopicId(topicId: string) {
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http
+            .fetch("/data/relatedVideo.json", { method: "GET" })
+            .then((data) => data.items)
+        : await this.http
+            .fetch("search", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                maxResults: "10",
+                type: "video",
+                topicId: topicId,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
+  }
+
+  async getChannelsByChannelsID(channelsID: string) {
     if (this.MODE_DEV === true) {
       return this.http
-        .fetch("/data/relatedVideo.json", { method: "GET" })
-        .then((data) =>
-          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
-        );
+        .fetch("/data/channelsByChannelsId.json", { method: "GET" })
+        .then((data) => data.items);
     } else {
       return this.http
         .fetch("search", {
           method: "GET",
           params: {
             part: "snippet",
-            maxResults: "10",
-            type: "video",
-            topicId: videoId,
+            id: channelsID,
             key: this.API_KEY,
           },
         })
-        .then((data) =>
-          data.items.map((item: { id: { videoId: any } }) => ({ ...item, id: item.id.videoId }))
-        );
+        .then((data) => data.items);
     }
   }
 }

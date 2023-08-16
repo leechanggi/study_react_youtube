@@ -44,8 +44,7 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
     return videoService.getVideos();
   };
   const { isLoading, isFetching, error, data } = useQuery(queryKey, queryFn, {
-    // staleTime: 1000 * 60 * 30,
-    staleTime: 1000 * 5,
+    staleTime: 1000 * 60 * 30,
   });
 
   return (

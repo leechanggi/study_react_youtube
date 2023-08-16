@@ -23,12 +23,12 @@ export default class VideoService {
   async getVideos() {
     const videos =
       this.MODE_DEV === true
-        ? await this.http.fetch("/data/hotTrend.json", { method: "GET" }).then((data) => data.items)
+        ? await this.http.fetch("/data/videos.json", { method: "GET" }).then((data) => data.items)
         : await this.http
             .fetch("/videos", {
               method: "GET",
               params: {
-                part: "snippet",
+                part: "snippet,statistics",
                 chart: "mostPopular",
                 maxResults: "24",
                 key: this.API_KEY,
@@ -42,9 +42,12 @@ export default class VideoService {
   async getVideosByKeyword(keyword: string) {
     const videos =
       this.MODE_DEV === true
-        ? await this.http
-            .fetch("/data/searchKeyword.json", { method: "GET" })
-            .then((data) => data.items)
+        ? await this.http.fetch("/data/videosByKeyword.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
+              ...item,
+              id: item.id.videoId,
+            }))
+          )
         : await this.http
             .fetch("/search", {
               method: "GET",
@@ -56,7 +59,12 @@ export default class VideoService {
                 key: this.API_KEY,
               },
             })
-            .then((data) => data.items);
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
+                ...item,
+                id: item.id.videoId,
+              }))
+            );
 
     return this.getVideosWithChannelInfo(videos);
   }
@@ -71,7 +79,7 @@ export default class VideoService {
             .fetch("videos", {
               method: "GET",
               params: {
-                part: "snippet",
+                part: "snippet,statistics",
                 id: videoId,
                 key: this.API_KEY,
               },
@@ -85,40 +93,58 @@ export default class VideoService {
     const videos =
       this.MODE_DEV === true
         ? await this.http
-            .fetch("/data/relatedVideo.json", { method: "GET" })
-            .then((data) => data.items)
+            .fetch("/data/videosByTopicId.json", { method: "GET" })
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
+                ...item,
+                id: item.id.videoId,
+              }))
+            )
         : await this.http
             .fetch("search", {
               method: "GET",
               params: {
                 part: "snippet",
-                maxResults: "10",
+                maxResults: "8",
                 type: "video",
                 topicId: topicId,
                 key: this.API_KEY,
               },
             })
-            .then((data) => data.items);
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
+                ...item,
+                id: item.id.videoId,
+              }))
+            );
 
     return this.getVideosWithChannelInfo(videos);
   }
 
   async getChannelsByChannelsID(channelsID: string) {
     if (this.MODE_DEV === true) {
-      return this.http
-        .fetch("/data/channelsByChannelsId.json", { method: "GET" })
-        .then((data) => data.items);
+      return this.http.fetch("/data/channelsByChannelsId.json", { method: "GET" }).then((data) =>
+        data.items.map((item: { id: { channelId: string } }) => ({
+          ...item,
+          id: item.id.channelId,
+        }))
+      );
     } else {
       return this.http
         .fetch("search", {
           method: "GET",
           params: {
             part: "snippet",
-            id: channelsID,
+            channelId: channelsID,
             key: this.API_KEY,
           },
         })
-        .then((data) => data.items);
+        .then((data) =>
+          data.items.map((item: { id: { channelId: string } }) => ({
+            ...item,
+            id: item.id.channelId,
+          }))
+        );
     }
   }
 }

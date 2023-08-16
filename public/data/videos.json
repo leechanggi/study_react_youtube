@@ -1,0 +1,1534 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "eunQfD67Kz08O1-SOrLNnbOrWQ8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "r8YbUDaSFq-7OwGim4u4MaKpuTc",
+      "id": "oCcks-fwq2c",
+      "snippet": {
+        "publishedAt": "2023-08-15T16:00:08Z",
+        "channelId": "UC4eYXhJI4-7wSWc8UNRwD4A",
+        "title": "Post Malone: Tiny Desk Concert",
+        "description": "Stephen Thompson | August 15, 2023\nThe Tiny Desk has hosted plenty of major pop, rock and hip-hop stars in its 15-plus years, but you'd be hard-pressed to find one more agreeable or self-effacing than Austin Richard Post. Whether lamenting the state of his singing voice, joking about his nerves or sitting slack-jawed in awe of the fantastic band his people had assembled for this show, Post had the bearing of a lottery winner who wouldn't even give himself credit for buying a ticket.\n\nBefore, during and after the show, Post Malone was a joy to have around. But he also just happened to bring a few of the biggest pop hits of the 21st century: Set-opener \"Sunflower,\" for example, has been certified eighteen-times platinum by the RIAA since its release in 2018 — that's an all-time record — while the 2017 single \"I Fall Apart\" and 2019's \"Circles\" lag behind at a mere ten-times platinum apiece. \"Enough Is Enough,\" which closes this set, enjoys no such designation, but give it time: A track from Post Malone's new album Austin, it's only been out for a few weeks.\n\nSo enjoy this set for what it is: one of the world's biggest stars, performing a few of the world's biggest songs, each set to a luminous arrangement. Post Malone himself seems surprised by how great this Tiny Desk concert sounds, and that's not just the humility talking.\n\nSET LIST\n\"Sunflower\"\n\"I Fall Apart\"\n\"Circles\"\n\"Enough Is Enough\"\n\nMUSICIANS\nAustin Post: lead vocalist, guitar \nHannah Juliano: vocalist\nElliot Aguilar: vocalist\nChauncey Matthews: vocalist\nKola Rail: vocalist\nDestin Johnson: drums\nEmily Rosenfield: guitar \nBobby Wooten: bass \nLouis Bell: piano\nKevin Kuh: strings \nFrancesca Dardani: strings \nKiku Enomoto: strings\nKirin McElwain: strings\n\nTINY DESK TEAM\nProducers: Bobby Carter, Suraya Mohamed\nDirector/Editor: Kara Frame\nAudio Engineer: Josh Rogosin\nCreative Director: Bob Boilen\nVideographers: Kara Frame, Maia Stern, Joshua Bryant, Zayrha Rodriguez, Sofia Seidel\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Catie Dull\nTiny Desk Team: Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#tinydesk #nprmusic #postmalone",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oCcks-fwq2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oCcks-fwq2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oCcks-fwq2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oCcks-fwq2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oCcks-fwq2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NPR Music",
+        "tags": [
+          "NPR",
+          "NPR Music",
+          "National Public Radio",
+          "Live",
+          "Performance",
+          "tiny desk",
+          "tiny desk concert",
+          "tony desk",
+          "tiny concert"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Post Malone: Tiny Desk Concert",
+          "description": "Stephen Thompson | August 15, 2023\nThe Tiny Desk has hosted plenty of major pop, rock and hip-hop stars in its 15-plus years, but you'd be hard-pressed to find one more agreeable or self-effacing than Austin Richard Post. Whether lamenting the state of his singing voice, joking about his nerves or sitting slack-jawed in awe of the fantastic band his people had assembled for this show, Post had the bearing of a lottery winner who wouldn't even give himself credit for buying a ticket.\n\nBefore, during and after the show, Post Malone was a joy to have around. But he also just happened to bring a few of the biggest pop hits of the 21st century: Set-opener \"Sunflower,\" for example, has been certified eighteen-times platinum by the RIAA since its release in 2018 — that's an all-time record — while the 2017 single \"I Fall Apart\" and 2019's \"Circles\" lag behind at a mere ten-times platinum apiece. \"Enough Is Enough,\" which closes this set, enjoys no such designation, but give it time: A track from Post Malone's new album Austin, it's only been out for a few weeks.\n\nSo enjoy this set for what it is: one of the world's biggest stars, performing a few of the world's biggest songs, each set to a luminous arrangement. Post Malone himself seems surprised by how great this Tiny Desk concert sounds, and that's not just the humility talking.\n\nSET LIST\n\"Sunflower\"\n\"I Fall Apart\"\n\"Circles\"\n\"Enough Is Enough\"\n\nMUSICIANS\nAustin Post: lead vocalist, guitar \nHannah Juliano: vocalist\nElliot Aguilar: vocalist\nChauncey Matthews: vocalist\nKola Rail: vocalist\nDestin Johnson: drums\nEmily Rosenfield: guitar \nBobby Wooten: bass \nLouis Bell: piano\nKevin Kuh: strings \nFrancesca Dardani: strings \nKiku Enomoto: strings\nKirin McElwain: strings\n\nTINY DESK TEAM\nProducers: Bobby Carter, Suraya Mohamed\nDirector/Editor: Kara Frame\nAudio Engineer: Josh Rogosin\nCreative Director: Bob Boilen\nVideographers: Kara Frame, Maia Stern, Joshua Bryant, Zayrha Rodriguez, Sofia Seidel\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Catie Dull\nTiny Desk Team: Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#tinydesk #nprmusic #postmalone"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1266443",
+        "likeCount": "80370",
+        "favoriteCount": "0",
+        "commentCount": "4202"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5UkqM3pBvDUu8g-_zGpVv9CCqUM",
+      "id": "OJS1BVniz5c",
+      "snippet": {
+        "publishedAt": "2023-08-15T14:00:13Z",
+        "channelId": "UCYAJjqIukwm4r3GHEpJDhVw",
+        "title": "NBA 2K24 | Official Gameplay Trailer",
+        "description": "First look at the #NBA2K24 gameplay trailer 🔥 ProPLAY delivers authentic moves from real NBA game film.\n\nPre-order NBA 2K24 Now ➡️ https://2kgam.es/445LUBb\nRead our Courtside Report ➡️ https://2kgam.es/3QEIi61\n\n#SeeYouOnTheCourt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJS1BVniz5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJS1BVniz5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJS1BVniz5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OJS1BVniz5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OJS1BVniz5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA 2K",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NBA 2K24 | Official Gameplay Trailer",
+          "description": "First look at the #NBA2K24 gameplay trailer 🔥 ProPLAY delivers authentic moves from real NBA game film.\n\nPre-order NBA 2K24 Now ➡️ https://2kgam.es/445LUBb\nRead our Courtside Report ➡️ https://2kgam.es/3QEIi61\n\n#SeeYouOnTheCourt"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "375429",
+        "likeCount": "14530",
+        "favoriteCount": "0",
+        "commentCount": "1376"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5RdIm-B8U4uUA9zmqOIkJ8Owclc",
+      "id": "cVU7iUq_XmA",
+      "snippet": {
+        "publishedAt": "2023-08-15T00:08:48Z",
+        "channelId": "UCyps-v4WNjWDnYRKmZ4BUGw",
+        "title": "I Ranked America’s Top 100 Fast Foods",
+        "description": "JOIN THE AIRRACK DISCORD: https://discord.gg/airrack\n\nFull tier list:\nhttps://tiermaker.com/create/100-drive-thru-tier-list-16022034?presentationMode=true \n\nFollow me on Instagram!\nINSTAGRAM ▶️ https://urlgeni.us/instagram/jBHg\n\nFOLLOW MY FRIENDS:\nTyler: https://www.youtube.com/c/tylerblanchard\nBeans: https://www.instagram.com/samuelj_thomas/?hl=en\nSteve: https://youtu.be/DetMPhUL-Tg\n\nGo visit Habenero Grill! https://g.co/kgs/ADa4kf\n\nI’m hiring! Apply for jobs here http://www.airrackjobs.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cVU7iUq_XmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cVU7iUq_XmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cVU7iUq_XmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cVU7iUq_XmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cVU7iUq_XmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Airrack",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Ranked America’s Top 100 Fast Foods",
+          "description": "JOIN THE AIRRACK DISCORD: https://discord.gg/airrack\n\nFull tier list:\nhttps://tiermaker.com/create/100-drive-thru-tier-list-16022034?presentationMode=true \n\nFollow me on Instagram!\nINSTAGRAM ▶️ https://urlgeni.us/instagram/jBHg\n\nFOLLOW MY FRIENDS:\nTyler: https://www.youtube.com/c/tylerblanchard\nBeans: https://www.instagram.com/samuelj_thomas/?hl=en\nSteve: https://youtu.be/DetMPhUL-Tg\n\nGo visit Habenero Grill! https://g.co/kgs/ADa4kf\n\nI’m hiring! Apply for jobs here http://www.airrackjobs.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "2259528",
+        "likeCount": "106758",
+        "favoriteCount": "0",
+        "commentCount": "8832"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WOEKwds-aksnasSNrHRVyE6owJA",
+      "id": "BriPpne6Yt8",
+      "snippet": {
+        "publishedAt": "2023-08-15T17:57:14Z",
+        "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
+        "title": "Tattoo on Transparent \"Skin\" at 20,000fps - The Slow Mo Guys",
+        "description": "Gav and Dan demonstrate some pretty shoddy tattoo skills into some ballistic gel allowing us to get a rather disturbing glimpse at what occurs below the surface of the skin in macro ultra-slow motion. If you're a bit iffy on needles, give this one a miss!\nCheck out the new probe lenses here! - https://laowacine.com/product/laowa-24mm-t8-2x-macro-pro2be/?ref=20\n\nInstagram - https://www.instagram.com/theslowmoguys\nTattoo on Transparent \"Skin\" at 20,000fps - The Slow Mo Guys\nFilmed on the Phantom TMX 7510",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BriPpne6Yt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BriPpne6Yt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BriPpne6Yt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BriPpne6Yt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BriPpne6Yt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Slow Mo Guys",
+        "tags": [
+          "slomo",
+          "slow",
+          "mo",
+          "super",
+          "motion",
+          "Slow Motion",
+          "1000",
+          "1000fps",
+          "gav",
+          "dan",
+          "slowmoguys",
+          "phantom",
+          "guys",
+          "HD",
+          "flex",
+          "gavin",
+          "free",
+          "gavin free",
+          "high speed camera",
+          "the slow mo guys",
+          "2000",
+          "2000fps",
+          "5000",
+          "5000fps",
+          "tattoo",
+          "skin",
+          "macro",
+          "inside",
+          "underneath",
+          "through"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Tattoo on Transparent \"Skin\" at 20,000fps - The Slow Mo Guys",
+          "description": "Gav and Dan demonstrate some pretty shoddy tattoo skills into some ballistic gel allowing us to get a rather disturbing glimpse at what occurs below the surface of the skin in macro ultra-slow motion. If you're a bit iffy on needles, give this one a miss!\nCheck out the new probe lenses here! - https://laowacine.com/product/laowa-24mm-t8-2x-macro-pro2be/?ref=20\n\nInstagram - https://www.instagram.com/theslowmoguys\nTattoo on Transparent \"Skin\" at 20,000fps - The Slow Mo Guys\nFilmed on the Phantom TMX 7510"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "statistics": {
+        "viewCount": "873657",
+        "likeCount": "43657",
+        "favoriteCount": "0",
+        "commentCount": "2159"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FWUhcGEjNntjFL564NJtEhFvgHA",
+      "id": "KdJ-Qwu3y4Y",
+      "snippet": {
+        "publishedAt": "2023-08-15T04:00:07Z",
+        "channelId": "UCCItZNGarpVTVrPaxUXi_qQ",
+        "title": "Victoria Monét - On My Mama (Official Video)",
+        "description": "Listen to \"On My Mama\" Here: \nhttps://victoriamonet.lnk.to/onmymama\n\nFollow Victoria Monét:\nInstagram: https://www.instagram.com/victoriamon...\nTikTok: https://www.tiktok.com/@victoriamonet\nTwitter: https://twitter.com/VictoriaMonet?ref...\nFacebook: https://www.facebook.com/VictoriaMonet/\n\nDirector: child.\nProduction Co.: 44 Content\nExecutive Producers: Missy Galanida, Isaac Rice, Andrea Saavedra\nProducers: Missy Galanida, Andrea Saavedra\nProduction Managers: Natasha Pierson, Kelo Thompson\nProduction Coordinator: Cariella Smith\n1st AD: George Harkness\n2nd AD: Arielle Zolezzi\n2nd 2nd AD: Jasmine Claypool\n\nDP: Jon Chema\n1st AC: Joseph Soria\n2nd AC: Harry Heng\nCamera Operator: Nick Muller\nDIT: Kyle Hoekstra\nCrane Operator: Bogdan Iofciulescu\nCrane Tech: Jeff Wessels\nMatrix Tech: Simon Shin\nKey Grip : Marlow Nunez\nBest Boy Grip: Paul Reynoso\nDolly Grip: Taylor Casebeer\nGrip: JQ Silva\nGrip Driver: Abel Soto\nGaffer/CLT: Marlon O’Brien\nACLT: Alice Becerra\n\nSLT/Driver: Raul Morales\nSLT: Mike Duong\nSLT: Mike Viera\nSLT: Dan Eckert\nProgrammer: Harry Schroeder\nLCP/Board Op: Tyler Sanderson\nBoard Operator: Harry Schroeder\n\nProduction Designer: Tyler Evans\nArt Director: Brendan Sheley\nSet Dresser: Theo Cohn\nSet Dresser: Corey Glenn\nArt Coordinator: Ciara Flynn\n\nCast Stylist: Rasheeda Ameera\nCast Hair/Make-Up: Julie Dinh\nCast Hair Assistant: Jessica-Amber Pineda\nCast Wardrobe: Aunna\nDancer Make-Up: Vicky G.\nDancer Styling: Damien Lloyd\n\nArtist Make-Up: Angie Mar\nArtist Hair: Tokyo Stylez\nArtist Styling: Kollin Carter\nStyling Assistant: Francesleslia Millien\nStyling Assistant: Juan Ortiz\nStyling Assistant: Jesstia Usher\nArtist Nails: Ween\nArtist Management: Rachelle Jean-Louis\nCreative Director: paradhime\n\nChoreographer: Sean Bankhead\nChoreographer Assistant/Dancer: Ahsia Pettigrew\nDancer: Luz Remigio-Frias\nDancer: Briana Morrison\nDancer: Tacir Roberson\nDancer: Shaq Reed\nDancer: Jasmine ‘JB’ Badie\nDancer: J Blaze\nDancer: Lyle Beniga\nDancer: Dario Boatner\n\nBuff Man: Tyrone W\nBuff Man: Therin M\nBuff Man: Corey R\nBuff Man: Quincy J\nHorn Player: Jarmal T\nHorn Player: Carter S\nHorn Player: Jamil A\nVixen: Daesha J\nVixen: Derri A\nVixen: Destinee\nKid: Blaze M\nKid: Nasya N\n\nBTS: Carlos Dupouy\nEditor: Vinnie Hobbs\nColorist: Joseph Bicknell @ Company 3\nVFX: Chroma VFX\nVFX Creative Director: Warren Paleos\nVFX Executive Producer: Andy Hamill\nVFX Managing Director: Lexi Jarman\nLead Flame: Mikey Smith\nSenior Flame: Marcus Wood\nDesign Lead: Nate Soto\n\nRCA Commissioner: Camille Yorrick\nLabel: RCA Records\n\nMoho Driver: Christina C. Lewis\nPA - Jose Chavez\nPA: Anthony Vega\nPA: Jack Galanida\nPA: Suren Arakelyan\nSet PA: Malachi Barnes\nPass Van PA: Vanessa Gonzalez\nTruck PA: McKay LeDuke\nTruck PA: Preston\n\nC\n\n#VictoriaMonet #OnMyMama #RnB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KdJ-Qwu3y4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KdJ-Qwu3y4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KdJ-Qwu3y4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KdJ-Qwu3y4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KdJ-Qwu3y4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VictoriaMonétVEVO",
+        "tags": [
+          "Lovett Music/RCA Records",
+          "On My Mama",
+          "R&B",
+          "Victoria Monét",
+          "Party Girls",
+          "Smoke",
+          "Buju Banton",
+          "We Might Even Be Falling in Love",
+          "Ari Lennox",
+          "Summer Walker",
+          "Ella Mai",
+          "Afrobeat",
+          "New R&B",
+          "Bryson Tiller",
+          "Lucky Daye",
+          "Ariana Grande",
+          "MONOPOLY",
+          "JAGUAR",
+          "Dive",
+          "Ass Like That",
+          "Coastin’",
+          "Big Boss (Interlude)",
+          "F.U.C.K.",
+          "Touch Me",
+          "Kehlani",
+          "Little More Time",
+          "Moment",
+          "Got Her Own",
+          "Little More",
+          "Machine Gun Kelly",
+          "All You Need",
+          "Experience",
+          "Khalid",
+          "SG Lewis",
+          "Open"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Victoria Monét - On My Mama (Official Video)",
+          "description": "Listen to \"On My Mama\" Here: \nhttps://victoriamonet.lnk.to/onmymama\n\nFollow Victoria Monét:\nInstagram: https://www.instagram.com/victoriamon...\nTikTok: https://www.tiktok.com/@victoriamonet\nTwitter: https://twitter.com/VictoriaMonet?ref...\nFacebook: https://www.facebook.com/VictoriaMonet/\n\nDirector: child.\nProduction Co.: 44 Content\nExecutive Producers: Missy Galanida, Isaac Rice, Andrea Saavedra\nProducers: Missy Galanida, Andrea Saavedra\nProduction Managers: Natasha Pierson, Kelo Thompson\nProduction Coordinator: Cariella Smith\n1st AD: George Harkness\n2nd AD: Arielle Zolezzi\n2nd 2nd AD: Jasmine Claypool\n\nDP: Jon Chema\n1st AC: Joseph Soria\n2nd AC: Harry Heng\nCamera Operator: Nick Muller\nDIT: Kyle Hoekstra\nCrane Operator: Bogdan Iofciulescu\nCrane Tech: Jeff Wessels\nMatrix Tech: Simon Shin\nKey Grip : Marlow Nunez\nBest Boy Grip: Paul Reynoso\nDolly Grip: Taylor Casebeer\nGrip: JQ Silva\nGrip Driver: Abel Soto\nGaffer/CLT: Marlon O’Brien\nACLT: Alice Becerra\n\nSLT/Driver: Raul Morales\nSLT: Mike Duong\nSLT: Mike Viera\nSLT: Dan Eckert\nProgrammer: Harry Schroeder\nLCP/Board Op: Tyler Sanderson\nBoard Operator: Harry Schroeder\n\nProduction Designer: Tyler Evans\nArt Director: Brendan Sheley\nSet Dresser: Theo Cohn\nSet Dresser: Corey Glenn\nArt Coordinator: Ciara Flynn\n\nCast Stylist: Rasheeda Ameera\nCast Hair/Make-Up: Julie Dinh\nCast Hair Assistant: Jessica-Amber Pineda\nCast Wardrobe: Aunna\nDancer Make-Up: Vicky G.\nDancer Styling: Damien Lloyd\n\nArtist Make-Up: Angie Mar\nArtist Hair: Tokyo Stylez\nArtist Styling: Kollin Carter\nStyling Assistant: Francesleslia Millien\nStyling Assistant: Juan Ortiz\nStyling Assistant: Jesstia Usher\nArtist Nails: Ween\nArtist Management: Rachelle Jean-Louis\nCreative Director: paradhime\n\nChoreographer: Sean Bankhead\nChoreographer Assistant/Dancer: Ahsia Pettigrew\nDancer: Luz Remigio-Frias\nDancer: Briana Morrison\nDancer: Tacir Roberson\nDancer: Shaq Reed\nDancer: Jasmine ‘JB’ Badie\nDancer: J Blaze\nDancer: Lyle Beniga\nDancer: Dario Boatner\n\nBuff Man: Tyrone W\nBuff Man: Therin M\nBuff Man: Corey R\nBuff Man: Quincy J\nHorn Player: Jarmal T\nHorn Player: Carter S\nHorn Player: Jamil A\nVixen: Daesha J\nVixen: Derri A\nVixen: Destinee\nKid: Blaze M\nKid: Nasya N\n\nBTS: Carlos Dupouy\nEditor: Vinnie Hobbs\nColorist: Joseph Bicknell @ Company 3\nVFX: Chroma VFX\nVFX Creative Director: Warren Paleos\nVFX Executive Producer: Andy Hamill\nVFX Managing Director: Lexi Jarman\nLead Flame: Mikey Smith\nSenior Flame: Marcus Wood\nDesign Lead: Nate Soto\n\nRCA Commissioner: Camille Yorrick\nLabel: RCA Records\n\nMoho Driver: Christina C. Lewis\nPA - Jose Chavez\nPA: Anthony Vega\nPA: Jack Galanida\nPA: Suren Arakelyan\nSet PA: Malachi Barnes\nPass Van PA: Vanessa Gonzalez\nTruck PA: McKay LeDuke\nTruck PA: Preston\n\nC\n\n#VictoriaMonet #OnMyMama #RnB"
+        }
+      },
+      "statistics": {
+        "viewCount": "461302",
+        "likeCount": "61406",
+        "favoriteCount": "0",
+        "commentCount": "4802"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r249ORKzrrXyhJOySLkymNFpeCQ",
+      "id": "at6KYLJOgo8",
+      "snippet": {
+        "publishedAt": "2023-08-14T21:10:21Z",
+        "channelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+        "title": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say",
+        "description": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS 17",
+        "tags": ["video"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say",
+          "description": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "704842",
+        "likeCount": "10742",
+        "favoriteCount": "0",
+        "commentCount": "6197"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xTzbiKWF1ogu51I18n1C_uSxK9g",
+      "id": "h7Mlf7chPJs",
+      "snippet": {
+        "publishedAt": "2023-08-15T10:26:14Z",
+        "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+        "title": "Spain vs. Sweden Highlights | 2023 FIFA Women's World Cup | Semifinals",
+        "description": "Spain and Sweden played against each looking to advance to the 2023 FIFA Women's World Cup finals. Check out the top moments and highlights here!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX Soccer",
+        "tags": [
+          "salma paralluelo",
+          "Spain",
+          "Sweden",
+          "FIFA Women's World Cup",
+          "World Cup",
+          "Rebecka Blomqvist",
+          "Olga Carmona"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Spain vs. Sweden Highlights | 2023 FIFA Women's World Cup | Semifinals",
+          "description": "Spain and Sweden played against each looking to advance to the 2023 FIFA Women's World Cup finals. Check out the top moments and highlights here!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "999906",
+        "likeCount": "9141",
+        "favoriteCount": "0",
+        "commentCount": "1161"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rhwnz3WEz1zcbv7h_65gD1jPeWk",
+      "id": "6CmX4ZmhwPM",
+      "snippet": {
+        "publishedAt": "2023-08-15T13:00:08Z",
+        "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "title": "Every Construction Machine Explained in 15 Minutes",
+        "description": "A very quick overview of nearly every machine you'll see on a construction site\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"Japan's Next Train Revolution\": https://nebula.tv/videos/realengineering-japans-next-train-revolution?ref=practical-engineering\n\nIt takes a lot of big tools to build the roads, dams, sewage lift stations, and every other part of the constructed environment. To me, there’s almost nothing more fun than watching something get built, and that’s made all the better when you know what all those machines do.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-every-construction-machine-explained-in-15-minutes?ref=practical-engineering\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady\u200b\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten by Ralph Crewe\nGraphics by Nebula Studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Engineering",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Every Construction Machine Explained in 15 Minutes",
+          "description": "A very quick overview of nearly every machine you'll see on a construction site\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"Japan's Next Train Revolution\": https://nebula.tv/videos/realengineering-japans-next-train-revolution?ref=practical-engineering\n\nIt takes a lot of big tools to build the roads, dams, sewage lift stations, and every other part of the constructed environment. To me, there’s almost nothing more fun than watching something get built, and that’s made all the better when you know what all those machines do.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-every-construction-machine-explained-in-15-minutes?ref=practical-engineering\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady\u200b\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten by Ralph Crewe\nGraphics by Nebula Studios"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "492190",
+        "likeCount": "28000",
+        "favoriteCount": "0",
+        "commentCount": "1574"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ToilXikrFa7EZEQWm3qkRDXil3Q",
+      "id": "OwNpwbpszxA",
+      "snippet": {
+        "publishedAt": "2023-08-14T18:04:24Z",
+        "channelId": "UCG8rbF3g2AMX70yOd8vqIZg",
+        "title": "My Boxing Return",
+        "description": "October 14, I’ve got a lot to prove…\nSUBSCRIBE FOR DAILY VLOGS! ► http://bit.ly/Subscribe2Logan\n\nWatch Previous Vlog (I Got Engaged) ► https://youtube.com/watch?v=hk1T_um0lCA&feature=sharea\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/LoganPaul/\nTWITTER: https://twitter.com/LoganPaul\n\nWatch our IMPAULSIVE Podcast ► https://www.youtube.com/impaulsive\nOR IMPAULSIVE CLIPS ► https://www.youtube.com/impaulsiveclips\n\nI’m a 28 year old living in Puerto Rico. This is my life.\nhttps://www.youtube.com/LoganPaulVlogs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Logan Paul",
+        "tags": [
+          "logan paul vlog",
+          "logan paul",
+          "logan",
+          "paul",
+          "olympics",
+          "logan paul youtube",
+          "vlog",
+          "daily",
+          "comedy",
+          "hollywood",
+          "parrot",
+          "maverick",
+          "bird",
+          "maverick clothes",
+          "Logan Paul boxing",
+          "dillon danis boxing",
+          "Dillon danis",
+          "Logan Paul VS McGregor",
+          "Conor McGregor"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "My Boxing Return",
+          "description": "October 14, I’ve got a lot to prove…\nSUBSCRIBE FOR DAILY VLOGS! ► http://bit.ly/Subscribe2Logan\n\nWatch Previous Vlog (I Got Engaged) ► https://youtube.com/watch?v=hk1T_um0lCA&feature=sharea\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/LoganPaul/\nTWITTER: https://twitter.com/LoganPaul\n\nWatch our IMPAULSIVE Podcast ► https://www.youtube.com/impaulsive\nOR IMPAULSIVE CLIPS ► https://www.youtube.com/impaulsiveclips\n\nI’m a 28 year old living in Puerto Rico. This is my life.\nhttps://www.youtube.com/LoganPaulVlogs"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1086239",
+        "likeCount": "77618",
+        "favoriteCount": "0",
+        "commentCount": "2370"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oy3bHZl_N4VNcI3GwuuS0_okL1U",
+      "id": "Ti-Uqcuk1F0",
+      "snippet": {
+        "publishedAt": "2023-08-14T17:00:12Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Guts VS Dimitri (Berserk VS Fire Emblem) | DEATH BATTLE!",
+        "description": "A fight of brutal avengers: Dragon Slayer faces the Blue Lion!\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n►Go to http://mintmobile.com/deathbattle to cut your wireless bill to 15 bucks a month. \n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"God's Hand\" - Battle Music\nComposed & performed by Brandon Yates \nLyrics by Logan Adams \nMix/Master by Anthony DiGiacomo \nSubscribe to Brandon Yates on YT:   @BrandonYates  \nStream on Spotify: https://open.spotify.com/track/2qBeIZ8I99hfyM3lYB8PLy?si=bd956e2bb9a6493e\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "RT",
+          "DBX",
+          "screwattack",
+          "death battle",
+          "rooster teeth",
+          "death battle cast",
+          "ben singer",
+          "chad james",
+          "animation",
+          "3D animation",
+          "animated battle",
+          "berserk",
+          "fire emblem",
+          "kentaro miura",
+          "blue lions",
+          "edelgard",
+          "dimitri",
+          "demetri",
+          "guts",
+          "casca",
+          "griffith",
+          "grifith",
+          "nintendo",
+          "three houses",
+          "three hopes",
+          "engage",
+          "smash bros",
+          "marth",
+          "ike",
+          "dragon slayer",
+          "black eagles",
+          "golden deer",
+          "ashen wolves",
+          "fire emblem heroes",
+          "paladin",
+          "berserker armor",
+          "berserker",
+          "berzerk",
+          "fireemblem",
+          "blue lion",
+          "nontendo"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Guts VS Dimitri (Berserk VS Fire Emblem) | DEATH BATTLE!",
+          "description": "A fight of brutal avengers: Dragon Slayer faces the Blue Lion!\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n►Go to http://mintmobile.com/deathbattle to cut your wireless bill to 15 bucks a month. \n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"God's Hand\" - Battle Music\nComposed & performed by Brandon Yates \nLyrics by Logan Adams \nMix/Master by Anthony DiGiacomo \nSubscribe to Brandon Yates on YT:   @BrandonYates  \nStream on Spotify: https://open.spotify.com/track/2qBeIZ8I99hfyM3lYB8PLy?si=bd956e2bb9a6493e\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "746855",
+        "likeCount": "43554",
+        "favoriteCount": "0",
+        "commentCount": "7299"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8xxohpmj-4aRz3h-e_cuwMFozbQ",
+      "id": "cgvQ80EtFOw",
+      "snippet": {
+        "publishedAt": "2023-08-15T01:15:02Z",
+        "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+        "title": "Goodbye Twitch",
+        "description": "This is the greatest twitch contract moment of All Time\nMerch https://moistglobal.com/\nComics https://badegg.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "penguinz0",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Goodbye Twitch",
+          "description": "This is the greatest twitch contract moment of All Time\nMerch https://moistglobal.com/\nComics https://badegg.co/"
+        }
+      },
+      "statistics": {
+        "viewCount": "3737889",
+        "likeCount": "188588",
+        "favoriteCount": "0",
+        "commentCount": "7145"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3I0Ix877ndtZplxRMqPIY-gEVHo",
+      "id": "cvix3JAbaBU",
+      "snippet": {
+        "publishedAt": "2023-08-15T01:13:50Z",
+        "channelId": "UChbQpxORq06uf2Wnj6yqKiQ",
+        "title": "Madden 24 Atlanta Falcons Franchise Rebuild Ep. 1",
+        "description": "2nd Channel (MLB): https://www.youtube.com/channel/UCevtUoM2ckL963Gta121vDg\n3rd Channel (Other Games): https://www.youtube.com/channel/UCW2u6gUxrEEGr1UEHk7JOtQ\n\n-Twitter: \nhttps://twitter.com/BengalYouTube\n\n-Twitch: \nhttps://www.twitch.tv/bengal\n\nInstagram:\nhttps://www.instagram.com/bengalyoutube/\n\nTiktok: https://www.tiktok.com/@bengalyoutube\n\nMadden 24 Atlanta Falcons Franchise Rebuild Ep. 1\n\n#Madden24Rebuild #Madden24Franchise #Madden24\n\nBusiness Email: contact@tablerockmanagement.com\n\nTHE Madden Rebuild King. Rebuild God. Lord Bengal King of the Franchise Rebuild. JK all for fun :). Franchise Rebuilds on Madden are just the bees knees and the cats pajamas. \n\nSeriously though, whether it's madden 24 rebuilds, madden 24 rebuilding, madden 24 realistic rebuilds or even madden 24 franchise mode, OR EVEN Madden 24 Superstar Mode I am painfully average. I also talk about NFL Football predictions NFL draft prospects, and the 2024 NFL Draft!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvix3JAbaBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvix3JAbaBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvix3JAbaBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cvix3JAbaBU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cvix3JAbaBU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bengal",
+        "tags": [
+          "madden rebuild",
+          "realistic rebuild",
+          "madden 24 gameplay",
+          "madden 24",
+          "madden 24 franchise",
+          "madden 24 franchise mode",
+          "madden 24 rebuild",
+          "madden 24 realistic rebuild",
+          "madden 24 franchise mode gameplay",
+          "madden 24 franchise mode ep 1",
+          "madden 24 falcons",
+          "madden 24 atlanta falcons",
+          "madden 24 atlanta falcons rebuild",
+          "madden 24 atlanta falcons franchise",
+          "madden 24 falcons franchise",
+          "madden 24 rebuilding the atlanta falcons",
+          "atlanta falcons rebuild",
+          "falcons franchise",
+          "madden franchise"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Madden 24 Atlanta Falcons Franchise Rebuild Ep. 1",
+          "description": "2nd Channel (MLB): https://www.youtube.com/channel/UCevtUoM2ckL963Gta121vDg\n3rd Channel (Other Games): https://www.youtube.com/channel/UCW2u6gUxrEEGr1UEHk7JOtQ\n\n-Twitter: \nhttps://twitter.com/BengalYouTube\n\n-Twitch: \nhttps://www.twitch.tv/bengal\n\nInstagram:\nhttps://www.instagram.com/bengalyoutube/\n\nTiktok: https://www.tiktok.com/@bengalyoutube\n\nMadden 24 Atlanta Falcons Franchise Rebuild Ep. 1\n\n#Madden24Rebuild #Madden24Franchise #Madden24\n\nBusiness Email: contact@tablerockmanagement.com\n\nTHE Madden Rebuild King. Rebuild God. Lord Bengal King of the Franchise Rebuild. JK all for fun :). Franchise Rebuilds on Madden are just the bees knees and the cats pajamas. \n\nSeriously though, whether it's madden 24 rebuilds, madden 24 rebuilding, madden 24 realistic rebuilds or even madden 24 franchise mode, OR EVEN Madden 24 Superstar Mode I am painfully average. I also talk about NFL Football predictions NFL draft prospects, and the 2024 NFL Draft!"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "258888",
+        "likeCount": "14564",
+        "favoriteCount": "0",
+        "commentCount": "1090"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UfWie4dTkvY9gxZOR5c2LWkgEoM",
+      "id": "jvtgn1jg3hc",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:45:02Z",
+        "channelId": "UCodkNmk9oWRTIYZdr_HuSlg",
+        "title": "Hermitcraft 9 Ep 44:  Scarland's MEGA Entrance Build!!",
+        "description": "Hermitcraft season 9 episode 44!  We are back on Hermitcraft for a mega build to finish the entrance to Scarland. The new building will be where the turnstiles will be for our guests will enter the park. We are so close to officially opening Scarland to the Hermits! We meet up with Grian to accidentally destroy the Buttercup tents and build a new  ButterCup HQ in a tree. I hope you enjoy it and let me know where Doc's Perimeter announcements are coming from so we can stop them! See you in the next episode!\n-----------------------------------------------------\n\n*Subscribe to my clips channel \"GoodClipsWithScar\"  https://www.youtube.com/channel/UCrmsyulCK0py5o94jcJTsFg\n\n*Subscribe to my VODS channel \"GoodVodsWithScar\"\nhttps://www.youtube.com/channel/UCE_lYxBSVZ4JzsULD4BVm9A\n\n----------------------------------------------------------\nMy Links and stuff:\n* Patreon: https://www.patreon.com/user?u=21298347\n* Twitter: http://twitter.com/#!/GTWScar\n* Twitch: http://www.twitch.tv/goodtimeswithscar\n* Instagram: http://instagram.com/goodtimeswithscar\n*TikTok: https://www.tiktok.com/@goodtokswithscar\n*Business Inquiries Send to: gtws@pbnj.gg\n---------------------------------------------------------\nHermitcraft SMP - season 9 info and seed coming soon.\n\nFor more information and links to all things Hermitcraft, follow the link to the Hermitcraft website: https://hermitcraft.com/\n\n-------------------------------------------------------\n\n#Hermitcraft9 #HermitcraftSeason9 #GoodTimesWithScar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GoodTimesWithScar",
+        "tags": [
+          "minecraft",
+          "hermitcraft 9",
+          "hermitcraft season 9",
+          "minecraft server",
+          "hermit craft",
+          "hermitcraft",
+          "season 9",
+          "hermitcraft 9 scar",
+          "hermitcraft season 9 scar",
+          "scarland",
+          "hermitcraft scarland",
+          "scarland hermitcraft",
+          "hermitcraft mega build",
+          "hermitcraft mega base",
+          "Scarland redstone handyman",
+          "goodtimeswithscar",
+          "scar",
+          "buttercups",
+          "hermitcraft buttercup camp",
+          "minecraft hermitcraft 9",
+          "minecraft hermitcraft scar",
+          "minecraft mega base tour"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hermitcraft 9 Ep 44:  Scarland's MEGA Entrance Build!!",
+          "description": "Hermitcraft season 9 episode 44!  We are back on Hermitcraft for a mega build to finish the entrance to Scarland. The new building will be where the turnstiles will be for our guests will enter the park. We are so close to officially opening Scarland to the Hermits! We meet up with Grian to accidentally destroy the Buttercup tents and build a new  ButterCup HQ in a tree. I hope you enjoy it and let me know where Doc's Perimeter announcements are coming from so we can stop them! See you in the next episode!\n-----------------------------------------------------\n\n*Subscribe to my clips channel \"GoodClipsWithScar\"  https://www.youtube.com/channel/UCrmsyulCK0py5o94jcJTsFg\n\n*Subscribe to my VODS channel \"GoodVodsWithScar\"\nhttps://www.youtube.com/channel/UCE_lYxBSVZ4JzsULD4BVm9A\n\n----------------------------------------------------------\nMy Links and stuff:\n* Patreon: https://www.patreon.com/user?u=21298347\n* Twitter: http://twitter.com/#!/GTWScar\n* Twitch: http://www.twitch.tv/goodtimeswithscar\n* Instagram: http://instagram.com/goodtimeswithscar\n*TikTok: https://www.tiktok.com/@goodtokswithscar\n*Business Inquiries Send to: gtws@pbnj.gg\n---------------------------------------------------------\nHermitcraft SMP - season 9 info and seed coming soon.\n\nFor more information and links to all things Hermitcraft, follow the link to the Hermitcraft website: https://hermitcraft.com/\n\n-------------------------------------------------------\n\n#Hermitcraft9 #HermitcraftSeason9 #GoodTimesWithScar"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "167614",
+        "likeCount": "18923",
+        "favoriteCount": "0",
+        "commentCount": "2459"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HEqfHwpbXbosv63kE_YCCC_xm34",
+      "id": "fsjhRmq9S2s",
+      "snippet": {
+        "publishedAt": "2023-08-14T23:16:45Z",
+        "channelId": "UC5caRbGN5SukgJnj2ecK_wA",
+        "title": "Moving Forward",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsjhRmq9S2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsjhRmq9S2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsjhRmq9S2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fsjhRmq9S2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Oliver Anthony Music",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Moving Forward",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "566429",
+        "likeCount": "66778",
+        "favoriteCount": "0",
+        "commentCount": "7769"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IN-5QdxNZaR9nuhGOITuzejQiBo",
+      "id": "M_x7zq92lc8",
+      "snippet": {
+        "publishedAt": "2023-08-15T11:30:14Z",
+        "channelId": "UCn4rEMqKtwBQ6-oEwbd4PcA",
+        "title": "LEO - Glimpse of Harold Das | Thalapathy Vijay | Lokesh Kanagaraj | Anirudh Ravichander",
+        "description": "Movie : Leo\n\nStarring - Thalapathy Vijay, Sanjay Dutt, Trisha, Arjun, Gautham Vasudev Menon, Mysskin, Mansoor Ali Khan, Priya Anand\n\nWritten & Directed by Lokesh Kanagaraj\nMusic : Anirudh Ravichander\nProducer : Lalit Kumar\nCo Producer : Jagadish Palanisamy\nBanner : Seven Screen Studio\nDirector of Photography : Manoj Paramahamsa\nAction : Anbariv \nEditor : Philomin Raj \nArt Direction : N. Sathees Kumar \nChoreography : Dinesh\nCostume designers - Pallavi Singh, Eka Lakhani, Praveen Raja\nDialogue Writer : Lokesh Kanagaraj, Rathna Kumar, Deeraj Vaidy\nPRO :  Riaz K Ahmed  \nPublicity Designer : Gopi Prasannaa\nSound Designer : SYNC Cinema \nSound Mixing : Kannan Ganapat \nProduction Controller : KTS Swaminathan\nExecutive Producer : Ramkumar Balasubramanian\nAssociate Director : Santhosh Krishnan, Sathya, Immanuel Prakash, Rohith Surya\nDI ; IGENE\nColorist ; Glen Castinho\nAsst Colorist ;Siva Sankar\n\nMusic Label - Sony Music Entertainment India Pvt. Ltd.\n\n© 2023 Sony Music Entertainment India Pvt. Ltd.\n\nSubscribe Now: http://bit.ly/SonyMusicSouthVevo\nSubscribe Now: http://bit.ly/SonyMusicSouthYT\nFollow us: https://www.instagram.com/sonymusic_south/\nFollow us: Twitter: https://twitter.com/SonyMusicSouth\nLike us: Facebook: https://www.facebook.com/SonyMusicSouth",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_x7zq92lc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_x7zq92lc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_x7zq92lc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M_x7zq92lc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M_x7zq92lc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sony Music South",
+        "tags": [
+          "Sony Music South",
+          "Sony Music",
+          "Latest Song",
+          "Tamil song",
+          "Tamil Latest Song",
+          "Tamil Latest Songs 2023",
+          "Latest songs in Tamil",
+          "Songs in Tamil",
+          "Latest Tamil Movies",
+          "Tamil Movie Songs",
+          "Latest Video Songs Tamil",
+          "latest Tamil Love Songs",
+          "Latest Tamil Hit Songs",
+          "Telugu Songs 2023",
+          "Songs in Telugu",
+          "Telugu Movie Songs",
+          "Video Songs Telugu",
+          "new Telugu Songs"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "LEO - Glimpse of Harold Das | Thalapathy Vijay | Lokesh Kanagaraj | Anirudh Ravichander",
+          "description": "Movie : Leo\n\nStarring - Thalapathy Vijay, Sanjay Dutt, Trisha, Arjun, Gautham Vasudev Menon, Mysskin, Mansoor Ali Khan, Priya Anand\n\nWritten & Directed by Lokesh Kanagaraj\nMusic : Anirudh Ravichander\nProducer : Lalit Kumar\nCo Producer : Jagadish Palanisamy\nBanner : Seven Screen Studio\nDirector of Photography : Manoj Paramahamsa\nAction : Anbariv \nEditor : Philomin Raj \nArt Direction : N. Sathees Kumar \nChoreography : Dinesh\nCostume designers - Pallavi Singh, Eka Lakhani, Praveen Raja\nDialogue Writer : Lokesh Kanagaraj, Rathna Kumar, Deeraj Vaidy\nPRO :  Riaz K Ahmed  \nPublicity Designer : Gopi Prasannaa\nSound Designer : SYNC Cinema \nSound Mixing : Kannan Ganapat \nProduction Controller : KTS Swaminathan\nExecutive Producer : Ramkumar Balasubramanian\nAssociate Director : Santhosh Krishnan, Sathya, Immanuel Prakash, Rohith Surya\nDI ; IGENE\nColorist ; Glen Castinho\nAsst Colorist ;Siva Sankar\n\nMusic Label - Sony Music Entertainment India Pvt. Ltd.\n\n© 2023 Sony Music Entertainment India Pvt. Ltd.\n\nSubscribe Now: http://bit.ly/SonyMusicSouthVevo\nSubscribe Now: http://bit.ly/SonyMusicSouthYT\nFollow us: https://www.instagram.com/sonymusic_south/\nFollow us: Twitter: https://twitter.com/SonyMusicSouth\nLike us: Facebook: https://www.facebook.com/SonyMusicSouth"
+        },
+        "defaultAudioLanguage": "en-IN"
+      },
+      "statistics": {
+        "viewCount": "9922933",
+        "likeCount": "815570",
+        "favoriteCount": "0",
+        "commentCount": "24209"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nol3HyB8HEtR6gOItJVZ83pZi2c",
+      "id": "vrt_fjUVqiA",
+      "snippet": {
+        "publishedAt": "2023-08-15T08:00:32Z",
+        "channelId": "UC85aYbNSFjsJdxfpxgQr8tA",
+        "title": "Easily 3 Star Clashiversary Challenge #3 (Clash of Clans)",
+        "description": "The Clash of Clans 2023 Clashiversary Event progresses to Challenge 3. The Future Queen Skin is showcased in this level designed by Yuta14. It involves a Queen Charge strategy to the Town Hall and can be tricky if you have not done it before. I did want to thank iTzu for helping me with the consistency of this method - namely how to save all of the troops until after the TH is destroyed. If you activate it too early it can end up taking down your healers. Best of luck with your 3 stars!\n\nVOTE FOR JUDO: https://esportsawards.com/vote/\n\niTzu Gaming: https://www.youtube.com/@itzueng-clashofclans\n\nSuggested Videos:\nI Broke Clash of Clans: https://www.youtube.com/watch?v=8i4hz2i0BF8\nHow Much $$ to Gem the New 6th Builder: https://www.youtube.com/watch?v=MOAsvOI7o_I\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #Clashiversary #ClashOfClansEvent\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Judo Sloth Gaming",
+        "tags": [
+          "clash of clans",
+          "coc",
+          "clash of clans gameplay",
+          "clash of clans attacks",
+          "clash of clans strategy",
+          "judo sloth",
+          "clashiversary challenge 3",
+          "clashiversary challenge #3",
+          "clashiversary challenge 2023",
+          "clashiversary 2023",
+          "future queen",
+          "future archer queen",
+          "yuta14",
+          "yuta14 challenge",
+          "coc new event attack",
+          "clash of clans new event attack",
+          "3 star clashiversary challenge 3",
+          "clashiversary challenge guide",
+          "clashiversary attack",
+          "clashiversary strategy",
+          "how to beat clashiversary challenge"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Easily 3 Star Clashiversary Challenge #3 (Clash of Clans)",
+          "description": "The Clash of Clans 2023 Clashiversary Event progresses to Challenge 3. The Future Queen Skin is showcased in this level designed by Yuta14. It involves a Queen Charge strategy to the Town Hall and can be tricky if you have not done it before. I did want to thank iTzu for helping me with the consistency of this method - namely how to save all of the troops until after the TH is destroyed. If you activate it too early it can end up taking down your healers. Best of luck with your 3 stars!\n\nVOTE FOR JUDO: https://esportsawards.com/vote/\n\niTzu Gaming: https://www.youtube.com/@itzueng-clashofclans\n\nSuggested Videos:\nI Broke Clash of Clans: https://www.youtube.com/watch?v=8i4hz2i0BF8\nHow Much $$ to Gem the New 6th Builder: https://www.youtube.com/watch?v=MOAsvOI7o_I\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #Clashiversary #ClashOfClansEvent\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "651105",
+        "likeCount": "26645",
+        "favoriteCount": "0",
+        "commentCount": "1354"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cTNE4QRfv8jUz3G2U4YTx6vi4V4",
+      "id": "cJmif9WwXAk",
+      "snippet": {
+        "publishedAt": "2023-08-15T17:00:23Z",
+        "channelId": "UCOXFSF5oi4v24mKzwi94D8w",
+        "title": "Mortal Kombat 1 Final Characters Revealed!",
+        "description": "The Final Characters for Mortal Kombat 1 have been Revealed! Both the Main Roster and Kameo Fighters have Been Solved! Which Character do You Want the Most in Mortal Kombat 1? Post in the Comments!\n\n#MortalKombat1 #mk12 #mortalkombat12 #mortalkombat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJmif9WwXAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJmif9WwXAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJmif9WwXAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cJmif9WwXAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cJmif9WwXAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TrueUnderDawgGaming",
+        "tags": [
+          "mortal kombat 1",
+          "mortal kombat",
+          "mortal kombat 1 characters",
+          "mortal kombat 1 trailer",
+          "mortal kombat 1 gameplay",
+          "mortal kombat 1 reaction",
+          "mortal kombat 1 new trailer",
+          "mortal kombat 1 new gameplay",
+          "mortal kombat 1 trailer reaction",
+          "mortal kombat 1 sindel",
+          "mortal kombat 1 reptile",
+          "mortal kombat 1 shao kahn",
+          "mortal kombat 1 news",
+          "mortal kombat 1 reveal",
+          "mortal kombat 1 ermac",
+          "mortal kombat 1 new character"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mortal Kombat 1 Final Characters Revealed!",
+          "description": "The Final Characters for Mortal Kombat 1 have been Revealed! Both the Main Roster and Kameo Fighters have Been Solved! Which Character do You Want the Most in Mortal Kombat 1? Post in the Comments!\n\n#MortalKombat1 #mk12 #mortalkombat12 #mortalkombat"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "178647",
+        "likeCount": "6889",
+        "favoriteCount": "0",
+        "commentCount": "2213"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ion5Y_anqB4DMbM6s7qtJ8l164",
+      "id": "jObOjhUkf50",
+      "snippet": {
+        "publishedAt": "2023-08-12T15:59:59Z",
+        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "title": "$1 vs $250,000 Vacation!",
+        "description": "I did not expect the $250,000 vacation to be that crazy…\n\nThank you teamLab Planets TOKYO for letting us film!\n\nThanks to the Pullman Paris Tour Eiffel -  http://www.instagram.com/pullmantoureiffel\n\nAll filming at the Eiffel Tower required the authorizations and supervision from SETE: Société d'Exploitation de la Tour Eiffel (operating company of the Eiffel Tower). Thank you to SETE and their staff. \n\nNew Merch - https://mrbeast.store\n\nDiscover over 1 million mainstream tracks for your YouTube videos at Lickd: https://go.lickd.co/mb3\n\nTrack: Also Sprach Zarathustra: Einleitung, oder Sonnenaufgang (From \"2001: A Space Odyssey\") by The City of Prague Philharmonic Orchestra.\nLicense ID: kPD1jPZN2xJ http://lickd.lnk.to/ZLK5sBIm\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jObOjhUkf50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jObOjhUkf50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jObOjhUkf50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jObOjhUkf50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jObOjhUkf50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrBeast",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "$1 vs $250,000 Vacation!",
+          "description": "I did not expect the $250,000 vacation to be that crazy…\n\nThank you teamLab Planets TOKYO for letting us film!\n\nThanks to the Pullman Paris Tour Eiffel -  http://www.instagram.com/pullmantoureiffel\n\nAll filming at the Eiffel Tower required the authorizations and supervision from SETE: Société d'Exploitation de la Tour Eiffel (operating company of the Eiffel Tower). Thank you to SETE and their staff. \n\nNew Merch - https://mrbeast.store\n\nDiscover over 1 million mainstream tracks for your YouTube videos at Lickd: https://go.lickd.co/mb3\n\nTrack: Also Sprach Zarathustra: Einleitung, oder Sonnenaufgang (From \"2001: A Space Odyssey\") by The City of Prague Philharmonic Orchestra.\nLicense ID: kPD1jPZN2xJ http://lickd.lnk.to/ZLK5sBIm\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "87536556",
+        "likeCount": "4004050",
+        "favoriteCount": "0",
+        "commentCount": "91452"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7NGl_cxCSoFm9RLhVPx387GvZEg",
+      "id": "2YAtisTGswA",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:30:00Z",
+        "channelId": "UCONTNY-QxA-UVtpR7vWW6Pg",
+        "title": "Finally giving my Barbie Review.... Plz don't hate me",
+        "description": "A Registered Lifetime Barbie Expert reveals her flamboyant and annoying opinions on Barbie The Movie. Did I love it? Did I hate it? Maybe a little of both? find out! \nYou can shop my favorites at https://tdup.co/MICARAH and use my code MICARAH icfor an extra 40% off and free shipping on your first order. (Offer expires 10/1/23. Applies to US & Canada customers only and only applicable to select merchandise. See site for full terms). This video is sponsored by thredUP!\n\nIG: micarahtewers\nTikTok: micaraht\nTwitter: oh wait twitter doesn't exist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YAtisTGswA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YAtisTGswA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YAtisTGswA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2YAtisTGswA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2YAtisTGswA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Micarah Tewers",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Finally giving my Barbie Review.... Plz don't hate me",
+          "description": "A Registered Lifetime Barbie Expert reveals her flamboyant and annoying opinions on Barbie The Movie. Did I love it? Did I hate it? Maybe a little of both? find out! \nYou can shop my favorites at https://tdup.co/MICARAH and use my code MICARAH icfor an extra 40% off and free shipping on your first order. (Offer expires 10/1/23. Applies to US & Canada customers only and only applicable to select merchandise. See site for full terms). This video is sponsored by thredUP!\n\nIG: micarahtewers\nTikTok: micaraht\nTwitter: oh wait twitter doesn't exist"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "196970",
+        "likeCount": "20218",
+        "favoriteCount": "0",
+        "commentCount": "2355"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "goIUJ0tjm0kyx9SCMqOMMb7dzbI",
+      "id": "_2q39eggvZw",
+      "snippet": {
+        "publishedAt": "2023-08-12T19:57:56Z",
+        "channelId": "UC01qwqOU14BwNZc0cc8iKWA",
+        "title": "Highlights | Hull KR v Leigh Leopards, 2023 Betfred Challenge Cup Final",
+        "description": "\u200bWatch all the highlights as Hull KR took on Leigh Leopards in a thrilling 2023 Betfred Challenge Cup Final.\n\nFollow the Betfred Challenge Cup on social media:\n\nTwitter - @TheChallengeCup \nFacebook - Challenge Cup\nInstagram - @TheChallengeCup",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Rugby League",
+        "tags": ["super", "league", "rugby", "sport", "big", "hits"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Highlights | Hull KR v Leigh Leopards, 2023 Betfred Challenge Cup Final",
+          "description": "\u200bWatch all the highlights as Hull KR took on Leigh Leopards in a thrilling 2023 Betfred Challenge Cup Final.\n\nFollow the Betfred Challenge Cup on social media:\n\nTwitter - @TheChallengeCup \nFacebook - Challenge Cup\nInstagram - @TheChallengeCup"
+        }
+      },
+      "statistics": {
+        "viewCount": "70534",
+        "likeCount": "966",
+        "favoriteCount": "0",
+        "commentCount": "196"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lWJiTTPnPkfaHPx6CRl2DCTecjM",
+      "id": "1Zf9odZDzRo",
+      "snippet": {
+        "publishedAt": "2023-08-13T21:29:09Z",
+        "channelId": "UCKC725227kUrIiW-52TESyw",
+        "title": "Oliver Anthony - Rich Men North Of Richmond (REACTION!)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Zf9odZDzRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Zf9odZDzRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Zf9odZDzRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Zf9odZDzRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Zf9odZDzRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CartierFamily",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Oliver Anthony - Rich Men North Of Richmond (REACTION!)",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "711508",
+        "likeCount": "33080",
+        "favoriteCount": "0",
+        "commentCount": "5379"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yiQh1LijxXNRyyNk3GMzsG5Q2TE",
+      "id": "y0bJCD3_wz4",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:59:48Z",
+        "channelId": "UCwtnkRZcvL4bfopzJ-Von8Q",
+        "title": "Who Wore it Better? Twin VS Twin! - Merrell Twins",
+        "description": "Who wore it better? We styled the same accessories/clothing with things from our closets! This was such a fun challenge!\nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nMERRELL TWINS LIVE ▶ https://www.youtube.com/merrelltwinslive\nOUR MERCH ▶ https://fanjoy.co/collections/merrell-twins\n\nFOLLOW US ON SOCIAL MEDIA\nMERRELL TWINS\nTIKTOK:▶ @merrelltwins\nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nTWITTER: ▶https://twitter.com/MerrellTwins\nFACEBOOK: https://www.facebook.com/MerrellTwins\nWEBSITE: www.merrelltwins.com\n \nVANESSA MERRELL\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTIKTOK: @vanessamerrell\n \nVERONICA MERRELL\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nTIKTOK: @veronicamerrell\n \nMORE VIDEOS\nREACTING TO OUR OLD BARBIE COLLECTION\nhttps://youtu.be/DRF6hmYV07M\nTRYING THE MOST ODDLY SATISFYING THINGS\nhttps://youtu.be/tJUUQrGQb7E\nWE BECAME MERMAIDS FOR A DAY\nhttps://youtu.be/fAjoLf7E5ug\nTHE SECOND DATE\nhttps://youtu.be/jFSwAf51Wn8\nTESTING VIRAL TIK TOK HACKS\nhttps://youtu.be/ec9uZSXqBfY\nOUR ROOM TOUR\nhttps://youtu.be/ihMYnsipT5E\nGUACAMOLE SONG\nhttps://youtu.be/y8tAO3Ov8gs\nNORMAL PEOPLE vs INFLUENCERS\nhttps://youtu.be/CCi_H6s5ZKE\nTHE THIRD WHEEL\nhttps://youtu.be/uHYI42E8TKY\nTHAT ONE FRIEND\nhttps://youtu.be/aeOpNraDKy8\nMerrell Twins Exposed ep1\nhttps://youtu.be/mWXurqWRA74\n2 Sets of Twins Drive Thru Prank\nhttps://youtu.be/p15SVRulr58\nFans Write our Video\nhttps://youtu.be/WI0LYRZErjU\nThe Break Up\nhttps://youtu.be/MyS8AjVj9FQ\nIF FOOD BABIES WERE REAL\nhttps://youtu.be/joMRNv0SlYE\nTHIS COULD BE YOU\nhttps://youtu.be/U9v_bUMqFHg\n\nWe’re identical twin sisters who have been consistently making videos since 2013. We post videos showcasing our range in both comedy and music such as original comedy sketches, original scripted series, original songs, original music videos, gaming videos, weekly live streams, weekly gaming livestreams, twin swaps, twin sister vs twin sister, popular song parodies, popular song covers, original funny songs, 24 hour challenges, popular challenges, popular trends, lifestyle, fashion, and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0bJCD3_wz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0bJCD3_wz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0bJCD3_wz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y0bJCD3_wz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y0bJCD3_wz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "merrelltwins",
+        "tags": [
+          "Merrell Twins",
+          "Twins",
+          "Merrell",
+          "Veronica Merrell",
+          "Vanessa Merrell",
+          "Twin",
+          "Comedy",
+          "Family Friendly",
+          "you decide",
+          "vs",
+          "who wore it better",
+          "who wore it better brooklyn and bailey",
+          "fashion",
+          "twin vs twin",
+          "brooklyn and bailey",
+          "sister vs sister",
+          "who wore it best",
+          "who wore it better challenge"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Who Wore it Better? Twin VS Twin! - Merrell Twins",
+          "description": "Who wore it better? We styled the same accessories/clothing with things from our closets! This was such a fun challenge!\nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nMERRELL TWINS LIVE ▶ https://www.youtube.com/merrelltwinslive\nOUR MERCH ▶ https://fanjoy.co/collections/merrell-twins\n\nFOLLOW US ON SOCIAL MEDIA\nMERRELL TWINS\nTIKTOK:▶ @merrelltwins\nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nTWITTER: ▶https://twitter.com/MerrellTwins\nFACEBOOK: https://www.facebook.com/MerrellTwins\nWEBSITE: www.merrelltwins.com\n \nVANESSA MERRELL\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTIKTOK: @vanessamerrell\n \nVERONICA MERRELL\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nTIKTOK: @veronicamerrell\n \nMORE VIDEOS\nREACTING TO OUR OLD BARBIE COLLECTION\nhttps://youtu.be/DRF6hmYV07M\nTRYING THE MOST ODDLY SATISFYING THINGS\nhttps://youtu.be/tJUUQrGQb7E\nWE BECAME MERMAIDS FOR A DAY\nhttps://youtu.be/fAjoLf7E5ug\nTHE SECOND DATE\nhttps://youtu.be/jFSwAf51Wn8\nTESTING VIRAL TIK TOK HACKS\nhttps://youtu.be/ec9uZSXqBfY\nOUR ROOM TOUR\nhttps://youtu.be/ihMYnsipT5E\nGUACAMOLE SONG\nhttps://youtu.be/y8tAO3Ov8gs\nNORMAL PEOPLE vs INFLUENCERS\nhttps://youtu.be/CCi_H6s5ZKE\nTHE THIRD WHEEL\nhttps://youtu.be/uHYI42E8TKY\nTHAT ONE FRIEND\nhttps://youtu.be/aeOpNraDKy8\nMerrell Twins Exposed ep1\nhttps://youtu.be/mWXurqWRA74\n2 Sets of Twins Drive Thru Prank\nhttps://youtu.be/p15SVRulr58\nFans Write our Video\nhttps://youtu.be/WI0LYRZErjU\nThe Break Up\nhttps://youtu.be/MyS8AjVj9FQ\nIF FOOD BABIES WERE REAL\nhttps://youtu.be/joMRNv0SlYE\nTHIS COULD BE YOU\nhttps://youtu.be/U9v_bUMqFHg\n\nWe’re identical twin sisters who have been consistently making videos since 2013. We post videos showcasing our range in both comedy and music such as original comedy sketches, original scripted series, original songs, original music videos, gaming videos, weekly live streams, weekly gaming livestreams, twin swaps, twin sister vs twin sister, popular song parodies, popular song covers, original funny songs, 24 hour challenges, popular challenges, popular trends, lifestyle, fashion, and much more!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "165869",
+        "likeCount": "10863",
+        "favoriteCount": "0",
+        "commentCount": "891"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vvwp1JFvJI8PWpDiXpx5Aml1DWE",
+      "id": "dMAF9jsMD9k",
+      "snippet": {
+        "publishedAt": "2023-08-14T17:52:28Z",
+        "channelId": "UCNBmxc6FvKyxtCpUygcdINA",
+        "title": "Judge finds Mackenzie Shirilla guilty of murder in deadly Strongsville crash that killed 2",
+        "description": "The verdict is in for 19-year-old Mackenzie Shirilla.\r\n\r\nA judge found the Strongsville teen guilty of murder in the deadly 2022 crash that killed her boyfriend as well as another teen. Stay tuned for updates.\n\nREAD MORE: https://www.wkyc.com/article/news/crime/mackenzie-shirilla-verdict-strongsville-crash-dominic-russo-davion-flanagan/95-11ab2c85-49b1-41af-8b13-bdd66fc5a04d\n\nAt 3News, we’re not here to tell you the news, we’re here to share the stories that you say matter most to you. Share your ideas, thoughts, concerns and engage in conversations about the communities in which we all call home.\n\nFollow 3News on Social:\n\nFacebook: https://www.facebook.com/wkyc.channel3/  \nTwitter: https://twitter.com/wkyc  \nInstagram: https://www.instagram.com/wkyc3/  \n\nVisit our site: https://www.wkyc.com/\nAnd be sure to download our app here: https://wkyc.com/app",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dMAF9jsMD9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dMAF9jsMD9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dMAF9jsMD9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dMAF9jsMD9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "WKYC Channel 3",
+        "tags": ["[ crime", "local ]", "news"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Judge finds Mackenzie Shirilla guilty of murder in deadly Strongsville crash that killed 2",
+          "description": "The verdict is in for 19-year-old Mackenzie Shirilla.\r\n\r\nA judge found the Strongsville teen guilty of murder in the deadly 2022 crash that killed her boyfriend as well as another teen. Stay tuned for updates.\n\nREAD MORE: https://www.wkyc.com/article/news/crime/mackenzie-shirilla-verdict-strongsville-crash-dominic-russo-davion-flanagan/95-11ab2c85-49b1-41af-8b13-bdd66fc5a04d\n\nAt 3News, we’re not here to tell you the news, we’re here to share the stories that you say matter most to you. Share your ideas, thoughts, concerns and engage in conversations about the communities in which we all call home.\n\nFollow 3News on Social:\n\nFacebook: https://www.facebook.com/wkyc.channel3/  \nTwitter: https://twitter.com/wkyc  \nInstagram: https://www.instagram.com/wkyc3/  \n\nVisit our site: https://www.wkyc.com/\nAnd be sure to download our app here: https://wkyc.com/app"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "929716",
+        "likeCount": "10677",
+        "favoriteCount": "0",
+        "commentCount": "6775"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "icywu4TFNx0itqgEHiMdg1cW8mo",
+      "id": "0ZHqpryYv4c",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:00:00Z",
+        "channelId": "UCXhj2pPWvONXmvgHX5wllCA",
+        "title": "Stray Kids 『Social Path (feat. LiSA)』 Music Video Teaser 1",
+        "description": "■2023年9月6日(水) Release\nJAPAN 1st EP『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』\n特設サイト：https://www.straykidsjapan.com/japan_1st_ep/\nご予約はこちら：https://straykids.lnk.to/KEIy08\n\n■「Super Bowl -Japanese ver.-」配信はコチラ\nhttps://straykids.lnk.to/G2d3XxsA\n\n■Stray Kids Japan Official Site : https://www.straykidsjapan.com\n■Twitter : Japan Official Twitter : https://twitter.com/stray_kids_jp\n■Instagram : Japan Official Instagram : https://www.instagram.com/straykids_official_jp/\n■TikTok : Japan Official TikTok : https://www.tiktok.com/@straykids_japan\n■Stray Kids Japan Official YouTube : https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA\n■Stray Kids Japan Official FANCLUB : https://skz-stayjapan.com/s/n104/page/about_main\n\n\n■2023年9月6日(水) Release\nJAPAN 1st EP『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』\n\n初回生産限定盤A : CD＋Blu-ray ￥3,500 / ESCL-5870～5871\n＊24P PHOTO BOOK (Type A)\n＊オリジナルジャケット・トールケースサイズデジパック仕様\n＊シリアルナンバー2口封入\n＊フォトカードA封入 (メンバー別全16種より2枚ランダム封入)\n＊オリジナルステッカーA (メンバー別全8種より1枚ランダム封入)\n＊Blu-ray 収録内容\n・Jacket Shooting Making Movie\n・「Social Path (feat. LiSA) 」 Recording Making Movie\n・「Super Bowl -Japanese ver.-」 Music Video\n・「Super Bowl -Japanese ver.-」 Music Video Making Movie\n・「THE SOUND」 Music Video\n・「THE SOUND」 Music Video Making Movie\n\n初回生産限定盤B : CD＋スペシャルZINE ￥2,500 / ESCL-5872～5873\n＊20P PHOTO BOOK (Type B)\n＊オリジナルジャケット・トールケースサイズデジパック仕様\n＊シリアルナンバー1口封入\n＊フォトカードB封入 (メンバー別全8種より1枚ランダム封入)\n＊オリジナルステッカーB (メンバー別全8種より1枚ランダム封入)\n＊スペシャルZINE (20P ※メンバー手書きメッセージ付)\n\n通常盤 (初回仕様) : CD Only ￥1,600 / ESCL-5874\n＊フォトカードC封入 (メンバー別全8種より1枚ランダム封入)　※初回仕様のみ封入\n＊シリアルナンバー1口封入　※初回仕様のみ封入\n\n【FANCLUB会員限定盤】　8形態\n※Stray Kids OFFICIAL FANCLUB「STAY JAPAN」または「STAY JAPAN MOBILE」\n会員限定(完全受注生産限定商品となります)\n※各形態Blu-rayの収録内容が異なります。\n\nFANCLUB会員限定盤 (Bang Chan盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-150～151\n＊スペシャル両面フォトカード封入(バンチャン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(バンチャン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Bang Chan ver.)\n\nFANCLUB会員限定盤 (Lee Know盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-152～153\n＊スペシャル両面フォトカード封入(リノ絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(リノ絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Lee Know ver.)\n\nFANCLUB会員限定盤 (Changbin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-154～155\n＊スペシャル両面フォトカード封入(チャンビン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(チャンビン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Changbin ver.)\n\nFANCLUB会員限定盤 (Hyunjin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-156～157\n＊スペシャル両面フォトカード封入(ヒョンジン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(ヒョンジン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Hyunjin ver.)\n\nFANCLUB会員限定盤 (HAN盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-158～159\n＊スペシャル両面フォトカード封入(ハン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(ハン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (HAN ver.)\n\nFANCLUB会員限定盤 (Felix盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-160～161\n＊スペシャル両面フォトカード封入(フィリックス絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(フィリックス絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Felix ver.)\n\nFANCLUB会員限定盤 (Seungmin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-162～163\n＊スペシャル両面フォトカード封入(スンミン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(スンミン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Seungimin ver.)\n\nFANCLUB会員限定盤 (I.N盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-164～165\n＊スペシャル両面フォトカード封入(アイエン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(アイエン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (I.N ver.)\n\n【収録曲 (全形態共通)】\n1. Social Path (feat. LiSA)\n2. Super Bowl - Japanese ver. -\n3. Butterflies\n4. Social Path (feat. LiSA) (Instrumental)\n5. Butterflies (Instrumental)\n\n\n■Stray Kids 5-STAR Dome Tour 2023\n＜日時/会場＞\n8月16日(水) 福岡PayPayドーム\nOPEN 16:30 / START 18:30\n8月17日(木) 福岡PayPayドーム\nOPEN 12:30 / START 14:30\n9月2日(土) バンテリンドーム ナゴヤ\nOPEN 16:30 / START 18:30\n9月3日(日) バンテリンドーム ナゴヤ\nOPEN 15:00 / START 17:00\n9月9日(土) 京セラドーム大阪\nOPEN 15:00 / START 17:00\n9月10日(日) 京セラドーム大阪\nOPEN 15:00 / START 17:00\n10月28日(土) 東京ドーム\nOPEN 15:30 / START 17:30\n10月29日(日) 東京ドーム\nOPEN 15:00 / START 17:00\n\nStray Kids 5-STAR Dome Tour 2023 特設サイト\nhttps://www.straykidsjapan.com/5stardometour/\n\n\n#StrayKids\n#スキズ\n#スキズ_1st_EP\n#JAPAN_1st_EP\n#SKZ_SocialPath_featLiSA\n#SKZ_SuperBowl",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ZHqpryYv4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ZHqpryYv4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZHqpryYv4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ZHqpryYv4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ZHqpryYv4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stray Kids Japan Official YouTube",
+        "tags": [
+          "Stray Kids",
+          "SKZ",
+          "ストレイキッズ",
+          "スキズ",
+          "스트레이키즈",
+          "스키즈",
+          "k-pop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stray Kids 『Social Path (feat. LiSA)』 Music Video Teaser 1",
+          "description": "■2023年9月6日(水) Release\nJAPAN 1st EP『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』\n特設サイト：https://www.straykidsjapan.com/japan_1st_ep/\nご予約はこちら：https://straykids.lnk.to/KEIy08\n\n■「Super Bowl -Japanese ver.-」配信はコチラ\nhttps://straykids.lnk.to/G2d3XxsA\n\n■Stray Kids Japan Official Site : https://www.straykidsjapan.com\n■Twitter : Japan Official Twitter : https://twitter.com/stray_kids_jp\n■Instagram : Japan Official Instagram : https://www.instagram.com/straykids_official_jp/\n■TikTok : Japan Official TikTok : https://www.tiktok.com/@straykids_japan\n■Stray Kids Japan Official YouTube : https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA\n■Stray Kids Japan Official FANCLUB : https://skz-stayjapan.com/s/n104/page/about_main\n\n\n■2023年9月6日(水) Release\nJAPAN 1st EP『Social Path (feat. LiSA) / Super Bowl -Japanese ver.-』\n\n初回生産限定盤A : CD＋Blu-ray ￥3,500 / ESCL-5870～5871\n＊24P PHOTO BOOK (Type A)\n＊オリジナルジャケット・トールケースサイズデジパック仕様\n＊シリアルナンバー2口封入\n＊フォトカードA封入 (メンバー別全16種より2枚ランダム封入)\n＊オリジナルステッカーA (メンバー別全8種より1枚ランダム封入)\n＊Blu-ray 収録内容\n・Jacket Shooting Making Movie\n・「Social Path (feat. LiSA) 」 Recording Making Movie\n・「Super Bowl -Japanese ver.-」 Music Video\n・「Super Bowl -Japanese ver.-」 Music Video Making Movie\n・「THE SOUND」 Music Video\n・「THE SOUND」 Music Video Making Movie\n\n初回生産限定盤B : CD＋スペシャルZINE ￥2,500 / ESCL-5872～5873\n＊20P PHOTO BOOK (Type B)\n＊オリジナルジャケット・トールケースサイズデジパック仕様\n＊シリアルナンバー1口封入\n＊フォトカードB封入 (メンバー別全8種より1枚ランダム封入)\n＊オリジナルステッカーB (メンバー別全8種より1枚ランダム封入)\n＊スペシャルZINE (20P ※メンバー手書きメッセージ付)\n\n通常盤 (初回仕様) : CD Only ￥1,600 / ESCL-5874\n＊フォトカードC封入 (メンバー別全8種より1枚ランダム封入)　※初回仕様のみ封入\n＊シリアルナンバー1口封入　※初回仕様のみ封入\n\n【FANCLUB会員限定盤】　8形態\n※Stray Kids OFFICIAL FANCLUB「STAY JAPAN」または「STAY JAPAN MOBILE」\n会員限定(完全受注生産限定商品となります)\n※各形態Blu-rayの収録内容が異なります。\n\nFANCLUB会員限定盤 (Bang Chan盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-150～151\n＊スペシャル両面フォトカード封入(バンチャン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(バンチャン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Bang Chan ver.)\n\nFANCLUB会員限定盤 (Lee Know盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-152～153\n＊スペシャル両面フォトカード封入(リノ絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(リノ絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Lee Know ver.)\n\nFANCLUB会員限定盤 (Changbin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-154～155\n＊スペシャル両面フォトカード封入(チャンビン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(チャンビン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Changbin ver.)\n\nFANCLUB会員限定盤 (Hyunjin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-156～157\n＊スペシャル両面フォトカード封入(ヒョンジン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(ヒョンジン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Hyunjin ver.)\n\nFANCLUB会員限定盤 (HAN盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-158～159\n＊スペシャル両面フォトカード封入(ハン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(ハン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (HAN ver.)\n\nFANCLUB会員限定盤 (Felix盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-160～161\n＊スペシャル両面フォトカード封入(フィリックス絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(フィリックス絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Felix ver.)\n\nFANCLUB会員限定盤 (Seungmin盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-162～163\n＊スペシャル両面フォトカード封入(スンミン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(スンミン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (Seungimin ver.)\n\nFANCLUB会員限定盤 (I.N盤) : CD＋Blu-ray ￥2,300 (税込) / ESC8-164～165\n＊スペシャル両面フォトカード封入(アイエン絵柄全2種より1枚ランダム封入)\n＊ブックレットサイズオリジナルカード封入(アイエン絵柄３枚封入)\n＊Blu-ray 収録内容\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞\n・＜Special Video ｢There｣ From Stray Kids in JAPAN＞ Making Movie (I.N ver.)\n\n【収録曲 (全形態共通)】\n1. Social Path (feat. LiSA)\n2. Super Bowl - Japanese ver. -\n3. Butterflies\n4. Social Path (feat. LiSA) (Instrumental)\n5. Butterflies (Instrumental)\n\n\n■Stray Kids 5-STAR Dome Tour 2023\n＜日時/会場＞\n8月16日(水) 福岡PayPayドーム\nOPEN 16:30 / START 18:30\n8月17日(木) 福岡PayPayドーム\nOPEN 12:30 / START 14:30\n9月2日(土) バンテリンドーム ナゴヤ\nOPEN 16:30 / START 18:30\n9月3日(日) バンテリンドーム ナゴヤ\nOPEN 15:00 / START 17:00\n9月9日(土) 京セラドーム大阪\nOPEN 15:00 / START 17:00\n9月10日(日) 京セラドーム大阪\nOPEN 15:00 / START 17:00\n10月28日(土) 東京ドーム\nOPEN 15:30 / START 17:30\n10月29日(日) 東京ドーム\nOPEN 15:00 / START 17:00\n\nStray Kids 5-STAR Dome Tour 2023 特設サイト\nhttps://www.straykidsjapan.com/5stardometour/\n\n\n#StrayKids\n#スキズ\n#スキズ_1st_EP\n#JAPAN_1st_EP\n#SKZ_SocialPath_featLiSA\n#SKZ_SuperBowl"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "statistics": {
+        "viewCount": "1146612",
+        "likeCount": "271257",
+        "favoriteCount": "0",
+        "commentCount": "10347"
+      }
+    }
+  ],
+  "nextPageToken": "CBgQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 24
+  }
+}

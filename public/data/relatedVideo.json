@@ -1,1051 +1,351 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "ePWE8yFwmirnsq8ftqq6uZdUuFI",
-  "nextPageToken": "CBkQAA",
+  "etag": "lRYwpKKoDO0Hory_q_o_pI8uYNM",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 150,
-    "resultsPerPage": 25
+    "totalResults": 1000000,
+    "resultsPerPage": 10
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "OzxJvMmOetVhnCRsLSu4Fgtuits",
+      "etag": "vUG2NaLveDA3JSjy5F5LErNij48",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fxbCHn6gE3U"
+        "videoId": "gZhMimCVU0k"
       },
       "snippet": {
-        "publishedAt": "2016-04-01T16:27:04Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "The surprising habits of original thinkers | Adam Grant",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHow do creative people come up with great ideas? Organizational psychologist Adam Grant studies \"originals\": thinkers who dream up new ideas and take action to put them into the world. In this talk, learn three unexpected habits of originals — including embracing failure. \"The greatest originals are the ones who fail the most, because they're the ones who try the most,\" Grant says. \"You need a lot of bad ideas in order to get a few good ones.\"\n\nAdam hosts the TED Audio Collective podcast WorkLife with Adam Grant--a show that takes you inside the minds of some of the world's most unusual professionals to discover the keys to a better work life. Listen to WorkLife with Adam Grant wherever you get your podcasts. Subscribe to the TED Audio Collective: https://www.youtube.com/TEDAudioCollective \n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2023-08-15T17:46:46Z",
+        "channelId": "UCJ_aHKJ_6MQqwNH7urxm6EA",
+        "title": "MONTERREY VS NASHVILLE 🔴 EN VIVO LEAGUES CUP 2023 SEMIFINALES - EN ZONA FUT",
+        "description": "Support the stream: https://streamlabs.com/zonafut TWITTER - https://twitter.com/ZonaFUT1 INSTAGRAM ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fxbCHn6gE3U/default.jpg",
+            "url": "https://i.ytimg.com/vi/gZhMimCVU0k/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fxbCHn6gE3U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gZhMimCVU0k/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fxbCHn6gE3U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gZhMimCVU0k/hqdefault_live.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fxbCHn6gE3U/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fxbCHn6gE3U/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-04-01T16:27:04Z"
+        "channelTitle": "Zona FUT",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-08-15T17:46:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zSUrasf94S6pYpFCU26Pa-e6bFM",
+      "etag": "ykZ1DFhYpWPYO7RVXrSrMteAoZU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VRJzvJ5XPQI"
+        "videoId": "-m-TfYbeFWk"
       },
       "snippet": {
-        "publishedAt": "2021-10-15T19:29:36Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
+        "publishedAt": "2017-08-25T17:56:54Z",
+        "channelId": "UCsOW9TPy2TKkqCchUHL04Fg",
+        "title": "[맛있는 녀석들 Tasty Guys] 131회 &quot; 묵밥 &amp; 두부 두루치기 &quot;",
+        "description": "먹어 본 사람이라야 제대로 된 맛을 아는 법~ 마음 푹 놓고, 믿고 따르는! 맛 좀 아는 뚱 MC들의 친절한 고급 제안서 \"맛있는 녀석들\" ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
+            "url": "https://i.ytimg.com/vi/-m-TfYbeFWk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-m-TfYbeFWk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-m-TfYbeFWk/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "맛있는 녀석들 (Tasty Guys)",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-15T19:29:36Z"
+        "publishTime": "2017-08-25T17:56:54Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "SsXNceTWJ0GeFwkz8gzGj5n1bj4",
+      "etag": "Q1W_xzeLBU8O7bMosbOJPo9kQaA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RcGyVTAoXEU"
+        "videoId": "Iiukq_ilT0Y"
       },
       "snippet": {
-        "publishedAt": "2013-09-03T21:19:54Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to make stress your friend | Kelly McGonigal",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nStress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2018-04-11T15:00:01Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep4 It‘s on you and I | BTS: Burn the Stage",
+        "description": "Can the show go on? BTS begin to wrap up their South America tour. Day-by-day, we see how the members passionately discuss ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/default.jpg",
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-09-03T21:19:54Z"
+        "publishTime": "2018-04-11T15:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MIYYTPYsapep312lf_cKCQYU-TQ",
+      "etag": "urp_v7x40xPGK1UPHUwvw4IzTmQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ATo9sYax-AQ"
+        "videoId": "adMBDxnhJMw"
       },
       "snippet": {
-        "publishedAt": "2019-01-31T16:19:51Z",
-        "channelId": "UCuIFW5miIr0y_-SKk3ex5yQ",
-        "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges | Dr. Amy Cuddy | IDEAcademy 2018",
-        "description": "Some of life’s biggest hurdles call for moments of sincerity and control. Too often, we approach these high-pressure moments with fear and execute with anxiety. Based on her best-selling book Presence: Bringing Your Boldest Self to Your Biggest Challenges, Harvard Business School professor and social psychologist Amy Cuddy shares revolutionary research and personal narratives in this impassioned, engaging, and innovative presentation. You will learn simple techniques to complete inner transformation, harness the power of presence, and perform at the highest levels of confidence.",
+        "publishedAt": "2018-04-25T15:00:00Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep6 Moonchild | BTS: Burn the Stage",
+        "description": "A surprise appear while in Southeast Asia: BTS are nominated for a Billboard Music Award! Will success on the global stage ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/adMBDxnhJMw/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Eastman",
+        "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-01-31T16:19:51Z"
+        "publishTime": "2018-04-25T15:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-c1V3WGpsaqZbbdJzW_o5xHh8wc",
+      "etag": "4WdEO9leaiuvBZoMX-2ErceSgz4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "HAnw168huqA"
+        "videoId": "L38H9yVb3d8"
       },
       "snippet": {
-        "publishedAt": "2014-12-02T23:46:07Z",
-        "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
-        "title": "Think Fast, Talk Smart: Communication Techniques",
-        "description": "Matt Abrahams is a lecturer of strategic communication at Stanford GSB and the host of the award-winning podcast \"Think Fast, Talk Smart,\" a show with research-backed techniques becoming a more confident communicator. \n\nCommunication is critical to success in business and in life. Concerned about an upcoming interview? Anxious about speaking up during a meeting? In this talk, and through the podcast, you will learn techniques that will help you speak with greater confidence and clarity. \n\nThis video was recorded on October 25, 2014, in collaboration with the Stanford Alumni Association as part of Stanford Reunion Homecoming and the Graduate School of Business Fall Reunion/Alumni Weekend.",
+        "publishedAt": "2018-03-28T15:00:50Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "Ep2 You already have the answer | BTS: Burn the Stage",
+        "description": "A moment of triumph takes a scary turn: Jungkook, the youngest member, falls terribly ill. The Wings tour officially kicks off with a ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HAnw168huqA/default.jpg",
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HAnw168huqA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HAnw168huqA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/L38H9yVb3d8/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HAnw168huqA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HAnw168huqA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Stanford Graduate School of Business",
+        "channelTitle": "BANGTANTV",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-12-02T23:46:07Z"
+        "publishTime": "2018-03-28T15:00:50Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zC4Tg4u1k6VgQ2Fg0EZM796s3_U",
+      "etag": "xIBNpUpWAbUmVG9Me2rniYx9fTk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "iMBJrvEwv8s"
+        "videoId": "K_cuxXtWAtc"
       },
       "snippet": {
-        "publishedAt": "2022-07-21T15:37:36Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "Why Having Fun Is the Secret to a Healthier Life | Catherine Price | TED",
-        "description": "Have you had your daily dose of fun? It's not just enjoyable, it's also essential for your health and happiness, says science journalist Catherine Price. She proposes a new definition of fun -- what she calls \"true fun\" -- and shares easy, evidence-backed ways to weave playfulness, flow and connection into your everyday life.\n\nIf you love watching TED Talks like this one, become a TED Member to support our mission of spreading ideas: http://ted.com/membership\n\nFollow TED! \nTwitter: http://twitter.com/TEDTalks\nInstagram: https://www.instagram.com/ted\nFacebook: http://facebook.com/TED\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\n\nThe TED Talks channel features talks, performances and original series from the world's leading thinkers and doers. Subscribe to our channel for videos on Technology, Entertainment and Design — plus science, business, global issues, the arts and more. Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWatch more: go.ted.com/catherineprice\n\nhttps://youtu.be/iMBJrvEwv8s\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com\n\n#TED #TEDTalks #fun",
+        "publishedAt": "2022-07-24T14:04:11Z",
+        "channelId": "UC1Do3xw9OuUk7FQuPTmSVOw",
+        "title": "외계에서 온걸로 추정되는 길이만 5만광년이 넘는 거대 구조물의 정체",
+        "description": "Instagram ID @archiveyoutube #은하중심 #페르미버블 #은하충돌 시청해주셔서 감사합니다. 얼마전 미국의 연구팀은 우리은하 중심 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/iMBJrvEwv8s/default.jpg",
+            "url": "https://i.ytimg.com/vi/K_cuxXtWAtc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/iMBJrvEwv8s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K_cuxXtWAtc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/iMBJrvEwv8s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K_cuxXtWAtc/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/iMBJrvEwv8s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/iMBJrvEwv8s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "지식보관소",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-21T15:37:36Z"
+        "publishTime": "2022-07-24T14:04:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "C6QFOPGgH6pp5ma6b-of6NveDl0",
+      "etag": "nYxTzkaYjhM16qmB6CC3z39ty4k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4jwUXV4QaTw"
+        "videoId": "lS-6g69mlwU"
       },
       "snippet": {
-        "publishedAt": "2019-05-21T14:06:56Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally. What does it mean when we fold our arms? Why do we interlace our fingers? Can a poker player actually hide their body language?\r\n\r\nCheck out Joe's book \"The Dictionary of Body Language\"\r\nhttps://www.jnforensics.com/ \r\nBooks By Joe Navarro:  https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy:  https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft.\r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.\n\nFormer FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+        "publishedAt": "2023-04-06T02:13:58Z",
+        "channelId": "UCSd6jlFPB6iVG3eCTH7XJZA",
+        "title": "정청래 이어 안민석 자녀도 터졌다?...장예찬 &quot;인터넷에 올라온 글 하나...이에 안 의원이 답변해야&quot;",
+        "description": "장예찬 #안민석 #정청래 장예찬 국민의힘 청년최고위원이 23년 4월 6일 서울 영등포구 여의도 국회에서 열린 최고위원회의에서 발언 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/default.jpg",
+            "url": "https://i.ytimg.com/vi/lS-6g69mlwU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lS-6g69mlwU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lS-6g69mlwU/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "시사포커스TV",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-21T14:06:56Z"
+        "publishTime": "2023-04-06T02:13:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "IYeJn8eB3WG6OtIufbOjRjs_8dY",
+      "etag": "8kzos-IsKF7Z4j2TsOOt3d5nr3M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Tuw8hxrFBH8"
+        "videoId": "470N1pxIZbk"
       },
       "snippet": {
-        "publishedAt": "2020-10-21T12:03:31Z",
-        "channelId": "UC9vLdyHatOhRrCwQXq3HmQQ",
-        "title": "One of the Greatest Speeches Ever | Steve Jobs",
-        "description": "Steve Jobs: The Exclusive Biography - https://amzn.to/3zKeTM6\n\n\nSteve Jobs delivers an inspirational speech. Listen to the end for the most life changing quote of all-time. Don't let anyone ever tell you that you cannot achieve your dreams.\n\nYou will be inspired and motivated to go out there and achieve your goals. I hope you all enjoy this motivational video. :)\n\nSpeaker: Steve Jobs\nSteven Paul Jobs was an American business magnate, industrial designer, investor, and media proprietor. He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; the chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT. Jobs is widely recognized as a pioneer of the personal computer revolution of the 1970s and 1980s, along with his early business partner and fellow Apple co-founder Steve Wozniak.\n\n\n-----------------------------------------------------------------------\n\n►Follow Motivation Ark:\nSubscribe for new Motivational Videos every week: https://www.youtube.com/channel/UC9vLdyHatOhRrCwQXq3HmQQ\n\nInstagram: https://www.instagram.com/motivationarkdaily/\nFacebook: https://www.facebook.com/motivationark\nTwitter: https://twitter.com/ark_motivation\n\n►Music: Air - AShamaluevMusic.\nMusic Link: https://youtu.be/8XejGxLizFU\n\nThanks for watching! If you know someone who could use this video, share it with them!\n\n\nAdditional Tags:\nmotivation, motivational video, motivational speech, steve jobs, success motivational video, success motivation, daily motivation, steve jobs success story, successful, inspiration, inspirational video, biography, steve jobs success, celebrity, best success story, best motivational video, success, failure",
+        "publishedAt": "2019-01-11T12:30:00Z",
+        "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
+        "title": "What is Evolution? | The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+        "description": "Hi KIDZ! Welcome to a BRAND NEW SEASON of the DR. Binocs show. Have you ever wondered how many living creatures are ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/default.jpg",
+            "url": "https://i.ytimg.com/vi/470N1pxIZbk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/470N1pxIZbk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/470N1pxIZbk/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Tuw8hxrFBH8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Motivation Ark",
+        "channelTitle": "Peekaboo Kidz",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-21T12:03:31Z"
+        "publishTime": "2019-01-11T12:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "81OJ92JurYHIXJErMC3o6mYnadQ",
+      "etag": "FGCdict7aoja099G6nBWxQtKDV0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "SemHh0n19LA"
+        "videoId": "aDgA2jwSvlI"
       },
       "snippet": {
-        "publishedAt": "2017-05-18T22:07:37Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "5 steps to designing the life you want  | Bill Burnett | TEDxStanford",
-        "description": "Designers spend their days dreaming up better products and better worlds, and you can use their thinking to re-envision your own life, says design professor Bill Burnett. He shares five tips to try, whether you’re at the start of your career or contemplating your next act.  \n\n\nExecutive director of Stanford’s design program at the d.School, Bill Burnett uses design thinking, a career’s worth of starting companies and coaching students, and a childhood spent drawing cars and airplanes under his Grandmother’s sewing machine to inform his work on how to design your life. In five eyebrow-raising findings, Burnett offers simple but life-changing advice on designing the life you want, whether you are contemplating college or retirement. \n\nAfter years of drawing cars and airplanes under his Grandmother’s sewing machine, Bill Burnett went to college where he discovered that there were people in the world who did this kind of thing every day (without the sewing machine), and they were called designers. Thirty years, five companies, and a couple thousand students later, Burnett is still drawing and building things, teaching others how to do the same, and quietly enjoying the fact that no one has discovered that he is having too much fun. As Executive Director of the Design Program at Stanford, he runs undergraduate and graduate programs in design, both interdepartmental programs between the mechanical engineering and art departments. Burnett worked on design of the award-winning Apple PowerBooks and the original Hasbro Star Wars action figures. He holds a number of mechanical and design patents.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+        "publishedAt": "2013-01-22T22:15:30Z",
+        "channelId": "UC2369dqfC9nTlqB1h0OpwGA",
+        "title": "제임스와 거대한 복숭아",
+        "description": "위험에 빠진 거미를 구해준 수, 어린 제임스는 마법의 약을 얻게 된다. 제임스가 실수로 정원에 그 약을 쏟게되고, 거대한 복숭아가 탄생 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SemHh0n19LA/default.jpg",
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SemHh0n19LA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SemHh0n19LA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aDgA2jwSvlI/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/SemHh0n19LA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/SemHh0n19LA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TEDx Talks",
+        "channelTitle": "YouTube Movies",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-05-18T22:07:37Z"
+        "publishTime": "2013-01-22T22:15:30Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9VIPpqhGk_EIN5cnl6stvJRbBlI",
+      "etag": "bswz64q9IVolgYJPa-9aH6RwkWw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "arj7oStGLkU"
+        "videoId": "Bf1Lb43vwZY"
       },
       "snippet": {
-        "publishedAt": "2016-03-15T20:13:33Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "Tim Urban: Inside the mind of a master procrastinator | TED",
-        "description": "Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.\n\nFor more from Tim Urban, visit Wait But Why: http://www.waitbutwhy.com/\n\nVisit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2017-11-07T18:34:57Z",
+        "channelId": "UCjBjSuRsfFE7jAKGvaYuCUw",
+        "title": "남한산성",
+        "description": "1636년 인조 14년 병자호란. 청의 대군이 공격해오자 임금과 조정은 적을 피해 남한산성으로 숨어든다. 추위와 굶주림, 절대적인 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/default.jpg",
+            "url": "https://i.ytimg.com/vi/Bf1Lb43vwZY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf1Lb43vwZY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Bf1Lb43vwZY/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "YouTube Movies",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-03-15T20:13:33Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hHQX9E2ZnvhvxkuyW-AvGZRUtAw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "O_MQr4lHm0c"
-      },
-      "snippet": {
-        "publishedAt": "2019-11-01T14:57:16Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How changing your story can change your life | Lori Gottlieb",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized Talk recommendations and more.\n\nStories help you make sense of your life -- but when these narratives are incomplete or misleading, they can keep you stuck instead of providing clarity. In an actionable talk, psychotherapist and advice columnist Lori Gottlieb shows how to break free from the stories you've been telling yourself by becoming your own editor and rewriting your narrative from a different point of view.\n\nGet TED Talks recommended just for you! Learn more at http://TED.com/signup.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a Media Request here: http://media-requests.TED.com\n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\n\nSubscribe to our channel: http://youtube.com/TED",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/O_MQr4lHm0c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/O_MQr4lHm0c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/O_MQr4lHm0c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/O_MQr4lHm0c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/O_MQr4lHm0c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-11-01T14:57:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "itpQT3T37IAUmkOijX5uEdZfRmw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "apbSsILLh28"
-      },
-      "snippet": {
-        "publishedAt": "2015-09-10T15:31:34Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "What really matters at the end of life | BJ Miller",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nAt the end of our lives, what do we most wish for? For many, it’s simply comfort, respect, love. BJ Miller is a palliative care physician who thinks deeply about how to create a dignified, graceful end of life for his patients. Take the time to savor this moving talk, which asks big questions about how we think on death and honor life.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/apbSsILLh28/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/apbSsILLh28/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/apbSsILLh28/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/apbSsILLh28/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/apbSsILLh28/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2015-09-10T15:31:34Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "cjEiHI_lpoRNM-3oa6gWxASzRSY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "IitIl2C3Iy8"
-      },
-      "snippet": {
-        "publishedAt": "2022-06-23T16:41:27Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "Six behaviors to increase your confidence | Emily Jaenson | TEDxReno",
-        "description": "Research tells us that the way to get people to change is not to start with trying to change their attitudes alone, but to start with the behaviors associated with the attitudes. When people see themselves behaving differently, they can then think of themselves differently and the attitude change will follow. The six behaviors discussed that you could start today are derived from over 90 interviews with female executives in sports. \n\nEmily Jaenson’s motto is “Be so good they won’t forget you!” and this motto has carried her through her career to land her former role as General Manager of the Triple-A Reno Aces.  Upon accepting this role in 2018, Jaenson became the first female in Triple-A to hold the GM role in nearly 20 years. Jaenson leads a podcast, Leadership is Female, where she interviews executives in sport so that she and her guests can guide the next generation of female leadership forward and leads a team of sports front office veterans in their consulting business. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IitIl2C3Iy8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TEDx Talks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-06-23T16:41:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "2UquHmRf6bHZHL0I4mWLQLyBI9U",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HTfYv3IEOqM"
-      },
-      "snippet": {
-        "publishedAt": "2013-10-31T23:17:08Z",
-        "channelId": "UCaqcvH8EvUtePORpN03jLMg",
-        "title": "Daniel Goleman on Focus: The Secret to High Performance and Fulfilment",
-        "description": "Psychologist Daniel Goleman shot to fame with his groundbreaking bestseller Emotional Intelligence. Raw intelligence alone is not a sure predictor of success in life. A greater role is played by 'softer' skills such as self-control, self-motivation, empathy and good interpersonal relationships.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HTfYv3IEOqM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HTfYv3IEOqM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HTfYv3IEOqM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HTfYv3IEOqM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HTfYv3IEOqM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Intelligence Squared",
-        "liveBroadcastContent": "none",
-        "publishTime": "2013-10-31T23:17:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "8btHQDc3LlcY27ET6dAJ0HjTiuw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P_6vDLq64gE"
-      },
-      "snippet": {
-        "publishedAt": "2011-10-13T19:33:04Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to spot a liar | Pamela Meyer",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2011-10-13T19:33:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "XPAWtDrC74IXa3iekm1sXNusAek",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "rrkrvAUbU9Y"
-      },
-      "snippet": {
-        "publishedAt": "2009-08-25T21:20:26Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "The puzzle of motivation | Dan Pink",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nCareer analyst Dan Pink examines the puzzle of motivation, starting with a fact that social scientists know but most managers don't: Traditional rewards aren't always as effective as we think. Listen for illuminating stories -- and maybe, a way forward.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rrkrvAUbU9Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2009-08-25T21:20:26Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "X3DaZCjDRxP3eum6KtYKN7BFZhk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "n3kNlFMXslo"
-      },
-      "snippet": {
-        "publishedAt": "2016-12-16T16:18:11Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to gain control of your free time | Laura Vanderkam",
-        "description": "There are 168 hours in each week. How do we find time for what matters most? Time management expert Laura Vanderkam studies how busy people spend their lives, and she's discovered that many of us drastically overestimate our commitments each week, while underestimating the time we have to ourselves. She offers a few practical strategies to help find more time for what matters to us, so we can \"build the lives we want in the time we've got.\"\n\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\nFind closed captions and translated subtitles in many languages at http://www.ted.com/translate\n\nFollow TED news on Twitter: http://www.twitter.com/tednews\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: http://www.youtube.com/user/TEDtalksDirector",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/n3kNlFMXslo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-12-16T16:18:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KJE0McO7RIV7jMx05jPQKVqnXzs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cef35Fk7YD8"
-      },
-      "snippet": {
-        "publishedAt": "2017-06-26T21:03:40Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "You are contagious | Vanessa Van Edwards | TEDxLondon",
-        "description": "Vanessa reveals that our behaviour, from hand gestures to how we say 'hello', changes the way others perceive our confidence,  \n\nVanessa Van Edwards is an interpersonal intelligence expert and public speaker. Her behaviour research lab ‘The Science of People’ has been featured in Fast Company, Inc, Men’s Health, Forbes, and on Fox News. She is a monthly columnist for Entrepreneur; the leading instructor in people skills on Udemy and CreativeLive; and has led training sessions at a number of Fortune 500 companies around the world. She lives in Portland, Oregon.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cef35Fk7YD8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TEDx Talks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-06-26T21:03:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "zWxgvxjS-WkM0LCMTzyTI-XBbKs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "r7dWsJ-mEyI"
-      },
-      "snippet": {
-        "publishedAt": "2016-02-26T02:53:49Z",
-        "channelId": "UC7I2tPHtve2GtBKJwvhF1Wg",
-        "title": "Amy Cuddy - More confidence in 2 minutes (Condensed Talk)",
-        "description": "Amy Cuddy's TED Talk \"Your Body Language Shapes who you are\" condensed down to 3 minutes with only the key points. \n\nMore condensed talks coming soon but if there are any you would like to see condensed in particular, please comment below. \n\nIf you liked this, check out the original full talk here: \n[ https://www.youtube.com/watch?v=Ks-_Mh1QhMc ]\n\nCredit goes to TED Talks. Original description: \n\n\"Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy shows how \"power posing\" -- standing in a posture of confidence, even when we don't feel confident -- can affect testosterone and cortisol levels in the brain, and might even have an impact on our chances for success.\n\n\nWatch more talks at http://www.ted.com\n\nTED Talks is a daily video podcast of talks and performances from TED events, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and much more.\n\nFollow TED Talks on Twitter: http://www.twitter.com/tedtalks\nLike TED on Facebook: https://www.facebook.com/TED\"",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/r7dWsJ-mEyI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/r7dWsJ-mEyI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/r7dWsJ-mEyI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/r7dWsJ-mEyI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "QuickTalks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-02-26T02:53:49Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ALKk3y_VrDLQvVH7XEqXku87lhM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "o_XVt5rdpFY"
-      },
-      "snippet": {
-        "publishedAt": "2019-01-04T16:20:17Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "The secrets of learning a new language | Lýdia Machová",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nWant to learn a new language but feel daunted or unsure where to begin? You don't need some special talent or a \"language gene,\" says Lýdia Machová. In an upbeat, inspiring talk, she reveals the secrets of polyglots (people who speak multiple languages) and shares four principles to help unlock your own hidden language talent -- and have fun while doing it.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nBecome a TED Member: http://ted.com/membership\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/o_XVt5rdpFY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-01-04T16:20:17Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "DU4CiLFhPtrpmLSQk1DyOJLBdcg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "vLFxOOEyhUE"
-      },
-      "snippet": {
-        "publishedAt": "2018-07-09T16:48:46Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "Being your Own Life Coach | John Muldoon | TEDxShanghaiAmericanSchoolPuxi",
-        "description": "John Muldoon talks about the importance of being honest with yourself and practicing metacognition through the context of growing up with family problems and some emotional issues. John Muldoon, originally from the US, has been a teacher/administrator for the last 10 years and is now the principal at Shanghai American School Puxi. John loves spending time outdoors and spending time with his family and friends. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vLFxOOEyhUE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vLFxOOEyhUE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vLFxOOEyhUE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vLFxOOEyhUE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vLFxOOEyhUE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TEDx Talks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-07-09T16:48:46Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "B4f51RfLhlBYVH6rL89T-IsAyDY",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RKK7wGAYP6k"
-      },
-      "snippet": {
-        "publishedAt": "2018-04-05T20:17:43Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How language shapes the way we think | Lera Boroditsky",
-        "description": "There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language -- from an Aboriginal community in Australia that uses cardinal directions instead of left and right to the multiple words for blue in Russian -- that suggest the answer is a resounding yes. \"The beauty of linguistic diversity is that it reveals to us just how ingenious and how flexible the human mind is,\" Boroditsky says. \"Human minds have invented not one cognitive universe, but 7,000.\"\n\nCheck out more TED Talks: http://www.ted.com\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.\n\nFollow TED on Twitter: http://www.twitter.com/TEDTalks\nLike TED on Facebook: https://www.facebook.com/TED\n\nSubscribe to our channel: https://www.youtube.com/TED",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/RKK7wGAYP6k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-04-05T20:17:43Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "wtbeR4DUeEgKeI7H_EQOhFzyguM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8jPQjjsBbIc"
-      },
-      "snippet": {
-        "publishedAt": "2015-10-30T16:05:25Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to stay calm when you know you'll be stressed | Daniel Levitin",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nYou're not at your best when you're stressed. In fact, your brain has evolved over millennia to release cortisol in stressful situations, inhibiting rational, logical thinking but potentially helping you survive, say, being attacked by a lion. Neuroscientist Daniel Levitin thinks there's a way to avoid making critical mistakes in stressful situations, when your thinking becomes clouded — the pre-mortem. \"We all are going to fail now and then,\" he says. \"The idea is to think ahead to what those failures might be.\"\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8jPQjjsBbIc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2015-10-30T16:05:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "fC-JkFqzJcz2Ceq-RtX2AcVhD6s",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "_v36Vt9GmH8"
-      },
-      "snippet": {
-        "publishedAt": "2016-05-02T17:33:45Z",
-        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-        "title": "Body Language: The Key to Your Subconscious | Ann Washburn | TEDxIdahoFalls",
-        "description": "How we hold our body both demonstrates and determines who we are and our level of success.  What are you telling people about yourself? Or worse, what are you telling your self about yourself? \n\nHow we hold our body both demonstrates and determines who we are and our level of success.  What are you telling people about yourself? Or worse, what are you telling your self about yourself? \n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_v36Vt9GmH8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TEDx Talks",
-        "liveBroadcastContent": "none",
-        "publishTime": "2016-05-02T17:33:45Z"
+        "publishTime": "2017-11-07T18:34:57Z"
       }
     }
   ]

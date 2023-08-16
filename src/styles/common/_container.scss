@@ -18,10 +18,14 @@
     > *:first-child {
       padding-top: 24px;
     }
+
+    > *:last-child {
+      padding-bottom: 24px;
+    }
   }
 }
 
-@media screen and (max-width: $base_laptop-width) {
+@media screen and (max-width: calc($base_width + 48px)) {
   #App {
     .container {
       width: 100%;

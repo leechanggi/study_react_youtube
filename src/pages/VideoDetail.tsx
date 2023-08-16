@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { useLocation } from "react-router";
 import VideoDetailInfo from "../components/VideoDetailInfo";
 import VideoDetailInfoSkeleton from "../components/VideoDetailInfoSkeleton";
+import VideoDetailList from "../components/VideoDetailList";
 
 export default function VideoDetail({ videoService }: any) {
   const location = useLocation();
@@ -9,7 +10,9 @@ export default function VideoDetail({ videoService }: any) {
   const videoId = locationPath[3];
 
   const [videoData, setVideoData] = useState<any>(null);
+  const [topicData, setTopicData] = useState<string>("");
   const [videoError, setVideoError] = useState<string>("");
+  const [topicError, setTopicError] = useState<string>("");
 
   useEffect(() => {
     async function fetchVideoData() {
@@ -17,18 +20,32 @@ export default function VideoDetail({ videoService }: any) {
         const video = await videoService.getVideosByVideoId(videoId);
         setVideoData(video[0]);
       } catch (error) {
-        onError(error as Error);
+        const videoError = error as Error;
+        setVideoError(videoError.toString());
+        setTimeout(() => {
+          setVideoError("");
+        }, 3000);
+      }
+    }
+    async function fetchTopicData() {
+      try {
+        const video = await videoService.getVideosByTopicId(videoId);
+        setTopicData(video);
+      } catch (error) {
+        const topicError = error as Error;
+        setTopicError(topicError.toString());
+        setTimeout(() => {
+          setTopicError("");
+        }, 3000);
       }
     }
     fetchVideoData();
+    fetchTopicData();
   }, [videoId, videoService]);
 
-  const onError = (error: Error) => {
-    setVideoError(error.toString());
-    setTimeout(() => {
-      setVideoError("");
-    }, 3000);
-  };
+  useEffect(() => {
+    console.log(topicData);
+  }, [topicData]);
 
   return (
     <div className="videoDetail">
@@ -36,17 +53,22 @@ export default function VideoDetail({ videoService }: any) {
         {videoError ? (
           <p className="videoDetail_error">{videoError}</p>
         ) : videoData ? (
-          <>
-            <VideoDetailInfo data={videoData} />
-            <VideoDetailInfoSkeleton />
-          </>
+          <VideoDetailInfo data={videoData} />
         ) : (
           <VideoDetailInfoSkeleton />
         )}
         {/* 댓글 */}
         <div className="video_comment"></div>
       </div>
-      <div className="videoDetail_list"></div>
+      <div className="videoDetail_list">
+        {topicError ? (
+          <p className="videoDetail_error">{topicError}</p>
+        ) : topicData ? (
+          <VideoDetailList data={topicData} />
+        ) : (
+          <p>로딩 중...</p>
+        )}
+      </div>
     </div>
   );
 }

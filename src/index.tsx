@@ -7,6 +7,7 @@ import App from "./App";
 import Videos from "./pages/Videos";
 import VideoDetail from "./pages/VideoDetail";
 import NotFound from "./pages/NotFound";
+import "./lang/i18n";
 import "./styles/index.scss";
 
 const MODE_DEV = Boolean(process.env.REACT_APP_MODE_DEV);

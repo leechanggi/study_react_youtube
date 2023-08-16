@@ -26,7 +26,7 @@ export default class VideoService {
           params: {
             part: "snippet",
             chart: "mostPopular",
-            maxResults: "16",
+            maxResults: "24",
             key: this.API_KEY,
           },
         })
@@ -50,7 +50,8 @@ export default class VideoService {
           method: "GET",
           params: {
             part: "snippet",
-            maxResults: "16",
+            maxResults: "24",
+            type: "video",
             q: keyword,
             key: this.API_KEY,
           },
@@ -82,7 +83,7 @@ export default class VideoService {
   }
 
   // 관련영상 목록 찾기
-  async getRelatedVideosByVideoId(videoId: string) {
+  async getVideosByTopicId(videoId: string) {
     if (this.MODE_DEV === true) {
       return this.http
         .fetch("/data/relatedVideo.json", { method: "GET" })
@@ -97,7 +98,7 @@ export default class VideoService {
             part: "snippet",
             maxResults: "10",
             type: "video",
-            relatedToVideoId: videoId,
+            topicId: videoId,
             key: this.API_KEY,
           },
         })

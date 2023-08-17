@@ -14,7 +14,7 @@ export default class VideoService {
   private async getVideosWithChannelInfo(videos: any[]) {
     return Promise.all(
       videos.map(async (video: any) => {
-        const channelInfo = await this.getChannelsByChannelsID(video.snippet.channelId);
+        const channelInfo = await this.getChannelsByVideoId(video.id);
         return { ...video, channel: channelInfo[0] };
       })
     );
@@ -92,14 +92,12 @@ export default class VideoService {
   async getVideosByTopicId(topicId: string) {
     const videos =
       this.MODE_DEV === true
-        ? await this.http
-            .fetch("/data/videosByTopicId.json", { method: "GET" })
-            .then((data) =>
-              data.items.map((item: { id: { videoId: string } }) => ({
-                ...item,
-                id: item.id.videoId,
-              }))
-            )
+        ? await this.http.fetch("/data/videosByTopicId.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
+              ...item,
+              id: item.id.videoId,
+            }))
+          )
         : await this.http
             .fetch("search", {
               method: "GET",
@@ -121,30 +119,22 @@ export default class VideoService {
     return this.getVideosWithChannelInfo(videos);
   }
 
-  async getChannelsByChannelsID(channelsID: string) {
+  async getChannelsByVideoId(videoId: string) {
     if (this.MODE_DEV === true) {
-      return this.http.fetch("/data/channelsByChannelsId.json", { method: "GET" }).then((data) =>
-        data.items.map((item: { id: { channelId: string } }) => ({
-          ...item,
-          id: item.id.channelId,
-        }))
-      );
+      return this.http
+        .fetch("/data/channelsById.json", { method: "GET" })
+        .then((data) => data.items);
     } else {
       return this.http
         .fetch("search", {
           method: "GET",
           params: {
-            part: "snippet",
-            channelId: channelsID,
+            part: "snippet,statistics,id",
+            id: videoId,
             key: this.API_KEY,
           },
         })
-        .then((data) =>
-          data.items.map((item: { id: { channelId: string } }) => ({
-            ...item,
-            id: item.id.channelId,
-          }))
-        );
+        .then((data) => data.items);
     }
   }
 }

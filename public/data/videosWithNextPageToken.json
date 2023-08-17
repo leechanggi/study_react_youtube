@@ -1,0 +1,1561 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "x8S4-96rtwdkW6uTXlqiU3Z3hQQ",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ze7gdzl8b5otByisKqKKeUY13ts",
+      "id": "iQdhilTGtoo",
+      "snippet": {
+        "publishedAt": "2023-08-15T17:00:23Z",
+        "channelId": "UChPQNFEbdvaZWZJLTRngYBQ",
+        "title": "EST Gee - XXL (Official Music Video)",
+        "description": "Stream \"XXL\" now: https://estgee.lnk.to/XXL\n \nFollow EST Gee:\nhttps://twitter.com/ESTGEE\nhttps://www.instagram.com/est.gee\nhttps://www.facebook.com/ESTGeeOffici...\nhttps://smarturl.it/ESTGeeYT\nhttps://www.tiktok.com/@est.gee\nhttp://www.est-gee.com/\n \n#ESTGee #XXL #ElToro2\n\nMusic video by EST Gee performing XXL. © 2023 Foundation Entertainment/Interscope Records\n\nhttp://vevo.ly/u9KD1B",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iQdhilTGtoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iQdhilTGtoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iQdhilTGtoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iQdhilTGtoo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iQdhilTGtoo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ESTGeeVEVO",
+        "tags": ["EST", "Gee", "XXL", "CMG/Interscope", "Records", "Hip", "Hop"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "EST Gee - XXL (Official Music Video)",
+          "description": "Stream \"XXL\" now: https://estgee.lnk.to/XXL\n \nFollow EST Gee:\nhttps://twitter.com/ESTGEE\nhttps://www.instagram.com/est.gee\nhttps://www.facebook.com/ESTGeeOffici...\nhttps://smarturl.it/ESTGeeYT\nhttps://www.tiktok.com/@est.gee\nhttp://www.est-gee.com/\n \n#ESTGee #XXL #ElToro2\n\nMusic video by EST Gee performing XXL. © 2023 Foundation Entertainment/Interscope Records\n\nhttp://vevo.ly/u9KD1B"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "470682",
+        "likeCount": "13887",
+        "favoriteCount": "0",
+        "commentCount": "692"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QfZBuiJTts4BVQds5RycrmSf4ts",
+      "id": "YBOoCHn11bA",
+      "snippet": {
+        "publishedAt": "2023-08-16T00:45:30Z",
+        "channelId": "UCDSJCBYqL7VQrlXfhr1RtwA",
+        "title": "I MADE MY DAUGHTERS SMASH CAKE + COME ALONG TO THE SHOOT! 🥹",
+        "description": "Click here https://sbird.co/46r9I4L  and use my code LESDOMAKEUP to get 55% OFF your first month at\nScentbird. Currently only available in the US & CA. \n\n\n\nThis month, I tried:\n    ◦    Daisy Eau So Fresh by Marc Jacobs: https://sbird.co/3PJbQin \n    ◦    Ari by Ariana Grande: https://sbird.co/44sVE9h \n    ◦    Zest for Life by Kensie: https://sbird.co/44uVSwz \n\n    ◦    \nLa Mar by House of Bō: \nhttps://sbird.co/3NyxinI (https://sbird.co/3NyxinI)\n\n————————————————\n\nHi babygirls! Thank you so much for watching, supporting,  and being apart of our lifes❤️ I LOVE YOU!!! 🥲❤️\n————————————————\nFOLLOW US! ❤️\n\n\nLES Instagram- https://www.instagram.com/lesdomakeup/\nALEX Instagram - https://instagram.com/vlexgalindo?igs...\n\nLES Twitter- https://twitter.com/LEXXXLIEEE\nALEX Twitter - https://twitter.com/VLEXXXGALINDO\n\nFacebook- https://www.facebook.com/Lesdomakeup1/\n\n\n———————————————————————————\n\nBusiness inquires only: lesdomakeup@revel-mgmt.com\n———————————————————————————",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YBOoCHn11bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YBOoCHn11bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YBOoCHn11bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YBOoCHn11bA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YBOoCHn11bA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Les Do Makeup",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I MADE MY DAUGHTERS SMASH CAKE + COME ALONG TO THE SHOOT! 🥹",
+          "description": "Click here https://sbird.co/46r9I4L  and use my code LESDOMAKEUP to get 55% OFF your first month at\nScentbird. Currently only available in the US & CA. \n\n\n\nThis month, I tried:\n    ◦    Daisy Eau So Fresh by Marc Jacobs: https://sbird.co/3PJbQin \n    ◦    Ari by Ariana Grande: https://sbird.co/44sVE9h \n    ◦    Zest for Life by Kensie: https://sbird.co/44uVSwz \n\n    ◦    \nLa Mar by House of Bō: \nhttps://sbird.co/3NyxinI (https://sbird.co/3NyxinI)\n\n————————————————\n\nHi babygirls! Thank you so much for watching, supporting,  and being apart of our lifes❤️ I LOVE YOU!!! 🥲❤️\n————————————————\nFOLLOW US! ❤️\n\n\nLES Instagram- https://www.instagram.com/lesdomakeup/\nALEX Instagram - https://instagram.com/vlexgalindo?igs...\n\nLES Twitter- https://twitter.com/LEXXXLIEEE\nALEX Twitter - https://twitter.com/VLEXXXGALINDO\n\nFacebook- https://www.facebook.com/Lesdomakeup1/\n\n\n———————————————————————————\n\nBusiness inquires only: lesdomakeup@revel-mgmt.com\n———————————————————————————"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "151012",
+        "likeCount": "7309",
+        "favoriteCount": "0",
+        "commentCount": "265"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Py83Wcrvml2WxfN4M6cfn0tJN2U",
+      "id": "85FqSZvhCLw",
+      "snippet": {
+        "publishedAt": "2023-08-16T01:28:07Z",
+        "channelId": "UCSrnmu3W6YXWU_85DKT5arg",
+        "title": "Giving strangers wallets FULL of cash",
+        "description": "Video Sponsored by Ridge. Check them out here: https://ridge.com/thatwasepic Use my code “thatwasepic” for 10% off your order and for an entry to win a Hennessey Ford Bronco or $75K through September 30th!\n\n\nSubscribe For Weekly Videos- http://youtube.com/thatwasepic11\r\n\r\nSecond Channel- http://youtube.com/thatwasalmostepic\r\n\r\nINSTAGRAM- http://instagram.com/thatwasepic\r\n\r\nTWITTER- http://twitter.com/thatwasepic11\r\n\r\nFACEBOOK- http://facebook.com/thatwasepic11\r\n\r\nSnap chat- thatwasepic11\r\n\r\n\rFor business inquires- thatwasepicc@gmail.com\r\n\r\nRoyalty Free Music by Audio Micro, Jingle Punks, and Youtube Library",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/85FqSZvhCLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/85FqSZvhCLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/85FqSZvhCLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/85FqSZvhCLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/85FqSZvhCLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ThatWasEpic",
+        "tags": [
+          "epic",
+          "prank",
+          "hilarious",
+          "pickup",
+          "girls",
+          "cholo",
+          "thatwasepic",
+          "comment trolling"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Giving strangers wallets FULL of cash",
+          "description": "Video Sponsored by Ridge. Check them out here: https://ridge.com/thatwasepic Use my code “thatwasepic” for 10% off your order and for an entry to win a Hennessey Ford Bronco or $75K through September 30th!\n\n\nSubscribe For Weekly Videos- http://youtube.com/thatwasepic11\r\n\r\nSecond Channel- http://youtube.com/thatwasalmostepic\r\n\r\nINSTAGRAM- http://instagram.com/thatwasepic\r\n\r\nTWITTER- http://twitter.com/thatwasepic11\r\n\r\nFACEBOOK- http://facebook.com/thatwasepic11\r\n\r\nSnap chat- thatwasepic11\r\n\r\n\rFor business inquires- thatwasepicc@gmail.com\r\n\r\nRoyalty Free Music by Audio Micro, Jingle Punks, and Youtube Library"
+        }
+      },
+      "statistics": {
+        "viewCount": "551573",
+        "likeCount": "60850",
+        "favoriteCount": "0",
+        "commentCount": "15513"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yU6ut7USujWoXJq8QSyIIlFtG2Y",
+      "id": "SYNTMaqBR0I",
+      "snippet": {
+        "publishedAt": "2023-08-15T23:46:00Z",
+        "channelId": "UCzhtAFR4aiLOr8IWqA92-5w",
+        "title": "Marion County Chief of Police refuses to discuss raid on newspaper",
+        "description": "The Marion County Chief of Police refused to discuss a raid he signed off on a local newspaper",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SYNTMaqBR0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SYNTMaqBR0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYNTMaqBR0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SYNTMaqBR0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SYNTMaqBR0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KSHB 41",
+        "tags": ["marion county", "marion county record", "newspaper", "raid"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Marion County Chief of Police refuses to discuss raid on newspaper",
+          "description": "The Marion County Chief of Police refused to discuss a raid he signed off on a local newspaper"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "148074",
+        "likeCount": "4359",
+        "favoriteCount": "0",
+        "commentCount": "1970"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bCj1DPSrAKiHH409LgzK7b2u8zQ",
+      "id": "KZ8Z4a1UCKc",
+      "snippet": {
+        "publishedAt": "2023-08-16T12:10:17Z",
+        "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+        "title": "Australia vs. England Highlights | 2023 FIFA Women's World Cup | Semifinals",
+        "description": "England and Australia wrapped up the 2023 FIFA Women's World Cup semifinals, as both teams looked to move on and play against Spain in the finals. Check out the top moments and highlights here!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZ8Z4a1UCKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZ8Z4a1UCKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZ8Z4a1UCKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KZ8Z4a1UCKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KZ8Z4a1UCKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX Soccer",
+        "tags": [
+          "Sam Kerr",
+          "Lauren Hemp",
+          "Hayley Raso",
+          "FIFA Women's World Cup",
+          "World Cup",
+          "England",
+          "Australia",
+          "Alessia Russo",
+          "Ella Toone"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Australia vs. England Highlights | 2023 FIFA Women's World Cup | Semifinals",
+          "description": "England and Australia wrapped up the 2023 FIFA Women's World Cup semifinals, as both teams looked to move on and play against Spain in the finals. Check out the top moments and highlights here!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "816389",
+        "likeCount": "7372",
+        "favoriteCount": "0",
+        "commentCount": "1199"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k9rYlAuYp0P9hCruWlMck1JWZY4",
+      "id": "m4w-QFIb4RA",
+      "snippet": {
+        "publishedAt": "2023-08-15T13:48:15Z",
+        "channelId": "UCK_xVrQQGeqrN-BH8j1I4Jw",
+        "title": "EXCLUSIVE: Maui resident speaks out on wildfires",
+        "description": "The wildfires in Maui now among the deadliest in U.S. history. Our morning anchor Jezzamine Wolk had the chance to speak to a local, currently helping with recovery efforts, about what's happening and how people can help.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m4w-QFIb4RA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m4w-QFIb4RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m4w-QFIb4RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m4w-QFIb4RA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m4w-QFIb4RA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KTALnews",
+        "tags": [
+          "video",
+          "News",
+          "Local News",
+          "hawaii",
+          "maui",
+          "wildfire",
+          "wildfires",
+          "jezzamine wolk"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "EXCLUSIVE: Maui resident speaks out on wildfires",
+          "description": "The wildfires in Maui now among the deadliest in U.S. history. Our morning anchor Jezzamine Wolk had the chance to speak to a local, currently helping with recovery efforts, about what's happening and how people can help."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "111260",
+        "likeCount": "1451",
+        "favoriteCount": "0",
+        "commentCount": "563"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5O8djEjarrLZg5yFIZ2c079pMp4",
+      "id": "_2q39eggvZw",
+      "snippet": {
+        "publishedAt": "2023-08-12T19:57:56Z",
+        "channelId": "UC01qwqOU14BwNZc0cc8iKWA",
+        "title": "Highlights | Hull KR v Leigh Leopards, 2023 Betfred Challenge Cup Final",
+        "description": "\u200bWatch all the highlights as Hull KR took on Leigh Leopards in a thrilling 2023 Betfred Challenge Cup Final.\n\nFollow the Betfred Challenge Cup on social media:\n\nTwitter - @TheChallengeCup \nFacebook - Challenge Cup\nInstagram - @TheChallengeCup",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2q39eggvZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Rugby League",
+        "tags": ["super", "league", "rugby", "sport", "big", "hits"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Highlights | Hull KR v Leigh Leopards, 2023 Betfred Challenge Cup Final",
+          "description": "\u200bWatch all the highlights as Hull KR took on Leigh Leopards in a thrilling 2023 Betfred Challenge Cup Final.\n\nFollow the Betfred Challenge Cup on social media:\n\nTwitter - @TheChallengeCup \nFacebook - Challenge Cup\nInstagram - @TheChallengeCup"
+        }
+      },
+      "statistics": {
+        "viewCount": "72931",
+        "likeCount": "978",
+        "favoriteCount": "0",
+        "commentCount": "199"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dkdlfPnz42FXXi6ePEc8ldmKbyA",
+      "id": "at6KYLJOgo8",
+      "snippet": {
+        "publishedAt": "2023-08-14T21:10:21Z",
+        "channelId": "UC1dVGItBqV4w-4xQHoX1UDg",
+        "title": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say",
+        "description": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say\nThe Person County Sheriff's Office says the driver did stop and call 911 after the crash.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/at6KYLJOgo8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS 17",
+        "tags": ["video"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say",
+          "description": "Dad shoots driver dead after son was hit, killed by car in Person County, deputies say\nThe Person County Sheriff's Office says the driver did stop and call 911 after the crash."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "871194",
+        "likeCount": "12851",
+        "favoriteCount": "0",
+        "commentCount": "6840"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HVmnWF0nwLhCjwcNydmzYRer99c",
+      "id": "UiSQmu8oQYU",
+      "snippet": {
+        "publishedAt": "2023-08-15T18:31:51Z",
+        "channelId": "UCnQjDnWKwV81mXEiuiA9Vqg",
+        "title": "Parenting: 90s vs Today",
+        "description": "I'm still pretty nostalgic about baggy jeans and hose water but the @T-Mobile SyncUP KIDS Watches are pretty slick too! #parenting #backtoschool #TMobilePartner\n\nMerch here: https://www.dudedad.com/\nSubscribe Here! http://bit.ly/DudeDadSubscribe\nCheck out my TopVideos! http://bit.ly/DudeDadTopVideos\n\nInstagram - https://www.instagram.com/dudedad\nFacebook - https://www.facebook.com/DudeDadVlog\nTikTok - https://www.tiktok.com/@dudedadvlog\nFor Business Inquiries please contact info@dudedad.com\n\nAbout Dude Dad:\nHi! I'm Taylor Calmus, a rural South Dakota born and Colorado-based actor/comedian. I started Dude Dad© two weeks before my son Theo was born as a way to stay creative while learning to be a father. My wife Heidi and I now have 4 kids and over 500+ videos. We also have a TV show on the Magnolia Network called Super Dad. My purpose for the channel is to entertain, enlighten and inspire.\n\nParenting: 90s vs Today\nhttps://youtu.be/UiSQmu8oQYU\n\nDude Dad\nhttp://www.youtube.com/DudeDad",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiSQmu8oQYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiSQmu8oQYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiSQmu8oQYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UiSQmu8oQYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UiSQmu8oQYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dude Dad",
+        "tags": [
+          "Dude dad",
+          "dudedad",
+          "Taylor Calmus",
+          "father",
+          "comedy",
+          "super dad",
+          "Heidi Calmus",
+          "fatherhood",
+          "DIY",
+          "the 90s",
+          "TMobile",
+          "smartwatch",
+          "back to school",
+          "throwback"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Parenting: 90s vs Today",
+          "description": "I'm still pretty nostalgic about baggy jeans and hose water but the @T-Mobile SyncUP KIDS Watches are pretty slick too! #parenting #backtoschool #TMobilePartner\n\nMerch here: https://www.dudedad.com/\nSubscribe Here! http://bit.ly/DudeDadSubscribe\nCheck out my TopVideos! http://bit.ly/DudeDadTopVideos\n\nInstagram - https://www.instagram.com/dudedad\nFacebook - https://www.facebook.com/DudeDadVlog\nTikTok - https://www.tiktok.com/@dudedadvlog\nFor Business Inquiries please contact info@dudedad.com\n\nAbout Dude Dad:\nHi! I'm Taylor Calmus, a rural South Dakota born and Colorado-based actor/comedian. I started Dude Dad© two weeks before my son Theo was born as a way to stay creative while learning to be a father. My wife Heidi and I now have 4 kids and over 500+ videos. We also have a TV show on the Magnolia Network called Super Dad. My purpose for the channel is to entertain, enlighten and inspire.\n\nParenting: 90s vs Today\nhttps://youtu.be/UiSQmu8oQYU\n\nDude Dad\nhttp://www.youtube.com/DudeDad"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "170972",
+        "likeCount": "5983",
+        "favoriteCount": "0",
+        "commentCount": "545"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cRuZ5mYg0PKEOoeNBzqus0EQu0E",
+      "id": "dxJOoZXGopA",
+      "snippet": {
+        "publishedAt": "2023-08-15T12:39:38Z",
+        "channelId": "UC4iryBFP7dKE1R-5Ry4Gjpg",
+        "title": "Hellcat Demon powered side by side RIPS! WHAT HAVE WE DONE?!",
+        "description": "GET YOURSELF SOME MERCH RIGHT NOW:\nhttp://SeeYouOnTheBigEnd.com/\n\nUDR build link: https://youtube.com/watch?v=S3-j3-vtMm8&feature=share\n\nROCKY MOUNTAIN AFFILIATE LINK: \nhttps://www.rockymountainatvmc.com/?ref=1006&utm_source=youtube&utm_medium=sxsblog&utm_campaign=influencer \n\nGet your parts here: https://www.sxsblogparts.com/\n\nPatreon:\nhttps://www.patreon.com/SXSBlog\n\nGarage channel: https://www.youtube.com/channel/UC7eExs24G334SX_4DF-0cYQ\n\n3DOT channel:\nhttps://www.youtube.com/channel/UC_nJoQ04gJ5Vi9ZgRVgPyqw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dxJOoZXGopA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dxJOoZXGopA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dxJOoZXGopA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dxJOoZXGopA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dxJOoZXGopA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SXSBlog",
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hellcat Demon powered side by side RIPS! WHAT HAVE WE DONE?!",
+          "description": "GET YOURSELF SOME MERCH RIGHT NOW:\nhttp://SeeYouOnTheBigEnd.com/\n\nUDR build link: https://youtube.com/watch?v=S3-j3-vtMm8&feature=share\n\nROCKY MOUNTAIN AFFILIATE LINK: \nhttps://www.rockymountainatvmc.com/?ref=1006&utm_source=youtube&utm_medium=sxsblog&utm_campaign=influencer \n\nGet your parts here: https://www.sxsblogparts.com/\n\nPatreon:\nhttps://www.patreon.com/SXSBlog\n\nGarage channel: https://www.youtube.com/channel/UC7eExs24G334SX_4DF-0cYQ\n\n3DOT channel:\nhttps://www.youtube.com/channel/UC_nJoQ04gJ5Vi9ZgRVgPyqw"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "276925",
+        "likeCount": "11372",
+        "favoriteCount": "0",
+        "commentCount": "643"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e-XLQRxaPu9ZefPD4OhLbUUIWlM",
+      "id": "7_eTkMzZRFY",
+      "snippet": {
+        "publishedAt": "2023-08-16T00:53:16Z",
+        "channelId": "UCCccVpY1Wqi0Q9CV5-XjWXQ",
+        "title": "🛠️🪚 90's Bedroom Makeover with a DIY Beginner ❤️ | DIY Together Episode \"Celina\"",
+        "description": "Angela Rose helps her best friend Celina update her bedroom. Celina has never done DIY before and has to jump in with both feet wielding hammers, blades, crow bars, nail guns and miter saws! The transformation from salmon walls and green carpet is breathtaking and Celina's new DIY confidence is inspiring.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_eTkMzZRFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_eTkMzZRFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_eTkMzZRFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7_eTkMzZRFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7_eTkMzZRFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angela Rose | DIY and Design",
+        "tags": [
+          "DIY",
+          "together",
+          "angela rose home",
+          "makeover",
+          "bedroom",
+          "90's",
+          "update",
+          "transform",
+          "transformation",
+          "do-it-yourself",
+          "home",
+          "tools",
+          "flooring",
+          "wall treatment",
+          "power tool",
+          "carpet removal",
+          "paint",
+          "skim coat",
+          "mural",
+          "wallpaper",
+          "how to",
+          "beginner",
+          "novice",
+          "newbie",
+          "home improvement",
+          "HGTV",
+          "TV show"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "🛠️🪚 90's Bedroom Makeover with a DIY Beginner ❤️ | DIY Together Episode \"Celina\"",
+          "description": "Angela Rose helps her best friend Celina update her bedroom. Celina has never done DIY before and has to jump in with both feet wielding hammers, blades, crow bars, nail guns and miter saws! The transformation from salmon walls and green carpet is breathtaking and Celina's new DIY confidence is inspiring."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "121779",
+        "likeCount": "12055",
+        "favoriteCount": "0",
+        "commentCount": "3868"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BHRqeB4jKt5cPJGfdahrccIS_So",
+      "id": "h7Mlf7chPJs",
+      "snippet": {
+        "publishedAt": "2023-08-15T10:26:14Z",
+        "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+        "title": "Spain vs. Sweden Highlights | 2023 FIFA Women's World Cup | Semifinals",
+        "description": "Spain and Sweden played against each looking to advance to the 2023 FIFA Women's World Cup finals. Check out the top moments and highlights here!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h7Mlf7chPJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX Soccer",
+        "tags": [
+          "salma paralluelo",
+          "Spain",
+          "Sweden",
+          "FIFA Women's World Cup",
+          "World Cup",
+          "Rebecka Blomqvist",
+          "Olga Carmona"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Spain vs. Sweden Highlights | 2023 FIFA Women's World Cup | Semifinals",
+          "description": "Spain and Sweden played against each looking to advance to the 2023 FIFA Women's World Cup finals. Check out the top moments and highlights here!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "1126169",
+        "likeCount": "9671",
+        "favoriteCount": "0",
+        "commentCount": "1231"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CAngCPnSR9cdQn_RLenJfYY0EK4",
+      "id": "6CmX4ZmhwPM",
+      "snippet": {
+        "publishedAt": "2023-08-15T13:00:08Z",
+        "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "title": "Every Construction Machine Explained in 15 Minutes",
+        "description": "A very quick overview of nearly every machine you'll see on a construction site\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"Japan's Next Train Revolution\": https://nebula.tv/videos/realengineering-japans-next-train-revolution?ref=practical-engineering\n\nIt takes a lot of big tools to build the roads, dams, sewage lift stations, and every other part of the constructed environment. To me, there’s almost nothing more fun than watching something get built, and that’s made all the better when you know what all those machines do.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-every-construction-machine-explained-in-15-minutes?ref=practical-engineering\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady\u200b\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten by Ralph Crewe\nGraphics by Nebula Studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6CmX4ZmhwPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Engineering",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Every Construction Machine Explained in 15 Minutes",
+          "description": "A very quick overview of nearly every machine you'll see on a construction site\n🌌Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/Practical-Engineering\n🚆Watch \"Japan's Next Train Revolution\": https://nebula.tv/videos/realengineering-japans-next-train-revolution?ref=practical-engineering\n\nIt takes a lot of big tools to build the roads, dams, sewage lift stations, and every other part of the constructed environment. To me, there’s almost nothing more fun than watching something get built, and that’s made all the better when you know what all those machines do.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-every-construction-machine-explained-in-15-minutes?ref=practical-engineering\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady\u200b\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Nebula.\nStock video and imagery provided by Getty Images, Shutterstock, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nVideo by Grady Hillhouse\nEdited by Wesley Crump\nWritten by Ralph Crewe\nGraphics by Nebula Studios"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "602079",
+        "likeCount": "32271",
+        "favoriteCount": "0",
+        "commentCount": "1754"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ukNjuJy-X_YVaDUs59UBQjw-hI4",
+      "id": "t3w_quudZVo",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:42:32Z",
+        "channelId": "UC92iwH5d9u0CeJtCx17YT9Q",
+        "title": "Baldur’s Gate 3 Controversy Goes NUCLEAR + Another Developer Blames Fans + IGN Discredits EndymionTv",
+        "description": "Baldur's Gate's CEO responds to criticism, more devs speak out in offence against the game & IGN discredits me, so let's talk.\n\nEmail: EndymionYT@hotmail.com\nTwitter: @EndymionYT\nInstagram: endymionn\nTwitch: https://www.twitch.tv/endymion_yt\nPatreon: https://www.patreon.com/endymiontv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3w_quudZVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3w_quudZVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3w_quudZVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3w_quudZVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ENDYMIONtv",
+        "tags": [
+          "diversity",
+          "men media",
+          "melonie Mac",
+          "critical drinker",
+          "rant",
+          "woke",
+          "endymion",
+          "RK Outpost",
+          "woke media",
+          "post woke",
+          "nerdrotic",
+          "woke disney",
+          "modern gaming is dying",
+          "Star Wars",
+          "disney woke",
+          "why no one likes woke characters",
+          "Witcher",
+          "Witcher season 3",
+          "Ciri",
+          "cyberpunk",
+          "writer strike",
+          "barbie",
+          "baldurs gate 3",
+          "baldurs gate 3 guide",
+          "baldurs gate 3 tier",
+          "baldurs gate 3 review",
+          "baldurs gate build",
+          "baldurs gate romance",
+          "larian studios",
+          "rockstar",
+          "legacykillahd",
+          "asterion",
+          "ign baldurs gate",
+          "baldurs gate"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Baldur’s Gate 3 Controversy Goes NUCLEAR + Another Developer Blames Fans + IGN Discredits EndymionTv",
+          "description": "Baldur's Gate's CEO responds to criticism, more devs speak out in offence against the game & IGN discredits me, so let's talk.\n\nEmail: EndymionYT@hotmail.com\nTwitter: @EndymionYT\nInstagram: endymionn\nTwitch: https://www.twitch.tv/endymion_yt\nPatreon: https://www.patreon.com/endymiontv"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "686530",
+        "likeCount": "29150",
+        "favoriteCount": "0",
+        "commentCount": "5775"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "imYYXYa1n6kI0hQhnUQcidW5KNo",
+      "id": "6M-hml8wICA",
+      "snippet": {
+        "publishedAt": "2023-08-16T02:11:41Z",
+        "channelId": "UCjHWv2DU5-HLpogAAr386DQ",
+        "title": "Trump will take mugshot at Fulton County Jail | FOX 5 News",
+        "description": "In a fourth criminal indictment for the former President of the United States, FOX 5 has learned Trump and his 18 allies will be booked and take mugshots just like any other detainee at the Fulton County Jail.\n\nSubscribe to FOX 5 Atlanta!: https://bit.ly/3vpFpcm\n\nWatch FOX 5 Atlanta Live: https://www.fox5atlanta.com/live\n\nFOX 5 Atlanta delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from metro Atlanta, north Georgia and across the nation.\n\nWatch more from FOX 5 Atlanta on YouTube:\nFOX 5 News: https://www.youtube.com/playlist?list=PLUgtVJuOxfqkmrF1fONNmi8nKI0Z-FPE-\nFOX 5 Atlanta I-Team: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlb_I16wBwizoAoUsfKEeWB\nGood Day Atlanta: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlKT5xsbsPFgr5EBzdsWTvG\nFOX 5 Extras: https://www.youtube.com/playlist?list=PLUgtVJuOxfqli-5MS_2X-i6bNGWvV0RYP\nYou Decide: https://www.youtube.com/playlist?list=PLUgtVJuOxfqnCKb7UkRde2NXuaoPEAXut\n\nDownload the FOX 5 Atlanta app: https://www.fox5atlanta.com/app\n\nDownload the FOX 5 Storm Team app: https://www.fox5atlanta.com/storm\n\nFollow FOX 5 Atlanta on Facebook: https://facebook.com/fox5atlanta\n\nFollow FOX 5 Atlanta on Twitter: https://twitter.com/FOX5Atlanta\n\nFollow FOX 5 Atlanta on Instagram: https://www.instagram.com/fox5atlanta/\n\nSubscribe to the Morning Brief and other newsletters from FOX 5 Atlanta: https://www.fox5atlanta.com/email",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6M-hml8wICA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6M-hml8wICA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6M-hml8wICA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6M-hml8wICA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6M-hml8wICA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX 5 Atlanta",
+        "tags": [
+          "news",
+          "WAGA",
+          "Video",
+          "FOX 5 Atlanta",
+          "fulton county jail",
+          "rice street jail",
+          "trump mugshot",
+          "trump booked",
+          "trump indictment",
+          "georgia indictment",
+          "atlanta indictment",
+          "fani willis"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trump will take mugshot at Fulton County Jail | FOX 5 News",
+          "description": "In a fourth criminal indictment for the former President of the United States, FOX 5 has learned Trump and his 18 allies will be booked and take mugshots just like any other detainee at the Fulton County Jail.\n\nSubscribe to FOX 5 Atlanta!: https://bit.ly/3vpFpcm\n\nWatch FOX 5 Atlanta Live: https://www.fox5atlanta.com/live\n\nFOX 5 Atlanta delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from metro Atlanta, north Georgia and across the nation.\n\nWatch more from FOX 5 Atlanta on YouTube:\nFOX 5 News: https://www.youtube.com/playlist?list=PLUgtVJuOxfqkmrF1fONNmi8nKI0Z-FPE-\nFOX 5 Atlanta I-Team: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlb_I16wBwizoAoUsfKEeWB\nGood Day Atlanta: https://www.youtube.com/playlist?list=PLUgtVJuOxfqlKT5xsbsPFgr5EBzdsWTvG\nFOX 5 Extras: https://www.youtube.com/playlist?list=PLUgtVJuOxfqli-5MS_2X-i6bNGWvV0RYP\nYou Decide: https://www.youtube.com/playlist?list=PLUgtVJuOxfqnCKb7UkRde2NXuaoPEAXut\n\nDownload the FOX 5 Atlanta app: https://www.fox5atlanta.com/app\n\nDownload the FOX 5 Storm Team app: https://www.fox5atlanta.com/storm\n\nFollow FOX 5 Atlanta on Facebook: https://facebook.com/fox5atlanta\n\nFollow FOX 5 Atlanta on Twitter: https://twitter.com/FOX5Atlanta\n\nFollow FOX 5 Atlanta on Instagram: https://www.instagram.com/fox5atlanta/\n\nSubscribe to the Morning Brief and other newsletters from FOX 5 Atlanta: https://www.fox5atlanta.com/email"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "419514",
+        "likeCount": "2176",
+        "favoriteCount": "0",
+        "commentCount": "2940"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q6pBDDDO5YzA_ZI14rWO_gWsCo0",
+      "id": "cgvQ80EtFOw",
+      "snippet": {
+        "publishedAt": "2023-08-15T01:15:02Z",
+        "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+        "title": "Goodbye Twitch",
+        "description": "This is the greatest twitch contract moment of All Time\nMerch https://moistglobal.com/\nComics https://badegg.co/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cgvQ80EtFOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "penguinz0",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Goodbye Twitch",
+          "description": "This is the greatest twitch contract moment of All Time\nMerch https://moistglobal.com/\nComics https://badegg.co/"
+        }
+      },
+      "statistics": {
+        "viewCount": "3936606",
+        "likeCount": "195590",
+        "favoriteCount": "0",
+        "commentCount": "7209"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VuPMytG7vHRRWRAMFccfclmFDlE",
+      "id": "Ti-Uqcuk1F0",
+      "snippet": {
+        "publishedAt": "2023-08-14T17:00:12Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Guts VS Dimitri (Berserk VS Fire Emblem) | DEATH BATTLE!",
+        "description": "A fight of brutal avengers: Dragon Slayer faces the Blue Lion!\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n►Go to http://mintmobile.com/deathbattle to cut your wireless bill to 15 bucks a month. \n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"God's Hand\" - Battle Music\nComposed & performed by Brandon Yates \nLyrics by Logan Adams \nMix/Master by Anthony DiGiacomo \nSubscribe to Brandon Yates on YT:   @BrandonYates  \nStream on Spotify: https://open.spotify.com/track/2qBeIZ8I99hfyM3lYB8PLy?si=bd956e2bb9a6493e\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ti-Uqcuk1F0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "RT",
+          "DBX",
+          "screwattack",
+          "death battle",
+          "rooster teeth",
+          "death battle cast",
+          "ben singer",
+          "chad james",
+          "animation",
+          "3D animation",
+          "animated battle",
+          "berserk",
+          "fire emblem",
+          "kentaro miura",
+          "blue lions",
+          "edelgard",
+          "dimitri",
+          "demetri",
+          "guts",
+          "casca",
+          "griffith",
+          "grifith",
+          "nintendo",
+          "three houses",
+          "three hopes",
+          "engage",
+          "smash bros",
+          "marth",
+          "ike",
+          "dragon slayer",
+          "black eagles",
+          "golden deer",
+          "ashen wolves",
+          "fire emblem heroes",
+          "paladin",
+          "berserker armor",
+          "berserker",
+          "berzerk",
+          "fireemblem",
+          "blue lion",
+          "nontendo"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Guts VS Dimitri (Berserk VS Fire Emblem) | DEATH BATTLE!",
+          "description": "A fight of brutal avengers: Dragon Slayer faces the Blue Lion!\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n►Go to http://mintmobile.com/deathbattle to cut your wireless bill to 15 bucks a month. \n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"God's Hand\" - Battle Music\nComposed & performed by Brandon Yates \nLyrics by Logan Adams \nMix/Master by Anthony DiGiacomo \nSubscribe to Brandon Yates on YT:   @BrandonYates  \nStream on Spotify: https://open.spotify.com/track/2qBeIZ8I99hfyM3lYB8PLy?si=bd956e2bb9a6493e\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "797210",
+        "likeCount": "45327",
+        "favoriteCount": "0",
+        "commentCount": "7767"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zu2Q0Gr4Eg5Ms2xamRtAc9hs_WQ",
+      "id": "OwNpwbpszxA",
+      "snippet": {
+        "publishedAt": "2023-08-14T18:04:24Z",
+        "channelId": "UCG8rbF3g2AMX70yOd8vqIZg",
+        "title": "My Boxing Return",
+        "description": "October 14, I’ve got a lot to prove…\nSUBSCRIBE FOR DAILY VLOGS! ► http://bit.ly/Subscribe2Logan\n\nWatch Previous Vlog (I Got Engaged) ► https://youtube.com/watch?v=hk1T_um0lCA&feature=sharea\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/LoganPaul/\nTWITTER: https://twitter.com/LoganPaul\n\nWatch our IMPAULSIVE Podcast ► https://www.youtube.com/impaulsive\nOR IMPAULSIVE CLIPS ► https://www.youtube.com/impaulsiveclips\n\nI’m a 28 year old living in Puerto Rico. This is my life.\nhttps://www.youtube.com/LoganPaulVlogs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OwNpwbpszxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Logan Paul",
+        "tags": [
+          "logan paul vlog",
+          "logan paul",
+          "logan",
+          "paul",
+          "olympics",
+          "logan paul youtube",
+          "vlog",
+          "daily",
+          "comedy",
+          "hollywood",
+          "parrot",
+          "maverick",
+          "bird",
+          "maverick clothes",
+          "Logan Paul boxing",
+          "dillon danis boxing",
+          "Dillon danis",
+          "Logan Paul VS McGregor",
+          "Conor McGregor"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "My Boxing Return",
+          "description": "October 14, I’ve got a lot to prove…\nSUBSCRIBE FOR DAILY VLOGS! ► http://bit.ly/Subscribe2Logan\n\nWatch Previous Vlog (I Got Engaged) ► https://youtube.com/watch?v=hk1T_um0lCA&feature=sharea\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/LoganPaul/\nTWITTER: https://twitter.com/LoganPaul\n\nWatch our IMPAULSIVE Podcast ► https://www.youtube.com/impaulsive\nOR IMPAULSIVE CLIPS ► https://www.youtube.com/impaulsiveclips\n\nI’m a 28 year old living in Puerto Rico. This is my life.\nhttps://www.youtube.com/LoganPaulVlogs"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "1157186",
+        "likeCount": "80528",
+        "favoriteCount": "0",
+        "commentCount": "2475"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CFA284dhDTpaYKDAi9nFMMzyqus",
+      "id": "jvtgn1jg3hc",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:45:02Z",
+        "channelId": "UCodkNmk9oWRTIYZdr_HuSlg",
+        "title": "Hermitcraft 9 Ep 44:  Scarland's MEGA Entrance Build!!",
+        "description": "Hermitcraft season 9 episode 44!  We are back on Hermitcraft for a mega build to finish the entrance to Scarland. The new building will be where the turnstiles will be for our guests will enter the park. We are so close to officially opening Scarland to the Hermits! We meet up with Grian to accidentally destroy the Buttercup tents and build a new  ButterCup HQ in a tree. I hope you enjoy it and let me know where Doc's Perimeter announcements are coming from so we can stop them! See you in the next episode!\n-----------------------------------------------------\n\n*Subscribe to my clips channel \"GoodClipsWithScar\"  https://www.youtube.com/channel/UCrmsyulCK0py5o94jcJTsFg\n\n*Subscribe to my VODS channel \"GoodVodsWithScar\"\nhttps://www.youtube.com/channel/UCE_lYxBSVZ4JzsULD4BVm9A\n\n----------------------------------------------------------\nMy Links and stuff:\n* Patreon: https://www.patreon.com/user?u=21298347\n* Twitter: http://twitter.com/#!/GTWScar\n* Twitch: http://www.twitch.tv/goodtimeswithscar\n* Instagram: http://instagram.com/goodtimeswithscar\n*TikTok: https://www.tiktok.com/@goodtokswithscar\n*Business Inquiries Send to: gtws@pbnj.gg\n---------------------------------------------------------\nHermitcraft SMP - season 9 info and seed coming soon.\n\nFor more information and links to all things Hermitcraft, follow the link to the Hermitcraft website: https://hermitcraft.com/\n\n-------------------------------------------------------\n\n#Hermitcraft9 #HermitcraftSeason9 #GoodTimesWithScar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jvtgn1jg3hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GoodTimesWithScar",
+        "tags": [
+          "minecraft",
+          "hermitcraft 9",
+          "hermitcraft season 9",
+          "minecraft server",
+          "hermit craft",
+          "hermitcraft",
+          "season 9",
+          "hermitcraft 9 scar",
+          "hermitcraft season 9 scar",
+          "scarland",
+          "hermitcraft scarland",
+          "scarland hermitcraft",
+          "hermitcraft mega build",
+          "hermitcraft mega base",
+          "Scarland redstone handyman",
+          "goodtimeswithscar",
+          "scar",
+          "buttercups",
+          "hermitcraft buttercup camp",
+          "minecraft hermitcraft 9",
+          "minecraft hermitcraft scar",
+          "minecraft mega base tour"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hermitcraft 9 Ep 44:  Scarland's MEGA Entrance Build!!",
+          "description": "Hermitcraft season 9 episode 44!  We are back on Hermitcraft for a mega build to finish the entrance to Scarland. The new building will be where the turnstiles will be for our guests will enter the park. We are so close to officially opening Scarland to the Hermits! We meet up with Grian to accidentally destroy the Buttercup tents and build a new  ButterCup HQ in a tree. I hope you enjoy it and let me know where Doc's Perimeter announcements are coming from so we can stop them! See you in the next episode!\n-----------------------------------------------------\n\n*Subscribe to my clips channel \"GoodClipsWithScar\"  https://www.youtube.com/channel/UCrmsyulCK0py5o94jcJTsFg\n\n*Subscribe to my VODS channel \"GoodVodsWithScar\"\nhttps://www.youtube.com/channel/UCE_lYxBSVZ4JzsULD4BVm9A\n\n----------------------------------------------------------\nMy Links and stuff:\n* Patreon: https://www.patreon.com/user?u=21298347\n* Twitter: http://twitter.com/#!/GTWScar\n* Twitch: http://www.twitch.tv/goodtimeswithscar\n* Instagram: http://instagram.com/goodtimeswithscar\n*TikTok: https://www.tiktok.com/@goodtokswithscar\n*Business Inquiries Send to: gtws@pbnj.gg\n---------------------------------------------------------\nHermitcraft SMP - season 9 info and seed coming soon.\n\nFor more information and links to all things Hermitcraft, follow the link to the Hermitcraft website: https://hermitcraft.com/\n\n-------------------------------------------------------\n\n#Hermitcraft9 #HermitcraftSeason9 #GoodTimesWithScar"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "213845",
+        "likeCount": "22042",
+        "favoriteCount": "0",
+        "commentCount": "2757"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hrWSV96VPp3uXlEjxSnAZkCFpJs",
+      "id": "eCQH12RLE_o",
+      "snippet": {
+        "publishedAt": "2023-08-16T02:38:12Z",
+        "channelId": "UCHMnsOPDgrjWvjHXZp-xvqg",
+        "title": "C0 Lyney is MAGICAL! Genshin Impact 4.0",
+        "description": "Wishlist the upcoming ⚠️epic dark fantasy action RPG⚠️ Astra Knights of Veda HERE! https://wehy.pe/y/6/IWinToLoseGaming\n\nWith the long awaited release of patch 4.0, we finally have a brand new 5 star character, Lyney! In this video, we'll be taking a look at how good a constellation 0 Lyney is with the Wanderer's Troupe and the Hamayumi.\n\n0:00 | Intro, Build, and More\n2:22 | Lyney's Kit\n6:41 | Lyney's Teams\n8:21 | This Abyss COUNTERS Lyney\n10:24 | My Thoughts on Lyney\n\n#genshinimpact #genshin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eCQH12RLE_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eCQH12RLE_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eCQH12RLE_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eCQH12RLE_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eCQH12RLE_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IWinToLose Gaming",
+        "tags": [
+          "genshin impact",
+          "genshin impact 4.0",
+          "lyney genshin",
+          "lyney genshin impact",
+          "lyney guide",
+          "the first great magic",
+          "genshin impact game",
+          "lyney kit",
+          "lyney gameplay",
+          "genshin impact gameplay",
+          "genshin impact 4.0 countdown",
+          "genshin impact lyney",
+          "genshin impact 4.0 fontaine",
+          "genshin impact 4.0 gameplay",
+          "genshin impact 4.0 update",
+          "genshin impact lyney gameplay",
+          "genshin impact lyney reaction",
+          "genshin impact lyney build",
+          "genshin impact lyney demo",
+          "genshin impact lyney guide"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "C0 Lyney is MAGICAL! Genshin Impact 4.0",
+          "description": "Wishlist the upcoming ⚠️epic dark fantasy action RPG⚠️ Astra Knights of Veda HERE! https://wehy.pe/y/6/IWinToLoseGaming\n\nWith the long awaited release of patch 4.0, we finally have a brand new 5 star character, Lyney! In this video, we'll be taking a look at how good a constellation 0 Lyney is with the Wanderer's Troupe and the Hamayumi.\n\n0:00 | Intro, Build, and More\n2:22 | Lyney's Kit\n6:41 | Lyney's Teams\n8:21 | This Abyss COUNTERS Lyney\n10:24 | My Thoughts on Lyney\n\n#genshinimpact #genshin"
+        }
+      },
+      "statistics": {
+        "viewCount": "219166",
+        "likeCount": "8390",
+        "favoriteCount": "0",
+        "commentCount": "841"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7GqW-HBTYTGB9AUsqOFvApQniIU",
+      "id": "vrt_fjUVqiA",
+      "snippet": {
+        "publishedAt": "2023-08-15T08:00:32Z",
+        "channelId": "UC85aYbNSFjsJdxfpxgQr8tA",
+        "title": "Easily 3 Star Clashiversary Challenge #3 (Clash of Clans)",
+        "description": "The Clash of Clans 2023 Clashiversary Event progresses to Challenge 3. The Future Queen Skin is showcased in this level designed by Yuta14. It involves a Queen Charge strategy to the Town Hall and can be tricky if you have not done it before. I did want to thank iTzu for helping me with the consistency of this method - namely how to save all of the troops until after the TH is destroyed. If you activate it too early it can end up taking down your healers. Best of luck with your 3 stars!\n\nVOTE FOR JUDO: https://esportsawards.com/vote/\n\niTzu Gaming: https://www.youtube.com/@itzueng-clashofclans\n\nSuggested Videos:\nI Broke Clash of Clans: https://www.youtube.com/watch?v=8i4hz2i0BF8\nHow Much $$ to Gem the New 6th Builder: https://www.youtube.com/watch?v=MOAsvOI7o_I\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #Clashiversary #ClashOfClansEvent\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vrt_fjUVqiA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Judo Sloth Gaming",
+        "tags": [
+          "clash of clans",
+          "coc",
+          "clash of clans gameplay",
+          "clash of clans attacks",
+          "clash of clans strategy",
+          "judo sloth",
+          "clashiversary challenge 3",
+          "clashiversary challenge #3",
+          "clashiversary challenge 2023",
+          "clashiversary 2023",
+          "future queen",
+          "future archer queen",
+          "yuta14",
+          "yuta14 challenge",
+          "coc new event attack",
+          "clash of clans new event attack",
+          "3 star clashiversary challenge 3",
+          "clashiversary challenge guide",
+          "clashiversary attack",
+          "clashiversary strategy",
+          "how to beat clashiversary challenge"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Easily 3 Star Clashiversary Challenge #3 (Clash of Clans)",
+          "description": "The Clash of Clans 2023 Clashiversary Event progresses to Challenge 3. The Future Queen Skin is showcased in this level designed by Yuta14. It involves a Queen Charge strategy to the Town Hall and can be tricky if you have not done it before. I did want to thank iTzu for helping me with the consistency of this method - namely how to save all of the troops until after the TH is destroyed. If you activate it too early it can end up taking down your healers. Best of luck with your 3 stars!\n\nVOTE FOR JUDO: https://esportsawards.com/vote/\n\niTzu Gaming: https://www.youtube.com/@itzueng-clashofclans\n\nSuggested Videos:\nI Broke Clash of Clans: https://www.youtube.com/watch?v=8i4hz2i0BF8\nHow Much $$ to Gem the New 6th Builder: https://www.youtube.com/watch?v=MOAsvOI7o_I\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #Clashiversary #ClashOfClansEvent\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "796165",
+        "likeCount": "30191",
+        "favoriteCount": "0",
+        "commentCount": "1424"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MdG0tUZbY987uG6BbMshQOAdhXM",
+      "id": "j9dXwEdJDZc",
+      "snippet": {
+        "publishedAt": "2023-08-15T19:08:49Z",
+        "channelId": "UCHJuQZuzapBh-CuhRYxIZrg",
+        "title": "Nuclear-Weapons Expert Breaks Down 8 Nuclear Bombs In Movies And TV | How Real Is It? | Insider",
+        "description": "Nuclear-weapons physicist Greg Spriggs rates seven nuclear-explosion scenes in movies.\n\nHe analyzes the portrayal of nuclear detonations and their effects in Steven Spielberg’s “Indiana Jones and the Kingdom of the Crystal Skull” (2008), starring Harrison Ford; “Broken Arrow” (1996), starring John Travolta; Christopher Nolan’s “The Dark Knight Rises” (2012), starring Christian Bale, Tom Hardy, and Anne Hathaway; and Stanley Kubrick’s “Dr. Strangelove” (1964). He also comments on what a nuclear explosion in outer space would really look like in comparison to Marvel’s “The Avengers” (2012), starring Robert Downey Jr., Chris Evans, Chris Hemsworth, and Scarlett Johansson; and Michael Bay’s “Armageddon” (1998), starring Ben Affleck, Bruce Willis, and Liv Tyler. He breaks down the underwater detonation seen in “American Assassin” (2017), starring Michael Keaton. And he explains how accurate Christopher Nolan’s recreation of the construction of the first atomic bomb in Los Alamos and the subsequent Trinity test was in \"Oppenheimer” (2023), starring Cillian Murphy, Matt Damon, Emily Blunt, and Florence Pugh.\n\nSpriggs has been a nuclear-weapons physicist at Lawrence Livermore National Laboratory for 20 years. He worked on a special project where he scanned, reanalyzed, and declassified old nuclear test films.\n\nYou can find more information about the Livermore National Laboratory at: www.llnl.gov\n\nThese movies show simulations of the effects of using nuclear weapons near the public. To date, the 1945 atomic bombings at Hiroshima and Nagasaki are the only instances of nuclear weapons being detonated as an act of war.\n\nMORE HOW REAL IS IT? VIDEOS:\nFormer Bank Robber Breaks Down 9 More Bank Heists In Movies and TV | How Real Is It? | Insider\nhttps://www.youtube.com/watch?v=yH3gFE15Ivc\nWeapons Masters Rate 85 Fight Scenes in Movies and TV | How Real Is It | Insider\nhttps://www.youtube.com/watch?v=rOAMYgaPTmU\nMilitary Tank Expert Rates 9 More Tank Battles In Movies And TV | Insider\nhttps://www.youtube.com/watch?v=w1rrz-PHX0c\n\n------------------------------------------------------\n\n#nuclearwar #movies #insider \n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire. \n\nVisit our homepage for the top stories of the day: https://www.insider.com\nInsider on Facebook: https://www.facebook.com/insider\nInsider on Instagram: https://www.instagram.com/insider\nInsider on Twitter: https://twitter.com/thisisinsider\nInsider on Snapchat: https://www.snapchat.com/discover/Insider/2708030621\nInsider on TikTok: https://www.tiktok.com/@insider\n\nNuclear-Weapons Expert Breaks Down 8 Nuclear Bombs In Movies And TV | How Real Is It? | Insider",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9dXwEdJDZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9dXwEdJDZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9dXwEdJDZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j9dXwEdJDZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j9dXwEdJDZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Insider",
+        "tags": ["Insider", "Oppenheimer", "Bomb", "Nuclear bomb"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nuclear-Weapons Expert Breaks Down 8 Nuclear Bombs In Movies And TV | How Real Is It? | Insider",
+          "description": "Nuclear-weapons physicist Greg Spriggs rates seven nuclear-explosion scenes in movies.\n\nHe analyzes the portrayal of nuclear detonations and their effects in Steven Spielberg’s “Indiana Jones and the Kingdom of the Crystal Skull” (2008), starring Harrison Ford; “Broken Arrow” (1996), starring John Travolta; Christopher Nolan’s “The Dark Knight Rises” (2012), starring Christian Bale, Tom Hardy, and Anne Hathaway; and Stanley Kubrick’s “Dr. Strangelove” (1964). He also comments on what a nuclear explosion in outer space would really look like in comparison to Marvel’s “The Avengers” (2012), starring Robert Downey Jr., Chris Evans, Chris Hemsworth, and Scarlett Johansson; and Michael Bay’s “Armageddon” (1998), starring Ben Affleck, Bruce Willis, and Liv Tyler. He breaks down the underwater detonation seen in “American Assassin” (2017), starring Michael Keaton. And he explains how accurate Christopher Nolan’s recreation of the construction of the first atomic bomb in Los Alamos and the subsequent Trinity test was in \"Oppenheimer” (2023), starring Cillian Murphy, Matt Damon, Emily Blunt, and Florence Pugh.\n\nSpriggs has been a nuclear-weapons physicist at Lawrence Livermore National Laboratory for 20 years. He worked on a special project where he scanned, reanalyzed, and declassified old nuclear test films.\n\nYou can find more information about the Livermore National Laboratory at: www.llnl.gov\n\nThese movies show simulations of the effects of using nuclear weapons near the public. To date, the 1945 atomic bombings at Hiroshima and Nagasaki are the only instances of nuclear weapons being detonated as an act of war.\n\nMORE HOW REAL IS IT? VIDEOS:\nFormer Bank Robber Breaks Down 9 More Bank Heists In Movies and TV | How Real Is It? | Insider\nhttps://www.youtube.com/watch?v=yH3gFE15Ivc\nWeapons Masters Rate 85 Fight Scenes in Movies and TV | How Real Is It | Insider\nhttps://www.youtube.com/watch?v=rOAMYgaPTmU\nMilitary Tank Expert Rates 9 More Tank Battles In Movies And TV | Insider\nhttps://www.youtube.com/watch?v=w1rrz-PHX0c\n\n------------------------------------------------------\n\n#nuclearwar #movies #insider \n\nInsider is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the rest. It’s smart. It’s fearless. It’s fun. We push the boundaries of digital storytelling. Our mission is to inform and inspire. \n\nVisit our homepage for the top stories of the day: https://www.insider.com\nInsider on Facebook: https://www.facebook.com/insider\nInsider on Instagram: https://www.instagram.com/insider\nInsider on Twitter: https://twitter.com/thisisinsider\nInsider on Snapchat: https://www.snapchat.com/discover/Insider/2708030621\nInsider on TikTok: https://www.tiktok.com/@insider\n\nNuclear-Weapons Expert Breaks Down 8 Nuclear Bombs In Movies And TV | How Real Is It? | Insider"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "324345",
+        "likeCount": "7094",
+        "favoriteCount": "0",
+        "commentCount": "432"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NGePgSsIDwc4_ZkifTLfw4zKf7w",
+      "id": "otB7OgkpdWI",
+      "snippet": {
+        "publishedAt": "2023-08-15T19:01:49Z",
+        "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+        "title": "Plasma and Salt Water Electric Vortex, Document Free Energy Clean Up",
+        "description": "Visit https://brilliant.org/electroboom to get a 30-day free trial + the first 200 people will get 20% off their annual subscription.\nI finally got around to go over every entry in my idea document! Free energy garbage, some interesting ideas to through in a new video and a bunch of fake products to likely buy and try! Stay tuned…\n\nGet your ElectroBOOM Bundle at https://www.circuitspecialists.com/electroboom-101-kit.html\nMy new MERCH:  https://electroboom.creator-spring.com\nThanks for your support @ http://patreon.com/electroboom\n\nPost your submissions to: http://reddit.com/r/electroboom \n\nMy Facebook:  http://www.facebook.com/ElectroBOOM\nMy Twitter:   http://twitter.com/electroboomguy\nMy other articles:  https://www.electroboom.com/\n\nThanks to Circuit Specialists for proving my essential lab tools, my referral link: https://www.circuitspecialists.com/?ref=l2p0t4z1 \n\nAlso thanks to Keysight for their awesome scopes and meters: http://keysight.com \n\nAnd thanks to Lulzbot for 3D printer and filaments: https://lulzbot.com\n\nCheckout my Amazon picks (my affiliate link): https://www.amazon.com/shop/Electroboom\n\nBelow are my Super Patrons with support to the extreme!\n\nEIM Technology at https://www.eimtechnology.com/ \nNicholas Moller at https://www.usbmemorydirect.com\nSam Lutfi\nZoddy\n\nMy sponsors and top patrons: http://www.electroboom.com/?page_id=727\n\nEnter your school for tools: https://goo.gl/forms/VAgRre8rLVvA1cEi2\n\nBy: Mehdi Sadaghdar\n\n0:00 Intro\n0:47 Plasma Vortex\n2:24 Salt Water Vortex\n3:28 Coherer Effect, I should make a video about it!\n4:55 IE Zerogrid Earth Engine Free Energy IS FAKE!! Magnets don't supply energy.\n8:48 Hutchison Effect is fake too, as well as Orgone Energy... what's new?!\n9:51 5G Bioshield?! I should buy all these junk and try them!\n10:20 Ancient Pyramid Free Energy Source\n11:04 Note to self, make a video on plasma ball...\n11:51 Graduated Electronic Decelerator (GED), let's not make this one\n12:43 Free Energy Seems Legit?!\n13:32 I was wrong about free energy...\n14:28 Even free energy flywheel can be real... NOT!\n15:17 Get me 500k likes and I buy this garbage!\n15:51 I think you should get Brillint.org/electroboom to LEARN!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otB7OgkpdWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otB7OgkpdWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otB7OgkpdWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/otB7OgkpdWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/otB7OgkpdWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ElectroBOOM",
+        "tags": [
+          "educational",
+          "electrical",
+          "ElectroBOOM",
+          "science",
+          "electronics",
+          "engineering",
+          "entertainment",
+          "equipment",
+          "measurement",
+          "experiment",
+          "mehdi",
+          "mehdi sadaghdar",
+          "arc",
+          "mishap",
+          "physics",
+          "Sadaghdar",
+          "test",
+          "tools",
+          "circuit",
+          "funny",
+          "learn",
+          "shock",
+          "spark",
+          "discharge"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Plasma and Salt Water Electric Vortex, Document Free Energy Clean Up",
+          "description": "Visit https://brilliant.org/electroboom to get a 30-day free trial + the first 200 people will get 20% off their annual subscription.\nI finally got around to go over every entry in my idea document! Free energy garbage, some interesting ideas to through in a new video and a bunch of fake products to likely buy and try! Stay tuned…\n\nGet your ElectroBOOM Bundle at https://www.circuitspecialists.com/electroboom-101-kit.html\nMy new MERCH:  https://electroboom.creator-spring.com\nThanks for your support @ http://patreon.com/electroboom\n\nPost your submissions to: http://reddit.com/r/electroboom \n\nMy Facebook:  http://www.facebook.com/ElectroBOOM\nMy Twitter:   http://twitter.com/electroboomguy\nMy other articles:  https://www.electroboom.com/\n\nThanks to Circuit Specialists for proving my essential lab tools, my referral link: https://www.circuitspecialists.com/?ref=l2p0t4z1 \n\nAlso thanks to Keysight for their awesome scopes and meters: http://keysight.com \n\nAnd thanks to Lulzbot for 3D printer and filaments: https://lulzbot.com\n\nCheckout my Amazon picks (my affiliate link): https://www.amazon.com/shop/Electroboom\n\nBelow are my Super Patrons with support to the extreme!\n\nEIM Technology at https://www.eimtechnology.com/ \nNicholas Moller at https://www.usbmemorydirect.com\nSam Lutfi\nZoddy\n\nMy sponsors and top patrons: http://www.electroboom.com/?page_id=727\n\nEnter your school for tools: https://goo.gl/forms/VAgRre8rLVvA1cEi2\n\nBy: Mehdi Sadaghdar\n\n0:00 Intro\n0:47 Plasma Vortex\n2:24 Salt Water Vortex\n3:28 Coherer Effect, I should make a video about it!\n4:55 IE Zerogrid Earth Engine Free Energy IS FAKE!! Magnets don't supply energy.\n8:48 Hutchison Effect is fake too, as well as Orgone Energy... what's new?!\n9:51 5G Bioshield?! I should buy all these junk and try them!\n10:20 Ancient Pyramid Free Energy Source\n11:04 Note to self, make a video on plasma ball...\n11:51 Graduated Electronic Decelerator (GED), let's not make this one\n12:43 Free Energy Seems Legit?!\n13:32 I was wrong about free energy...\n14:28 Even free energy flywheel can be real... NOT!\n15:17 Get me 500k likes and I buy this garbage!\n15:51 I think you should get Brillint.org/electroboom to LEARN!!!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "469539",
+        "likeCount": "58846",
+        "favoriteCount": "0",
+        "commentCount": "2063"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Flt0D5H8XuC_-7YZy3kjyMmX-K8",
+      "id": "skKv80AdHUQ",
+      "snippet": {
+        "publishedAt": "2023-08-15T15:53:03Z",
+        "channelId": "UCMvJjqVlkSJ9x8hJwcfw4nQ",
+        "title": "NBA 2K24 NEW *PRO PLAY* GAMEPLAY - EXCLUSIVE MIKE WANG INTERVIEW - ADRENALINE, REVAMPED DEFENSE",
+        "description": "NBA 2K24 Gameplay is here! Mike Wang talks about NBA 2K24 revamped defense system, NBA 2K24 new dribbling system including the NEW REDISIGNED ADRENALINE SYSTEM, the new 2K24 shooting mechanics and much much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skKv80AdHUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skKv80AdHUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skKv80AdHUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skKv80AdHUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skKv80AdHUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Joe Knows",
+        "tags": [
+          "nba 2k24",
+          "nba2k24",
+          "nba 2k24 gameplay",
+          "nba2k24 gameplay",
+          "nba 2k24 pro play",
+          "nba2k24 pro play",
+          "new nba 2k24",
+          "nba 2k24 news",
+          "nba2k24 news",
+          "nba 2k24 defense",
+          "nba 2k24 leaks",
+          "nba 2k24 trailer",
+          "nba2k24 trailer"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NBA 2K24 NEW *PRO PLAY* GAMEPLAY - EXCLUSIVE MIKE WANG INTERVIEW - ADRENALINE, REVAMPED DEFENSE",
+          "description": "NBA 2K24 Gameplay is here! Mike Wang talks about NBA 2K24 revamped defense system, NBA 2K24 new dribbling system including the NEW REDISIGNED ADRENALINE SYSTEM, the new 2K24 shooting mechanics and much much more!"
+        }
+      },
+      "statistics": {
+        "viewCount": "113314",
+        "likeCount": "3956",
+        "favoriteCount": "0",
+        "commentCount": "470"
+      }
+    }
+  ],
+  "nextPageToken": "CDAQAA",
+  "prevPageToken": "CBgQAQ",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 24
+  }
+}

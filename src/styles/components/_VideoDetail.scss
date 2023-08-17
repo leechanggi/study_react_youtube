@@ -44,6 +44,61 @@
           &_title {
             font-size: rem-calc(20);
           }
+          &_channel {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 6px;
+            .channel {
+              &_des {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                .des {
+                  &_img {
+                    display: block;
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                    object-fit: scale-down;
+                  }
+                  &_info {
+                    padding-left: 12px;
+                    .info {
+                      &_title {
+                        font-size: rem-calc(16);
+                        font-weight: 400;
+                      }
+                      &_subscriberCount {
+                        font-size: rem-calc(12);
+                        @include theme-picker(color, color_info);
+                      }
+                    }
+                  }
+                }
+              }
+              &_button {
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                .button {
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  height: 36px;
+                  padding: 0 12px;
+                  transition: background-color 200ms ease;
+                  font-size: rem-calc(14);
+                  border-radius: 18px;
+                  @include theme-picker(color);
+                  @include theme-picker(background-color, background-color_box);
+                  &:hover {
+                    @include theme-picker(background-color, background-color_box-hover);
+                  }
+                }
+              }
+            }
+          }
           &_box {
             margin-top: 12px;
             padding: 12px;

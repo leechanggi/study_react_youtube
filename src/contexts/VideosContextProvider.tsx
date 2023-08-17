@@ -1,6 +1,6 @@
 import React, { createContext, PropsWithChildren } from "react";
 import { useLocation, useSearchParams } from "react-router-dom";
-import { useQuery } from "@tanstack/react-query";
+import { useQuery, useInfiniteQuery } from "@tanstack/react-query";
 import HttpClient from "../network/http";
 import VideoService from "../service/video";
 
@@ -44,7 +44,7 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
     return videoService.getVideos();
   };
   const { isLoading, isFetching, error, data } = useQuery(queryKey, queryFn, {
-    staleTime: 1000 * 60 * 30,
+    staleTime: 1000 * 60 * 5,
   });
 
   return (

@@ -11,9 +11,9 @@ export default class VideoService {
     this.API_KEY = API_KEY;
   }
 
-  private async getVideosWithChannelInfo(videos: { items: any[] }) {
+  private async getVideosWithChannelInfo(videos: any[]) {
     return Promise.all(
-      videos.items.map(async (video: any) => {
+      videos.map(async (video: any) => {
         const channelInfo = await this.getChannelsByVideoId(video.id);
         return { ...video, channel: channelInfo[0] };
       })
@@ -23,7 +23,7 @@ export default class VideoService {
   async getVideos() {
     const videos =
       this.MODE_DEV === true
-        ? await this.http.fetch("/data/videos.json", { method: "GET" }).then((data) => data)
+        ? await this.http.fetch("/data/videos.json", { method: "GET" }).then((data) => data.items)
         : await this.http
             .fetch("/videos", {
               method: "GET",
@@ -34,7 +34,7 @@ export default class VideoService {
                 key: this.API_KEY,
               },
             })
-            .then((data) => data);
+            .then((data) => data.items);
 
     return this.getVideosWithChannelInfo(videos);
   }
@@ -42,13 +42,12 @@ export default class VideoService {
   async getVideosByKeyword(keyword: string) {
     const videos =
       this.MODE_DEV === true
-        ? await this.http.fetch("/data/videosByKeyword.json", { method: "GET" }).then((data) => {
-            const items = data.items.map((item: { id: { videoId: string } }) => ({
+        ? await this.http.fetch("/data/videosByKeyword.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
               ...item,
               id: item.id.videoId,
-            }));
-            return { ...data, items };
-          })
+            }))
+          )
         : await this.http
             .fetch("/search", {
               method: "GET",
@@ -60,13 +59,12 @@ export default class VideoService {
                 key: this.API_KEY,
               },
             })
-            .then((data) => {
-              const items = data.items.map((item: { id: { videoId: string } }) => ({
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
                 ...item,
                 id: item.id.videoId,
-              }));
-              return { ...data, items };
-            });
+              }))
+            );
 
     return this.getVideosWithChannelInfo(videos);
   }
@@ -76,7 +74,7 @@ export default class VideoService {
       this.MODE_DEV === true
         ? await this.http
             .fetch("/data/videosByVideoId.json", { method: "GET" })
-            .then((data) => data)
+            .then((data) => data.items)
         : await this.http
             .fetch("videos", {
               method: "GET",
@@ -86,7 +84,7 @@ export default class VideoService {
                 key: this.API_KEY,
               },
             })
-            .then((data) => data);
+            .then((data) => data.items);
 
     return this.getVideosWithChannelInfo(videos);
   }
@@ -94,13 +92,12 @@ export default class VideoService {
   async getVideosByTopicId(topicId: string) {
     const videos =
       this.MODE_DEV === true
-        ? await this.http.fetch("/data/videosByTopicId.json", { method: "GET" }).then((data) => {
-            const items = data.items.map((item: { id: { videoId: string } }) => ({
+        ? await this.http.fetch("/data/videosByTopicId.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
               ...item,
               id: item.id.videoId,
-            }));
-            return { ...data, items };
-          })
+            }))
+          )
         : await this.http
             .fetch("search", {
               method: "GET",
@@ -112,20 +109,21 @@ export default class VideoService {
                 key: this.API_KEY,
               },
             })
-            .then((data) => {
-              const items = data.items.map((item: { id: { videoId: string } }) => ({
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
                 ...item,
                 id: item.id.videoId,
-              }));
-              return { ...data, items };
-            });
+              }))
+            );
 
     return this.getVideosWithChannelInfo(videos);
   }
 
   async getChannelsByVideoId(videoId: string) {
     if (this.MODE_DEV === true) {
-      return this.http.fetch("/data/channelsById.json", { method: "GET" }).then((data) => data);
+      return this.http
+        .fetch("/data/channelsById.json", { method: "GET" })
+        .then((data) => data.items);
     } else {
       return this.http
         .fetch("search", {
@@ -136,7 +134,7 @@ export default class VideoService {
             key: this.API_KEY,
           },
         })
-        .then((data) => data);
+        .then((data) => data.items);
     }
   }
 }

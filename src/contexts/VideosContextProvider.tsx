@@ -43,21 +43,21 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
     }
     return videoService.getVideos();
   };
-  const { hasNextPage, hasPreviousPage, isFetchingNextPage, isFetchingPreviousPage } = useInfiniteQuery(queryKey, queryFn, {
+  const { isLoading, isFetching, error, data } = useQuery(queryKey, queryFn, {
     staleTime: 1000 * 60 * 5,
   });
 
   return (
-    // <VideosContext.Provider
-    //   value={{
-    //     videosIsLoading: isLoading,
-    //     videosIsFetching: isFetching,
-    //     videosError: error as Error | null,
-    //     videosData: data,
-    //   }}
-    // >
-    //   {children}
-    // </VideosContext.Provider>
+    <VideosContext.Provider
+      value={{
+        videosIsLoading: isLoading,
+        videosIsFetching: isFetching,
+        videosError: error as Error | null,
+        videosData: data,
+      }}
+    >
+      {children}
+    </VideosContext.Provider>
   );
 };
 

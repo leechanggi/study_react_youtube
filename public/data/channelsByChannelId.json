@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "WWxhCczAXNyOexjZdo9nagQPtM4",
+  "etag": "14ZgTFF8z9d8cKP-w_U3Xitz04k",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "fqYzJYEP-eHirvT6pKwkRNBXzp8",
+      "etag": "bmayW0naplYthrJy4XGAMGTjVCM",
       "id": "UCUj6rrhMTR9pipbAWBAMvUQ",
       "snippet": {
         "title": "침착맨",
@@ -39,7 +39,7 @@
         "country": "KR"
       },
       "statistics": {
-        "viewCount": "1813503793",
+        "viewCount": "1815052966",
         "subscriberCount": "2240000",
         "hiddenSubscriberCount": false,
         "videoCount": "6603"

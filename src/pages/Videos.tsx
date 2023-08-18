@@ -7,7 +7,6 @@ export default function Videos() {
   const { data, error, fetchNextPage, hasNextPage, isLoading, isFetching } =
     useContext(VideosContext);
 
-  // console.log(data);
   useEffect(() => {
     console.log(data);
   }, [data]);

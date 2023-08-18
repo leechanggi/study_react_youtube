@@ -31,7 +31,7 @@ export const VideosContext = createContext<IVideosContext>({
 });
 
 const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
-  const [pageToken, setPageToken] = useState<string>("");
+  const [pageToken, setPageToken] = useState<string>();
   const locationPath = useLocation().pathname.split("/");
   const [searchParams] = useSearchParams();
   const keyword = searchParams.get("q");
@@ -48,10 +48,18 @@ const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
   // };
 
   const fetchVideos = async ({ pageParam = pageToken }: { pageParam?: string }) => {
-    const res =
+    let res: any;
+    if (typeof pageParam !== "string") {
+      res =
+        locationPath[1] === "videos" && keyword !== null
+          ? await videoService.getVideosByKeyword(keyword, pageParam)
+          : await videoService.getVideos(pageParam);
+    }
+
+    res =
       locationPath[1] === "videos" && keyword !== null
-        ? await videoService.getVideosByKeyword(keyword, pageParam)
-        : await videoService.getVideos(pageParam);
+        ? await videoService.getVideosByKeyword(keyword)
+        : await videoService.getVideos();
 
     res.nextPageToken && setPageToken(res.nextPageToken);
     return res;

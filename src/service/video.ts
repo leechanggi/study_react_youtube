@@ -30,7 +30,7 @@ export default class VideoService {
               params: {
                 part: "snippet,statistics",
                 chart: "mostPopular",
-                maxResults: "24",
+                maxResults: "30",
                 key: this.API_KEY,
               },
             })
@@ -53,7 +53,7 @@ export default class VideoService {
               method: "GET",
               params: {
                 part: "snippet",
-                maxResults: "24",
+                maxResults: "30",
                 type: "video",
                 q: keyword,
                 key: this.API_KEY,
@@ -76,7 +76,7 @@ export default class VideoService {
             .fetch("/data/videosByVideoId.json", { method: "GET" })
             .then((data) => data.items)
         : await this.http
-            .fetch("videos", {
+            .fetch("/videos", {
               method: "GET",
               params: {
                 part: "snippet,statistics",
@@ -99,11 +99,11 @@ export default class VideoService {
             }))
           )
         : await this.http
-            .fetch("search", {
+            .fetch("/search", {
               method: "GET",
               params: {
                 part: "snippet",
-                maxResults: "8",
+                maxResults: "10",
                 type: "video",
                 topicId: topicId,
                 key: this.API_KEY,
@@ -126,7 +126,7 @@ export default class VideoService {
         .then((data) => data.items);
     } else {
       return this.http
-        .fetch("search", {
+        .fetch("/search", {
           method: "GET",
           params: {
             part: "snippet,statistics,id",

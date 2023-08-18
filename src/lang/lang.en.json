@@ -1,3 +1,8 @@
 {
-  "test": "english test"
+  "header": {
+    "lang": "ENGLISH"
+  },
+  "videos": {
+    "error": "A network failure has occurred."
+  }
 }

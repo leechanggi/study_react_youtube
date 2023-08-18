@@ -4,7 +4,7 @@ import { initReactI18next } from "react-i18next";
 import langEn from "./lang.en.json";
 import langKo from "./lang.ko.json";
 
-const resource = {
+const resources = {
   "en-US": {
     translation: langEn,
   },
@@ -14,7 +14,7 @@ const resource = {
 };
 
 i18n.use(initReactI18next).init({
-  resources: resource,
+  resources,
   lng: "ko-KR",
   fallbackLng: {
     "en-US": ["en-US"],
@@ -23,7 +23,7 @@ i18n.use(initReactI18next).init({
   debug: true,
   defaultNS: "translation",
   ns: "translation",
-  keySeparator: false,
+  // keySeparator: false,
   interpolation: {
     escapeValue: false,
   },

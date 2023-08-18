@@ -1,57 +1,94 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "x8x3Mqkt5DgX_MLUIuB33EkrOak",
+  "etag": "keMln00TJ9P_40mj6s4DzQtVMhg",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "bjmZLwpvZ7W3sLTJDC_xUHXmpc4",
-      "id": "NJSELLyycyo",
+      "etag": "EMt-iS-3yBqURDhVNhKCj81BhOE",
+      "id": "mHDEDDrGYvo",
       "snippet": {
-        "publishedAt": "2023-08-14T10:00:14Z",
-        "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
-        "title": "궤도 '초전도체' 특강 | 저항 없이 듣는 초전도체 이야기",
-        "description": "▶같이 보면 좋은 추천 영상\n  •쬬전도체: https://youtu.be/wZRF0maw-v0\n\n▶이 영상의 생방송 원본\n  •2023년 8월 4일 방송분: https://www.youtube.com/live/suxoDRhsc4o?feature=share\n\n▶'안될과학 궤도 X 침착맨 과학특강' 모아보기\n•https://www.youtube.com/playlist?list=PLif_jr7pPZACxsaghi1juPYbkM6UJMxXk\n\n▶출연\n  •궤도(@Unrealscience), 침착맨\n\n#침착맨 #안될과학 #궤도 #초전도체 #상온상압초전도체 #LK99 #마이스너효과 #재구조화",
+        "publishedAt": "2023-08-17T17:48:36Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Gameplay Reveal Trailer | Call of Duty: Modern Warfare III",
+        "description": "A dark new chapter begins in Modern Warfare III 🔥\n\n💪 Blockbuster campaign featuring new Open Combat Missions\n🗺️ Iconic Multiplayer maps\n🧟 The largest Call of Duty Zombies map ever\n\nPlus so much more. Ready up for #MW3 soldier 👉 https://a.atvi.com/Pre-OrderMW3\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty\n\n#ModernWarfare3",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NJSELLyycyo/default.jpg",
+            "url": "https://i.ytimg.com/vi/mHDEDDrGYvo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NJSELLyycyo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mHDEDDrGYvo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NJSELLyycyo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mHDEDDrGYvo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/NJSELLyycyo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mHDEDDrGYvo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/NJSELLyycyo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mHDEDDrGYvo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "침착맨",
-        "categoryId": "24",
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "modern warfare 3",
+          "modern warfare iii",
+          "call of duty modern warfare 3",
+          "modern warfare 3 2023",
+          "call of duty 2023",
+          "Warzone",
+          "COD",
+          "video game",
+          "gaming",
+          "online gaming",
+          "multiplayer",
+          "game",
+          "fps",
+          "blizzard",
+          "xbox",
+          "playstation",
+          "pc",
+          "maps",
+          "new call of duty games",
+          "modern warfare",
+          "games",
+          "call of duty updates",
+          "new releases",
+          "teaser",
+          "trailer",
+          "Modern Warfare III",
+          "Call of Duty: Modern Warfare III",
+          "Call of Duty MW3",
+          "Task Force 141",
+          "mw3 trailer",
+          "mw3 gameplay trailer",
+          "mw3 reveal trailer"
+        ],
+        "categoryId": "20",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "궤도 '초전도체' 특강 | 저항 없이 듣는 초전도체 이야기",
-          "description": "▶같이 보면 좋은 추천 영상\n  •쬬전도체: https://youtu.be/wZRF0maw-v0\n\n▶이 영상의 생방송 원본\n  •2023년 8월 4일 방송분: https://www.youtube.com/live/suxoDRhsc4o?feature=share\n\n▶'안될과학 궤도 X 침착맨 과학특강' 모아보기\n•https://www.youtube.com/playlist?list=PLif_jr7pPZACxsaghi1juPYbkM6UJMxXk\n\n▶출연\n  •궤도(@Unrealscience), 침착맨\n\n#침착맨 #안될과학 #궤도 #초전도체 #상온상압초전도체 #LK99 #마이스너효과 #재구조화"
+          "title": "Gameplay Reveal Trailer | Call of Duty: Modern Warfare III",
+          "description": "A dark new chapter begins in Modern Warfare III 🔥\n\n💪 Blockbuster campaign featuring new Open Combat Missions\n🗺️ Iconic Multiplayer maps\n🧟 The largest Call of Duty Zombies map ever\n\nPlus so much more. Ready up for #MW3 soldier 👉 https://a.atvi.com/Pre-OrderMW3\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty\n\n#ModernWarfare3"
         },
-        "defaultAudioLanguage": "ko"
+        "defaultAudioLanguage": "en"
       },
       "statistics": {
-        "viewCount": "927161",
-        "likeCount": "12049",
+        "viewCount": "7252434",
+        "likeCount": "65439",
         "favoriteCount": "0",
-        "commentCount": "895"
+        "commentCount": "8854"
       }
     }
   ],

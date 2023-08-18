@@ -1,10 +1,9 @@
 import { useId } from "react";
 import { Link } from "react-router-dom";
-
 import { BsYoutube } from "react-icons/bs";
-
 import Search from "./Search";
 import ButtonToggleTheme from "./ButtonToggleTheme";
+import ButtonTranslationLang from "./ButtonTranslationLang";
 
 export default function Header() {
   const uniqueId = useId();
@@ -22,6 +21,7 @@ export default function Header() {
             YouTube
           </Link>
           <div className="form-wrap">
+            <ButtonTranslationLang uniqueId={uniqueId} />
             <ButtonToggleTheme uniqueId={uniqueId} />
             <Search />
           </div>

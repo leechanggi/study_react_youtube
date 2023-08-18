@@ -32,7 +32,7 @@ export default function VideoDetailInfo({ data }: any) {
           </div>
           <div className="channel_button">
             <button className="button" type="button">
-              <PiShareFat size={16} color={theme ? "#ffffff" : "#000000"} />
+              <PiShareFat size="1rem" color={theme ? "#ffffff" : "#000000"} />
               공유
             </button>
           </div>

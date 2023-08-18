@@ -18,7 +18,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
+    max-width: $base_large-laptop-width;
     height: 64px;
+    margin: 0 auto;
     padding: 0 16px;
     .logo {
       display: block;
@@ -34,6 +37,14 @@
     .form {
       width: 256px;
       height: 40px;
+    }
+  }
+}
+
+@media screen and (max-width: $base_width) {
+  .header {
+    &_gnb {
+      width: 100%;
     }
   }
 }

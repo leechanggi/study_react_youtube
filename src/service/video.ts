@@ -21,19 +21,16 @@ export default class VideoService {
   }
 
   async getVideos(pageParam?: string) {
-    const params: any = {
-      part: "snippet,statistics",
-      chart: "mostPopular",
-      maxResults: "24",
-      key: this.API_KEY,
-      ...(pageParam && { pageToken: pageParam }),
-    };
-
     const response = await this.http.fetch(this.MODE_DEV ? "/data/videos.json" : "/videos", {
       method: "GET",
-      params,
+      params: {
+        part: "snippet,statistics",
+        chart: "mostPopular",
+        maxResults: "24",
+        key: this.API_KEY,
+        pageToken: pageParam,
+      },
     });
-
     const items = response.items;
     return {
       items: this.getVideosWithChannelInfo(items),
@@ -42,28 +39,24 @@ export default class VideoService {
   }
 
   async getVideosByKeyword(keyword: string, pageParam?: string) {
-    const params: any = {
-      part: "snippet",
-      maxResults: "24",
-      type: "video",
-      q: keyword,
-      key: this.API_KEY,
-      ...(pageParam && { pageToken: pageParam }),
-    };
-
     const response = await this.http.fetch(
       this.MODE_DEV ? "/data/videosByKeyword.json" : "/search",
       {
         method: "GET",
-        params,
+        params: {
+          part: "snippet",
+          maxResults: "24",
+          type: "video",
+          q: keyword,
+          key: this.API_KEY,
+          pageToken: pageParam,
+        },
       }
     );
-
     const items = response.items.map((item: { id: { videoId: string } }) => ({
       ...item,
       id: item.id.videoId,
     }));
-
     return {
       items: this.getVideosWithChannelInfo(items),
       nextPageToken: response.nextPageToken || null,

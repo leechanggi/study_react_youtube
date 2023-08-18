@@ -1,4 +1,4 @@
-import React, { createContext, PropsWithChildren, useState } from "react";
+import React, { createContext, PropsWithChildren } from "react";
 import { useLocation, useSearchParams } from "react-router-dom";
 import { useQuery, useInfiniteQuery } from "@tanstack/react-query";
 import HttpClient from "../network/http";
@@ -9,71 +9,51 @@ const BASE_URL = process.env.REACT_APP_BASE_URL as string;
 const YOUTUBE_URL = process.env.REACT_APP_YOUTUBE_URL as string;
 const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY as string;
 
-const httpClient = new HttpClient(MODE_DEV ? BASE_URL : YOUTUBE_URL);
-const videoService = new VideoService(httpClient, MODE_DEV, YOUTUBE_API_KEY);
+const httpClient = MODE_DEV === true ? new HttpClient(BASE_URL) : new HttpClient(YOUTUBE_URL);
+const videoService =
+  MODE_DEV === true
+    ? new VideoService(httpClient, MODE_DEV)
+    : new VideoService(httpClient, MODE_DEV, YOUTUBE_API_KEY);
 
 export interface IVideosContext {
-  data: any;
-  error: Error | null;
-  fetchNextPage: any;
-  hasNextPage: boolean;
-  isLoading: boolean;
-  isFetching: boolean;
+  videosIsLoading: boolean;
+  videosIsFetching: boolean;
+  videosError: Error | null;
+  videosData: any;
 }
 
 export const VideosContext = createContext<IVideosContext>({
-  data: {},
-  error: null,
-  fetchNextPage: () => {},
-  hasNextPage: false,
-  isLoading: false,
-  isFetching: false,
+  videosIsLoading: false,
+  videosIsFetching: false,
+  videosError: null,
+  videosData: {},
 });
 
 const VideosContextProvider: React.FC<PropsWithChildren> = ({ children }) => {
-  const [pageToken, setPageToken] = useState<string>("");
-  const locationPath = useLocation().pathname.split("/");
+  const location = useLocation();
+  const locationPath = location.pathname.split("/");
   const [searchParams] = useSearchParams();
+
   const keyword = searchParams.get("q");
 
-  // const queryKey = ["videos", keyword, pageToken];
-  // const queryFn = async () => {
-  //   const queryResult =
-  //     locationPath[1] === "videos" && keyword !== null
-  //       ? await videoService.getVideosByKeyword(keyword)
-  //       : await videoService.getVideos();
-
-  //   setPageToken(queryResult.nextPageToken);
-  //   return queryResult.items;
-  // };
-
-  const fetchVideos = async ({ pageParam = pageToken }: { pageParam?: string }) => {
-    const res =
-      locationPath[1] === "videos" && keyword !== null
-        ? await videoService.getVideosByKeyword(keyword, pageParam)
-        : await videoService.getVideos(pageParam);
-
-    res.nextPageToken && setPageToken(res.nextPageToken);
-    return res;
-  };
-
-  const { data, error, fetchNextPage, hasNextPage, isLoading, isFetching } = useInfiniteQuery(
-    ["videos", keyword],
-    fetchVideos,
-    {
-      getNextPageParam: (lastPage) => lastPage.nextPageToken || null,
+  const queryKey = ["videos", keyword];
+  const queryFn = async () => {
+    if (locationPath[1] === "videos" && keyword !== null) {
+      return videoService.getVideosByKeyword(keyword);
     }
-  );
+    return videoService.getVideos();
+  };
+  const { isLoading, isFetching, error, data } = useQuery(queryKey, queryFn, {
+    staleTime: 1000 * 60 * 5,
+  });
 
   return (
     <VideosContext.Provider
       value={{
-        data,
-        error: error as Error | null,
-        fetchNextPage,
-        hasNextPage: Boolean(hasNextPage),
-        isLoading,
-        isFetching,
+        videosIsLoading: isLoading,
+        videosIsFetching: isFetching,
+        videosError: error as Error | null,
+        videosData: data,
       }}
     >
       {children}

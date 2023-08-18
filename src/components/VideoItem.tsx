@@ -20,9 +20,9 @@ export default function VideoItem({ video }: any) {
           </div>
           <div className="info_des">
             <p className="des_title ellipsis-2">{video.snippet.title}</p>
-            <p className="des_channelTitle ellipsis">{video.channel.snippet.title}</p>
+            <p className="des_channelTitle ellipsis">{video.snippet.channelTitle}</p>
             <p className="des_etc">
-              <span className="dex_viewCount">{`${video.channel.statistics.viewCount} view`}</span>
+              <span className="dex_viewCount">{`${video.statistics.viewCount} view`}</span>
               <LastSeen className="des_timeago" date={video.snippet.publishedAt} locale="en" />
             </p>
           </div>

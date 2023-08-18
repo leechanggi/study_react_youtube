@@ -11,106 +11,130 @@ export default class VideoService {
     this.API_KEY = API_KEY;
   }
 
-  private async getVideosWithChannelInfo(items: any[]) {
+  private async getVideosWithChannelInfo(videos: any[]) {
     return Promise.all(
-      items.map(async (item: any) => {
-        const channelInfo = await this.getChannelsByChannelId(item.snippet.channelId);
-        return { ...item, channel: channelInfo[0] };
+      videos.map(async (video: any) => {
+        const channelInfo = await this.getChannelsByVideoId(video.id);
+        return { ...video, channel: channelInfo[0] };
       })
     );
   }
 
-  async getVideos(pageParam?: string) {
-    const response = await this.http.fetch(this.MODE_DEV ? "/data/videos.json" : "/videos", {
-      method: "GET",
-      params: {
-        part: "snippet,statistics",
-        chart: "mostPopular",
-        maxResults: "24",
-        key: this.API_KEY,
-        pageToken: pageParam,
-      },
-    });
-    const items = response.items;
-    return {
-      items: this.getVideosWithChannelInfo(items),
-      nextPageToken: response.nextPageToken || null,
-    };
+  async getVideos() {
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http.fetch("/data/videos.json", { method: "GET" }).then((data) => data.items)
+        : await this.http
+            .fetch("/videos", {
+              method: "GET",
+              params: {
+                part: "snippet,statistics",
+                chart: "mostPopular",
+                maxResults: "24",
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
-  async getVideosByKeyword(keyword: string, pageParam?: string) {
-    const response = await this.http.fetch(
-      this.MODE_DEV ? "/data/videosByKeyword.json" : "/search",
-      {
-        method: "GET",
-        params: {
-          part: "snippet",
-          maxResults: "24",
-          type: "video",
-          q: keyword,
-          key: this.API_KEY,
-          pageToken: pageParam,
-        },
-      }
-    );
-    const items = response.items.map((item: { id: { videoId: string } }) => ({
-      ...item,
-      id: item.id.videoId,
-    }));
-    return {
-      items: this.getVideosWithChannelInfo(items),
-      nextPageToken: response.nextPageToken || null,
-    };
+  async getVideosByKeyword(keyword: string) {
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http.fetch("/data/videosByKeyword.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
+              ...item,
+              id: item.id.videoId,
+            }))
+          )
+        : await this.http
+            .fetch("/search", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                maxResults: "24",
+                type: "video",
+                q: keyword,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
+                ...item,
+                id: item.id.videoId,
+              }))
+            );
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
   async getVideosByVideoId(videoId: string) {
-    const response = await this.http.fetch(
-      this.MODE_DEV ? "/data/videosByVideoId.json" : "videos",
-      {
-        method: "GET",
-        params: {
-          part: "snippet,statistics",
-          id: videoId,
-          key: this.API_KEY,
-        },
-      }
-    );
-    return this.getVideosWithChannelInfo(response.items);
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http
+            .fetch("/data/videosByVideoId.json", { method: "GET" })
+            .then((data) => data.items)
+        : await this.http
+            .fetch("videos", {
+              method: "GET",
+              params: {
+                part: "snippet,statistics",
+                id: videoId,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) => data.items);
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
   async getVideosByTopicId(topicId: string) {
-    const response = await this.http.fetch(
-      this.MODE_DEV ? "/data/videosByTopicId.json" : "search",
-      {
-        method: "GET",
-        params: {
-          part: "snippet",
-          maxResults: "8",
-          type: "video",
-          topicId: topicId,
-          key: this.API_KEY,
-        },
-      }
-    );
-    const items = response.items.map((item: { id: { videoId: string } }) => ({
-      ...item,
-      id: item.id.videoId,
-    }));
-    return this.getVideosWithChannelInfo(items);
+    const videos =
+      this.MODE_DEV === true
+        ? await this.http.fetch("/data/videosByTopicId.json", { method: "GET" }).then((data) =>
+            data.items.map((item: { id: { videoId: string } }) => ({
+              ...item,
+              id: item.id.videoId,
+            }))
+          )
+        : await this.http
+            .fetch("search", {
+              method: "GET",
+              params: {
+                part: "snippet",
+                maxResults: "8",
+                type: "video",
+                topicId: topicId,
+                key: this.API_KEY,
+              },
+            })
+            .then((data) =>
+              data.items.map((item: { id: { videoId: string } }) => ({
+                ...item,
+                id: item.id.videoId,
+              }))
+            );
+
+    return this.getVideosWithChannelInfo(videos);
   }
 
-  async getChannelsByChannelId(channelId: string) {
-    const response = await this.http.fetch(
-      this.MODE_DEV ? "/data/channelsByChannelId.json" : "channels",
-      {
-        method: "GET",
-        params: {
-          part: "id,snippet,statistics",
-          id: channelId,
-          key: this.API_KEY,
-        },
-      }
-    );
-    return response.items;
+  async getChannelsByVideoId(videoId: string) {
+    if (this.MODE_DEV === true) {
+      return this.http
+        .fetch("/data/channelsById.json", { method: "GET" })
+        .then((data) => data.items);
+    } else {
+      return this.http
+        .fetch("search", {
+          method: "GET",
+          params: {
+            part: "snippet,statistics,id",
+            id: videoId,
+            key: this.API_KEY,
+          },
+        })
+        .then((data) => data.items);
+    }
   }
 }
